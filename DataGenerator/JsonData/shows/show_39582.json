@@ -1,0 +1,35 @@
+[
+  {
+    "person": {
+      "id": 219463,
+      "url": "http://www.tvmaze.com/people/219463/ophelie-meunier",
+      "name": "Ophélie Meunier",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434884.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434884.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219463"
+        }
+      }
+    },
+    "character": {
+      "id": 570296,
+      "url": "http://www.tvmaze.com/characters/570296/zone-interdite-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570296"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

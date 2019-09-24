@@ -1,0 +1,92 @@
+[
+  {
+    "person": {
+      "id": 173868,
+      "url": "http://www.tvmaze.com/people/173868/jonathan-sutherland",
+      "name": "Jonathan Sutherland",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/173868"
+        }
+      }
+    },
+    "character": {
+      "id": 416276,
+      "url": "http://www.tvmaze.com/characters/416276/sportscene-presenter",
+      "name": "Presenter",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/416276"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 173867,
+      "url": "http://www.tvmaze.com/people/173867/david-currie",
+      "name": "David Currie",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/173867"
+        }
+      }
+    },
+    "character": {
+      "id": 416274,
+      "url": "http://www.tvmaze.com/characters/416274/sportscene-presenter",
+      "name": "Presenter",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/416274"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 175834,
+      "url": "http://www.tvmaze.com/people/175834/rob-maclean",
+      "name": "Rob Maclean",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/175834"
+        }
+      }
+    },
+    "character": {
+      "id": 422306,
+      "url": "http://www.tvmaze.com/characters/422306/sportscene-presenter",
+      "name": "Presenter",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/422306"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

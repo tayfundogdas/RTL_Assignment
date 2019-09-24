@@ -1,0 +1,92 @@
+[
+  {
+    "person": {
+      "id": 132411,
+      "url": "http://www.tvmaze.com/people/132411/julia-baird",
+      "name": "Julia Baird",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/132411"
+        }
+      }
+    },
+    "character": {
+      "id": 286225,
+      "url": "http://www.tvmaze.com/characters/286225/the-drum-julia-baird",
+      "name": "Julia Baird",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/286225"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 132412,
+      "url": "http://www.tvmaze.com/people/132412/john-barron",
+      "name": "John Barron",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/132412"
+        }
+      }
+    },
+    "character": {
+      "id": 286226,
+      "url": "http://www.tvmaze.com/characters/286226/the-drum-john-barron",
+      "name": "John Barron",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/286226"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 134815,
+      "url": "http://www.tvmaze.com/people/134815/tracey-spicer",
+      "name": "Tracey Spicer",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/134815"
+        }
+      }
+    },
+    "character": {
+      "id": 294504,
+      "url": "http://www.tvmaze.com/characters/294504/the-drum-tracey-spicer",
+      "name": "Tracey Spicer",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/294504"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

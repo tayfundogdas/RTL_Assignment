@@ -1,0 +1,178 @@
+[
+  {
+    "person": {
+      "id": 65834,
+      "url": "http://www.tvmaze.com/people/65834/chuck-todd",
+      "name": "Chuck Todd",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1972-04-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30547.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30547.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/65834"
+        }
+      }
+    },
+    "character": {
+      "id": 206552,
+      "url": "http://www.tvmaze.com/characters/206552/meet-the-press-host-moderator",
+      "name": "Host & Moderator",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/206552"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 108921,
+      "url": "http://www.tvmaze.com/people/108921/chris-wallace",
+      "name": "Chris Wallace",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1947-10-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/36/91488.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/36/91488.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/108921"
+        }
+      }
+    },
+    "character": {
+      "id": 552387,
+      "url": "http://www.tvmaze.com/characters/552387/meet-the-press-host-moderator",
+      "name": "Host & Moderator",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/552387"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 128012,
+      "url": "http://www.tvmaze.com/people/128012/lawrence-e-spivak",
+      "name": "Lawrence E. Spivak",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1900-06-11",
+      "deathday": "1994-03-09",
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/128012"
+        }
+      }
+    },
+    "character": {
+      "id": 552390,
+      "url": "http://www.tvmaze.com/characters/552390/meet-the-press-host-moderator",
+      "name": "Host & Moderator",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/552390"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 214144,
+      "url": "http://www.tvmaze.com/people/214144/garrick-utley",
+      "name": "Garrick Utley",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1939-11-19",
+      "deathday": "2014-02-20",
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/214144"
+        }
+      }
+    },
+    "character": {
+      "id": 552388,
+      "url": "http://www.tvmaze.com/characters/552388/meet-the-press-host-moderator",
+      "name": "Host & Moderator",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/552388"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 214145,
+      "url": "http://www.tvmaze.com/people/214145/tim-russert",
+      "name": "Tim Russert",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1950-05-07",
+      "deathday": "2008-06-13",
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/214145"
+        }
+      }
+    },
+    "character": {
+      "id": 552389,
+      "url": "http://www.tvmaze.com/characters/552389/meet-the-press-host-moderator",
+      "name": "Host & Moderator",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/552389"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

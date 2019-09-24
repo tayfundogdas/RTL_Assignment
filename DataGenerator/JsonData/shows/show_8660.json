@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 132413,
+      "url": "http://www.tvmaze.com/people/132413/sarah-ferguson",
+      "name": "Sarah Ferguson",
+      "country": {
+        "name": "Nigeria",
+        "code": "NG",
+        "timezone": "Africa/Lagos"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/114/287393.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/114/287393.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/132413"
+        }
+      }
+    },
+    "character": {
+      "id": 286229,
+      "url": "http://www.tvmaze.com/characters/286229/four-corners-sarah-ferguson",
+      "name": "Sarah Ferguson",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/286229"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

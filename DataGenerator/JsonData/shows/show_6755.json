@@ -1,0 +1,3175 @@
+[
+  {
+    "person": {
+      "id": 110252,
+      "url": "http://www.tvmaze.com/people/110252/johnny-carson",
+      "name": "Johnny Carson",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1925-10-23",
+      "deathday": "2005-01-23",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/37/93731.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/37/93731.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/110252"
+        }
+      }
+    },
+    "character": {
+      "id": 297592,
+      "url": "http://www.tvmaze.com/characters/297592/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297592"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 90230,
+      "url": "http://www.tvmaze.com/people/90230/joey-bishop",
+      "name": "Joey Bishop",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1918-02-03",
+      "deathday": "2007-10-17",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/76/190599.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/76/190599.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90230"
+        }
+      }
+    },
+    "character": {
+      "id": 297575,
+      "url": "http://www.tvmaze.com/characters/297575/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297575"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 57392,
+      "url": "http://www.tvmaze.com/people/57392/ellen-degeneres",
+      "name": "Ellen DeGeneres",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1958-01-26",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/11/29905.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/11/29905.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/57392"
+        }
+      }
+    },
+    "character": {
+      "id": 297620,
+      "url": "http://www.tvmaze.com/characters/297620/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297620"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 73686,
+      "url": "http://www.tvmaze.com/people/73686/dennis-miller",
+      "name": "Dennis Miller",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1953-11-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/75/189817.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/75/189817.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/73686"
+        }
+      }
+    },
+    "character": {
+      "id": 297616,
+      "url": "http://www.tvmaze.com/characters/297616/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297616"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 117900,
+      "url": "http://www.tvmaze.com/people/117900/garry-shandling",
+      "name": "Garry Shandling",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1949-11-29",
+      "deathday": "2016-03-24",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/46/116443.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/46/116443.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/117900"
+        }
+      }
+    },
+    "character": {
+      "id": 297630,
+      "url": "http://www.tvmaze.com/characters/297630/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297630"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 122349,
+      "url": "http://www.tvmaze.com/people/122349/danny-thomas",
+      "name": "Danny Thomas",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1912-01-06",
+      "deathday": "1991-02-06",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/60/151916.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/60/151916.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/122349"
+        }
+      }
+    },
+    "character": {
+      "id": 297584,
+      "url": "http://www.tvmaze.com/characters/297584/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297584"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 46496,
+      "url": "http://www.tvmaze.com/people/46496/john-forsythe",
+      "name": "John Forsythe",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1918-01-29",
+      "deathday": "2010-04-01",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/9726.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/9726.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/46496"
+        }
+      }
+    },
+    "character": {
+      "id": 297603,
+      "url": "http://www.tvmaze.com/characters/297603/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297603"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 32205,
+      "url": "http://www.tvmaze.com/people/32205/conan-obrien",
+      "name": "Conan O'Brien",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1963-04-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/17/43644.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/17/43644.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/32205"
+        }
+      }
+    },
+    "character": {
+      "id": 297631,
+      "url": "http://www.tvmaze.com/characters/297631/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297631"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 66500,
+      "url": "http://www.tvmaze.com/people/66500/bill-cosby",
+      "name": "Bill Cosby",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1937-07-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/28/71174.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/28/71174.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/66500"
+        }
+      }
+    },
+    "character": {
+      "id": 297585,
+      "url": "http://www.tvmaze.com/characters/297585/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297585"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135841,
+      "url": "http://www.tvmaze.com/people/135841/arthur-godfrey",
+      "name": "Arthur Godfrey",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1903-08-31",
+      "deathday": "1983-03-16",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/104/261121.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/104/261121.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135841"
+        }
+      }
+    },
+    "character": {
+      "id": 297576,
+      "url": "http://www.tvmaze.com/characters/297576/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297576"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135842,
+      "url": "http://www.tvmaze.com/people/135842/chet-huntley",
+      "name": "Chet Huntley",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135842"
+        }
+      }
+    },
+    "character": {
+      "id": 297577,
+      "url": "http://www.tvmaze.com/characters/297577/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297577"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 16347,
+      "url": "http://www.tvmaze.com/people/16347/steve-allen",
+      "name": "Steve Allen",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1921-12-26",
+      "deathday": "2000-10-30",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/26/65852.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/26/65852.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/16347"
+        }
+      }
+    },
+    "character": {
+      "id": 297570,
+      "url": "http://www.tvmaze.com/characters/297570/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297570"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 53742,
+      "url": "http://www.tvmaze.com/people/53742/jimmy-kimmel",
+      "name": "Jimmy Kimmel",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1967-11-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/14/36699.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/14/36699.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/53742"
+        }
+      }
+    },
+    "character": {
+      "id": 297647,
+      "url": "http://www.tvmaze.com/characters/297647/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297647"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 31569,
+      "url": "http://www.tvmaze.com/people/31569/neil-patrick-harris",
+      "name": "Neil Patrick Harris",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1973-06-15",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/155/387581.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/155/387581.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/31569"
+        }
+      }
+    },
+    "character": {
+      "id": 297644,
+      "url": "http://www.tvmaze.com/characters/297644/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297644"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 64402,
+      "url": "http://www.tvmaze.com/people/64402/desi-arnaz",
+      "name": "Desi Arnaz",
+      "country": {
+        "name": "Cuba",
+        "code": "CU",
+        "timezone": "America/Havana"
+      },
+      "birthday": "1917-03-02",
+      "deathday": "1986-12-02",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/75/189586.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/75/189586.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64402"
+        }
+      }
+    },
+    "character": {
+      "id": 297567,
+      "url": "http://www.tvmaze.com/characters/297567/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297567"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 49332,
+      "url": "http://www.tvmaze.com/people/49332/ryan-seacrest",
+      "name": "Ryan Seacrest",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1974-12-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/32891.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/32891.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/49332"
+        }
+      }
+    },
+    "character": {
+      "id": 297639,
+      "url": "http://www.tvmaze.com/characters/297639/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297639"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135838,
+      "url": "http://www.tvmaze.com/people/135838/art-linkletter",
+      "name": "Art Linkletter",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135838"
+        }
+      }
+    },
+    "character": {
+      "id": 297568,
+      "url": "http://www.tvmaze.com/characters/297568/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297568"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 11177,
+      "url": "http://www.tvmaze.com/people/11177/jenna-elfman",
+      "name": "Jenna Elfman",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1971-09-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/5/13094.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/5/13094.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/11177"
+        }
+      }
+    },
+    "character": {
+      "id": 297628,
+      "url": "http://www.tvmaze.com/characters/297628/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297628"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 51779,
+      "url": "http://www.tvmaze.com/people/51779/wanda-sykes",
+      "name": "Wanda Sykes",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1964-03-07",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/45/112610.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/45/112610.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/51779"
+        }
+      }
+    },
+    "character": {
+      "id": 297638,
+      "url": "http://www.tvmaze.com/characters/297638/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297638"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 105993,
+      "url": "http://www.tvmaze.com/people/105993/phil-silvers",
+      "name": "Phil Silvers",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1911-05-11",
+      "deathday": "1985-11-01",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/46/116692.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/46/116692.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/105993"
+        }
+      }
+    },
+    "character": {
+      "id": 297573,
+      "url": "http://www.tvmaze.com/characters/297573/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297573"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 22018,
+      "url": "http://www.tvmaze.com/people/22018/angela-lansbury",
+      "name": "Angela Lansbury",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1925-10-16",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/19/49161.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/49161.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/22018"
+        }
+      }
+    },
+    "character": {
+      "id": 297619,
+      "url": "http://www.tvmaze.com/characters/297619/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297619"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 63140,
+      "url": "http://www.tvmaze.com/people/63140/sammy-davis-jr",
+      "name": "Sammy Davis, Jr.",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1925-12-08",
+      "deathday": "1990-05-16",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/75/189572.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/75/189572.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/63140"
+        }
+      }
+    },
+    "character": {
+      "id": 297583,
+      "url": "http://www.tvmaze.com/characters/297583/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297583"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135840,
+      "url": "http://www.tvmaze.com/people/135840/dave-garroway",
+      "name": "Dave Garroway",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135840"
+        }
+      }
+    },
+    "character": {
+      "id": 297571,
+      "url": "http://www.tvmaze.com/characters/297571/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297571"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 37136,
+      "url": "http://www.tvmaze.com/people/37136/jon-stewart",
+      "name": "Jon Stewart",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1962-11-28",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/2/6005.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/2/6005.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/37136"
+        }
+      }
+    },
+    "character": {
+      "id": 297637,
+      "url": "http://www.tvmaze.com/characters/297637/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297637"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 70403,
+      "url": "http://www.tvmaze.com/people/70403/jane-pauley",
+      "name": "Jane Pauley",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1950-10-31",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/45/113584.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/45/113584.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/70403"
+        }
+      }
+    },
+    "character": {
+      "id": 297615,
+      "url": "http://www.tvmaze.com/characters/297615/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297615"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 12034,
+      "url": "http://www.tvmaze.com/people/12034/shelley-long",
+      "name": "Shelley Long",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1949-07-23",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/70/175210.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/70/175210.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/12034"
+        }
+      }
+    },
+    "character": {
+      "id": 297609,
+      "url": "http://www.tvmaze.com/characters/297609/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297609"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 52723,
+      "url": "http://www.tvmaze.com/people/52723/paul-reiser",
+      "name": "Paul Reiser",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1957-03-30",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/17/43154.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/17/43154.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/52723"
+        }
+      }
+    },
+    "character": {
+      "id": 297625,
+      "url": "http://www.tvmaze.com/characters/297625/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297625"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 24313,
+      "url": "http://www.tvmaze.com/people/24313/john-larroquette",
+      "name": "John Larroquette",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1947-11-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435096.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435096.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/24313"
+        }
+      }
+    },
+    "character": {
+      "id": 297611,
+      "url": "http://www.tvmaze.com/characters/297611/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297611"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 64382,
+      "url": "http://www.tvmaze.com/people/64382/seth-meyers",
+      "name": "Seth Meyers",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1973-12-28",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/15/39038.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/39038.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64382"
+        }
+      }
+    },
+    "character": {
+      "id": 297648,
+      "url": "http://www.tvmaze.com/characters/297648/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297648"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 37423,
+      "url": "http://www.tvmaze.com/people/37423/david-letterman",
+      "name": "David Letterman",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1947-04-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/143/358907.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/143/358907.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/37423"
+        }
+      }
+    },
+    "character": {
+      "id": 297608,
+      "url": "http://www.tvmaze.com/characters/297608/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297608"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 71340,
+      "url": "http://www.tvmaze.com/people/71340/merv-griffin",
+      "name": "Merv Griffin",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1925-07-06",
+      "deathday": "2007-08-12",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/45/112621.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/45/112621.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/71340"
+        }
+      }
+    },
+    "character": {
+      "id": 297590,
+      "url": "http://www.tvmaze.com/characters/297590/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297590"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 12849,
+      "url": "http://www.tvmaze.com/people/12849/jason-alexander",
+      "name": "Jason Alexander",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1959-09-23",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/179/447549.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/179/447549.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/12849"
+        }
+      }
+    },
+    "character": {
+      "id": 297622,
+      "url": "http://www.tvmaze.com/characters/297622/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297622"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 53227,
+      "url": "http://www.tvmaze.com/people/53227/oprah-winfrey",
+      "name": "Oprah Winfrey",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1954-01-29",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/18381.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/18381.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/53227"
+        }
+      }
+    },
+    "character": {
+      "id": 297626,
+      "url": "http://www.tvmaze.com/characters/297626/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297626"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 113310,
+      "url": "http://www.tvmaze.com/people/113310/bernie-mac",
+      "name": "Bernie Mac",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1957-10-05",
+      "deathday": "2008-08-09",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/61/153471.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/61/153471.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/113310"
+        }
+      }
+    },
+    "character": {
+      "id": 297635,
+      "url": "http://www.tvmaze.com/characters/297635/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297635"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 24461,
+      "url": "http://www.tvmaze.com/people/24461/jay-leno",
+      "name": "Jay Leno",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1950-04-28",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/6/15518.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/6/15518.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/24461"
+        }
+      }
+    },
+    "character": {
+      "id": 297614,
+      "url": "http://www.tvmaze.com/characters/297614/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297614"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 64385,
+      "url": "http://www.tvmaze.com/people/64385/colin-jost",
+      "name": "Colin Jost",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1982-06-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/78/196352.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/78/196352.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64385"
+        }
+      }
+    },
+    "character": {
+      "id": 659465,
+      "url": "http://www.tvmaze.com/characters/659465/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659465"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 41237,
+      "url": "http://www.tvmaze.com/people/41237/mary-tyler-moore",
+      "name": "Mary Tyler Moore",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1936-12-29",
+      "deathday": "2017-01-25",
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/35/89702.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/35/89702.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/41237"
+        }
+      }
+    },
+    "character": {
+      "id": 297594,
+      "url": "http://www.tvmaze.com/characters/297594/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297594"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 12904,
+      "url": "http://www.tvmaze.com/people/12904/cybill-shepherd",
+      "name": "Cybill Shepherd",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1950-02-18",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/36/91325.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/36/91325.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/12904"
+        }
+      }
+    },
+    "character": {
+      "id": 297623,
+      "url": "http://www.tvmaze.com/characters/297623/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297623"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 53622,
+      "url": "http://www.tvmaze.com/people/53622/joan-rivers",
+      "name": "Joan Rivers",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1933-06-08",
+      "deathday": "2014-09-04",
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/18/45552.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/18/45552.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/53622"
+        }
+      }
+    },
+    "character": {
+      "id": 297606,
+      "url": "http://www.tvmaze.com/characters/297606/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297606"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 24466,
+      "url": "http://www.tvmaze.com/people/24466/henry-winkler",
+      "name": "Henry Winkler",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1945-10-30",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/17754.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/17754.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/24466"
+        }
+      }
+    },
+    "character": {
+      "id": 297599,
+      "url": "http://www.tvmaze.com/characters/297599/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297599"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 64391,
+      "url": "http://www.tvmaze.com/people/64391/michael-che",
+      "name": "Michael Che",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1983-05-19",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/31229.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/31229.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64391"
+        }
+      }
+    },
+    "character": {
+      "id": 659464,
+      "url": "http://www.tvmaze.com/characters/659464/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659464"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135843,
+      "url": "http://www.tvmaze.com/people/135843/dick-powell",
+      "name": "Dick Powell",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/104/261906.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/104/261906.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135843"
+        }
+      }
+    },
+    "character": {
+      "id": 297578,
+      "url": "http://www.tvmaze.com/characters/297578/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297578"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 41263,
+      "url": "http://www.tvmaze.com/people/41263/kirstie-alley",
+      "name": "Kirstie Alley",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1951-01-12",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/25/64187.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/25/64187.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/41263"
+        }
+      }
+    },
+    "character": {
+      "id": 297618,
+      "url": "http://www.tvmaze.com/characters/297618/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297618"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 85923,
+      "url": "http://www.tvmaze.com/people/85923/lucille-ball",
+      "name": "Lucille Ball",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1911-08-06",
+      "deathday": "1989-04-26",
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/38/95817.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/38/95817.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/85923"
+        }
+      }
+    },
+    "character": {
+      "id": 297566,
+      "url": "http://www.tvmaze.com/characters/297566/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297566"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 119787,
+      "url": "http://www.tvmaze.com/people/119787/john-denver",
+      "name": "John Denver",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1943-12-31",
+      "deathday": "1997-10-12",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/46/116438.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/46/116438.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/119787"
+        }
+      }
+    },
+    "character": {
+      "id": 297593,
+      "url": "http://www.tvmaze.com/characters/297593/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297593"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 26062,
+      "url": "http://www.tvmaze.com/people/26062/candice-bergen",
+      "name": "Candice Bergen",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1946-05-09",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/12079.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/12079.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/26062"
+        }
+      }
+    },
+    "character": {
+      "id": 297612,
+      "url": "http://www.tvmaze.com/characters/297612/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297612"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 64399,
+      "url": "http://www.tvmaze.com/people/64399/dick-cavett",
+      "name": "Dick Cavett",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1936-11-19",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/33/84787.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/33/84787.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64399"
+        }
+      }
+    },
+    "character": {
+      "id": 297591,
+      "url": "http://www.tvmaze.com/characters/297591/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297591"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135844,
+      "url": "http://www.tvmaze.com/people/135844/david-brinkley",
+      "name": "David Brinkley",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135844"
+        }
+      }
+    },
+    "character": {
+      "id": 297579,
+      "url": "http://www.tvmaze.com/characters/297579/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297579"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 1010,
+      "url": "http://www.tvmaze.com/people/1010/jane-lynch",
+      "name": "Jane Lynch",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1960-07-14",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/2095.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/2095.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/1010"
+        }
+      }
+    },
+    "character": {
+      "id": 297646,
+      "url": "http://www.tvmaze.com/characters/297646/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297646"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 45736,
+      "url": "http://www.tvmaze.com/people/45736/bruce-willis",
+      "name": "Bruce Willis",
+      "country": {
+        "name": "Germany",
+        "code": "DE",
+        "timezone": "Europe/Busingen"
+      },
+      "birthday": "1955-03-19",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/9/23686.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/9/23686.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/45736"
+        }
+      }
+    },
+    "character": {
+      "id": 297610,
+      "url": "http://www.tvmaze.com/characters/297610/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297610"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 90203,
+      "url": "http://www.tvmaze.com/people/90203/eg-marshall",
+      "name": "E.G. Marshall",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1914-06-18",
+      "deathday": "1998-08-24",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/75/189830.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/75/189830.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90203"
+        }
+      }
+    },
+    "character": {
+      "id": 297582,
+      "url": "http://www.tvmaze.com/characters/297582/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297582"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 17264,
+      "url": "http://www.tvmaze.com/people/17264/tom-selleck",
+      "name": "Tom Selleck",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1945-01-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/906.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/906.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/17264"
+        }
+      }
+    },
+    "character": {
+      "id": 297607,
+      "url": "http://www.tvmaze.com/characters/297607/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297607"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 56430,
+      "url": "http://www.tvmaze.com/people/56430/eddie-murphy",
+      "name": "Eddie Murphy",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1961-04-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/9/24882.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/9/24882.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/56430"
+        }
+      }
+    },
+    "character": {
+      "id": 297605,
+      "url": "http://www.tvmaze.com/characters/297605/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297605"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135845,
+      "url": "http://www.tvmaze.com/people/135845/danny-kaye",
+      "name": "Danny Kaye",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135845"
+        }
+      }
+    },
+    "character": {
+      "id": 297586,
+      "url": "http://www.tvmaze.com/characters/297586/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297586"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 5501,
+      "url": "http://www.tvmaze.com/people/5501/edward-asner",
+      "name": "Edward Asner",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1929-11-15",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/8/22072.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/22072.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5501"
+        }
+      }
+    },
+    "character": {
+      "id": 297601,
+      "url": "http://www.tvmaze.com/characters/297601/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297601"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 18290,
+      "url": "http://www.tvmaze.com/people/18290/patricia-richardson",
+      "name": "Patricia Richardson",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1951-02-23",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/162/407334.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/162/407334.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/18290"
+        }
+      }
+    },
+    "character": {
+      "id": 297621,
+      "url": "http://www.tvmaze.com/characters/297621/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297621"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 122711,
+      "url": "http://www.tvmaze.com/people/122711/frank-sinatra",
+      "name": "Frank Sinatra",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1915-12-12",
+      "deathday": "1988-05-14",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/49/122677.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/49/122677.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/122711"
+        }
+      }
+    },
+    "character": {
+      "id": 297588,
+      "url": "http://www.tvmaze.com/characters/297588/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297588"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 32141,
+      "url": "http://www.tvmaze.com/people/32141/heidi-klum",
+      "name": "Heidi Klum",
+      "country": {
+        "name": "Germany",
+        "code": "DE",
+        "timezone": "Europe/Busingen"
+      },
+      "birthday": "1973-06-01",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/5/14928.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/5/14928.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/32141"
+        }
+      }
+    },
+    "character": {
+      "id": 297641,
+      "url": "http://www.tvmaze.com/characters/297641/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297641"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 64663,
+      "url": "http://www.tvmaze.com/people/64663/howie-mandel",
+      "name": "Howie Mandel",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1955-11-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/25/64956.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/25/64956.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64663"
+        }
+      }
+    },
+    "character": {
+      "id": 297642,
+      "url": "http://www.tvmaze.com/characters/297642/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297642"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 6401,
+      "url": "http://www.tvmaze.com/people/6401/tim-allen",
+      "name": "Tim Allen",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1953-06-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/4957.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/4957.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/6401"
+        }
+      }
+    },
+    "character": {
+      "id": 297617,
+      "url": "http://www.tvmaze.com/characters/297617/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297617"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 47432,
+      "url": "http://www.tvmaze.com/people/47432/david-hyde-pierce",
+      "name": "David Hyde Pierce",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1959-04-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/8/20686.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/20686.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/47432"
+        }
+      }
+    },
+    "character": {
+      "id": 297629,
+      "url": "http://www.tvmaze.com/characters/297629/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297629"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 94122,
+      "url": "http://www.tvmaze.com/people/94122/bryant-gumbel",
+      "name": "Bryant Gumbel",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1948-09-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/25/63641.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/25/63641.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/94122"
+        }
+      }
+    },
+    "character": {
+      "id": 297627,
+      "url": "http://www.tvmaze.com/characters/297627/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297627"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 18907,
+      "url": "http://www.tvmaze.com/people/18907/darrell-hammond",
+      "name": "Darrell Hammond",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1955-10-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/37/93429.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/37/93429.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/18907"
+        }
+      }
+    },
+    "character": {
+      "id": 297633,
+      "url": "http://www.tvmaze.com/characters/297633/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297633"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 60314,
+      "url": "http://www.tvmaze.com/people/60314/angie-dickinson",
+      "name": "Angie Dickinson",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1931-09-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/135909.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/54/135909.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/60314"
+        }
+      }
+    },
+    "character": {
+      "id": 297596,
+      "url": "http://www.tvmaze.com/characters/297596/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297596"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135717,
+      "url": "http://www.tvmaze.com/people/135717/walter-okeefe",
+      "name": "Walter O'Keefe",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1900-08-18",
+      "deathday": "1983-06-26",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/128/320982.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/128/320982.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135717"
+        }
+      }
+    },
+    "character": {
+      "id": 297170,
+      "url": "http://www.tvmaze.com/characters/297170/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297170"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 6922,
+      "url": "http://www.tvmaze.com/people/6922/andy-samberg",
+      "name": "Andy Samberg",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1978-08-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/1005.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1005.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/6922"
+        }
+      }
+    },
+    "character": {
+      "id": 297649,
+      "url": "http://www.tvmaze.com/characters/297649/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297649"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 48235,
+      "url": "http://www.tvmaze.com/people/48235/jimmy-fallon",
+      "name": "Jimmy Fallon",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1974-09-19",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/6/15081.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/6/15081.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/48235"
+        }
+      }
+    },
+    "character": {
+      "id": 297645,
+      "url": "http://www.tvmaze.com/characters/297645/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297645"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 95634,
+      "url": "http://www.tvmaze.com/people/95634/hugh-downs",
+      "name": "Hugh Downs",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1921-02-14",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/26/65839.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/26/65839.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/95634"
+        }
+      }
+    },
+    "character": {
+      "id": 297587,
+      "url": "http://www.tvmaze.com/characters/297587/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297587"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 20196,
+      "url": "http://www.tvmaze.com/people/20196/marlo-thomas",
+      "name": "Marlo Thomas",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1937-11-21",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/10/25481.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/25481.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/20196"
+        }
+      }
+    },
+    "character": {
+      "id": 297604,
+      "url": "http://www.tvmaze.com/characters/297604/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297604"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 61666,
+      "url": "http://www.tvmaze.com/people/61666/dick-van-dyke",
+      "name": "Dick Van Dyke",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1925-12-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/51290.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/51290.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/61666"
+        }
+      }
+    },
+    "character": {
+      "id": 297589,
+      "url": "http://www.tvmaze.com/characters/297589/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297589"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135718,
+      "url": "http://www.tvmaze.com/people/135718/earl-warren",
+      "name": "Earl Warren",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135718"
+        }
+      }
+    },
+    "character": {
+      "id": 297172,
+      "url": "http://www.tvmaze.com/characters/297172/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297172"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 34718,
+      "url": "http://www.tvmaze.com/people/34718/alan-alda",
+      "name": "Alan Alda",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1936-01-28",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/16/40800.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/16/40800.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/34718"
+        }
+      }
+    },
+    "character": {
+      "id": 297597,
+      "url": "http://www.tvmaze.com/characters/297597/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297597"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 67524,
+      "url": "http://www.tvmaze.com/people/67524/shirley-maclaine",
+      "name": "Shirley MacLaine",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1934-04-24",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/75/189816.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/75/189816.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/67524"
+        }
+      }
+    },
+    "character": {
+      "id": 297602,
+      "url": "http://www.tvmaze.com/characters/297602/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297602"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 10207,
+      "url": "http://www.tvmaze.com/people/10207/bob-newhart",
+      "name": "Bob Newhart",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1929-09-05",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10537.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10537.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/10207"
+        }
+      }
+    },
+    "character": {
+      "id": 297581,
+      "url": "http://www.tvmaze.com/characters/297581/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297581"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 100350,
+      "url": "http://www.tvmaze.com/people/100350/robert-blake",
+      "name": "Robert Blake",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1933-09-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/74225.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/74225.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/100350"
+        }
+      }
+    },
+    "character": {
+      "id": 297595,
+      "url": "http://www.tvmaze.com/characters/297595/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297595"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 20376,
+      "url": "http://www.tvmaze.com/people/20376/michael-j-fox",
+      "name": "Michael J. Fox",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1961-06-09",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/5/14206.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/5/14206.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/20376"
+        }
+      }
+    },
+    "character": {
+      "id": 297624,
+      "url": "http://www.tvmaze.com/characters/297624/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297624"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 61990,
+      "url": "http://www.tvmaze.com/people/61990/jeff-probst",
+      "name": "Jeff Probst",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1961-11-04",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/11/29574.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/11/29574.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/61990"
+        }
+      }
+    },
+    "character": {
+      "id": 297643,
+      "url": "http://www.tvmaze.com/characters/297643/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297643"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 35949,
+      "url": "http://www.tvmaze.com/people/35949/brad-garrett",
+      "name": "Brad Garrett",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1960-04-14",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/5/13781.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/5/13781.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/35949"
+        }
+      }
+    },
+    "character": {
+      "id": 297632,
+      "url": "http://www.tvmaze.com/characters/297632/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297632"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 69078,
+      "url": "http://www.tvmaze.com/people/69078/dick-clark",
+      "name": "Dick Clark",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1929-11-30",
+      "deathday": "2012-04-18",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30043.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30043.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/69078"
+        }
+      }
+    },
+    "character": {
+      "id": 297600,
+      "url": "http://www.tvmaze.com/characters/297600/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297600"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 10419,
+      "url": "http://www.tvmaze.com/people/10419/cheryl-ladd",
+      "name": "Cheryl Ladd",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1951-07-12",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/9723.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/9723.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/10419"
+        }
+      }
+    },
+    "character": {
+      "id": 297598,
+      "url": "http://www.tvmaze.com/characters/297598/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297598"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 51097,
+      "url": "http://www.tvmaze.com/people/51097/raymond-burr",
+      "name": "Raymond Burr",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1917-05-21",
+      "deathday": "1993-09-12",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/75/189514.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/75/189514.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/51097"
+        }
+      }
+    },
+    "character": {
+      "id": 297574,
+      "url": "http://www.tvmaze.com/characters/297574/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297574"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 105354,
+      "url": "http://www.tvmaze.com/people/105354/bill-welsh",
+      "name": "Bill Welsh",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1911-04-25",
+      "deathday": "2000-02-27",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/76/190614.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/76/190614.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/105354"
+        }
+      }
+    },
+    "character": {
+      "id": 297171,
+      "url": "http://www.tvmaze.com/characters/297171/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297171"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 21351,
+      "url": "http://www.tvmaze.com/people/21351/martin-short",
+      "name": "Martin Short",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1950-03-26",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8357.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8357.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/21351"
+        }
+      }
+    },
+    "character": {
+      "id": 297636,
+      "url": "http://www.tvmaze.com/characters/297636/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297636"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 62984,
+      "url": "http://www.tvmaze.com/people/62984/george-lopez",
+      "name": "George Lopez",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1961-04-23",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/106/267037.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/106/267037.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/62984"
+        }
+      }
+    },
+    "character": {
+      "id": 297634,
+      "url": "http://www.tvmaze.com/characters/297634/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297634"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135839,
+      "url": "http://www.tvmaze.com/people/135839/ed-sullivan",
+      "name": "Ed Sullivan",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1901-09-28",
+      "deathday": "1974-10-13",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/83/208653.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/83/208653.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135839"
+        }
+      }
+    },
+    "character": {
+      "id": 297569,
+      "url": "http://www.tvmaze.com/characters/297569/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297569"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 37135,
+      "url": "http://www.tvmaze.com/people/37135/stephen-colbert",
+      "name": "Stephen Colbert",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1964-05-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30551.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30551.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/37135"
+        }
+      }
+    },
+    "character": {
+      "id": 456213,
+      "url": "http://www.tvmaze.com/characters/456213/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/456213"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 69115,
+      "url": "http://www.tvmaze.com/people/69115/tom-bergeron",
+      "name": "Tom Bergeron",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1955-05-06",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/93/233052.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/93/233052.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/69115"
+        }
+      }
+    },
+    "character": {
+      "id": 297640,
+      "url": "http://www.tvmaze.com/characters/297640/the-emmy-awards-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/297640"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

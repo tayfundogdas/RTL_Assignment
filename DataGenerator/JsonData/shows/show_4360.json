@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 53227,
+      "url": "http://www.tvmaze.com/people/53227/oprah-winfrey",
+      "name": "Oprah Winfrey",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1954-01-29",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/18381.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/18381.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/53227"
+        }
+      }
+    },
+    "character": {
+      "id": 175201,
+      "url": "http://www.tvmaze.com/characters/175201/super-soul-sunday-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/175201"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

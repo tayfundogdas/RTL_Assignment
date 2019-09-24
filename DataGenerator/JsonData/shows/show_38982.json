@@ -1,0 +1,866 @@
+[
+  {
+    "person": {
+      "id": 132460,
+      "url": "http://www.tvmaze.com/people/132460/katrin-kerkhofs",
+      "name": "Katrin Kerkhofs",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1988-09-12",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/87/217797.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/87/217797.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/132460"
+        }
+      }
+    },
+    "character": {
+      "id": 562627,
+      "url": "http://www.tvmaze.com/characters/562627/dancing-with-the-stars-kat-kerkhofs",
+      "name": "Kat Kerkhofs",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562627"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 51693,
+      "url": "http://www.tvmaze.com/people/51693/gert-verhulst",
+      "name": "Gert Verhulst",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1968-01-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/74374.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/74374.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/51693"
+        }
+      }
+    },
+    "character": {
+      "id": 563004,
+      "url": "http://www.tvmaze.com/characters/563004/dancing-with-the-stars-gert-verhulst",
+      "name": "Gert Verhulst",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563004"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 218278,
+      "url": "http://www.tvmaze.com/people/218278/joanna-leunis",
+      "name": "Joanna Leunis",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/218278"
+        }
+      }
+    },
+    "character": {
+      "id": 566220,
+      "url": "http://www.tvmaze.com/characters/566220/dancing-with-the-stars-joanna-leunis",
+      "name": "Joanna Leunis",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/566220"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 75197,
+      "url": "http://www.tvmaze.com/people/75197/jan-kooijman",
+      "name": "Jan Kooijman",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/33886.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/33886.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/75197"
+        }
+      }
+    },
+    "character": {
+      "id": 566219,
+      "url": "http://www.tvmaze.com/characters/566219/dancing-with-the-stars-jan-kooijman",
+      "name": "Jan Kooijman",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/566219"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 94206,
+      "url": "http://www.tvmaze.com/people/94206/jani-kazaltzis",
+      "name": "Jani Kazaltzis",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1979-04-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/50/126760.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/50/126760.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/94206"
+        }
+      }
+    },
+    "character": {
+      "id": 563006,
+      "url": "http://www.tvmaze.com/characters/563006/dancing-with-the-stars-jani-kazaltzis",
+      "name": "Jani Kazaltzis",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563006"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 94250,
+      "url": "http://www.tvmaze.com/people/94250/peter-van-asbroeck",
+      "name": "Peter Van Asbroeck",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/40/101574.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/40/101574.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/94250"
+        }
+      }
+    },
+    "character": {
+      "id": 563008,
+      "url": "http://www.tvmaze.com/characters/563008/dancing-with-the-stars-peter-van-asbroeck",
+      "name": "Peter Van Asbroeck",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563008"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 94832,
+      "url": "http://www.tvmaze.com/people/94832/ian-thomas",
+      "name": "Ian Thomas",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1997-04-30",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/99954.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/99954.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/94832"
+        }
+      }
+    },
+    "character": {
+      "id": 563009,
+      "url": "http://www.tvmaze.com/characters/563009/dancing-with-the-stars-ian-thomas",
+      "name": "Ian Thomas",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563009"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 98999,
+      "url": "http://www.tvmaze.com/people/98999/james-cooke",
+      "name": "James Cooke",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1984-10-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/135/338293.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/135/338293.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/98999"
+        }
+      }
+    },
+    "character": {
+      "id": 562624,
+      "url": "http://www.tvmaze.com/characters/562624/dancing-with-the-stars-james-cooke",
+      "name": "James Cooke",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562624"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 217252,
+      "url": "http://www.tvmaze.com/people/217252/fabrizio-tzinaridis",
+      "name": "Fabrizio Tzinaridis",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217252"
+        }
+      }
+    },
+    "character": {
+      "id": 563010,
+      "url": "http://www.tvmaze.com/characters/563010/dancing-with-the-stars-fabrizio-tzinaridis",
+      "name": "Fabrizio Tzinaridis",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563010"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 218279,
+      "url": "http://www.tvmaze.com/people/218279/michel-froget",
+      "name": "Michel Froget",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/218279"
+        }
+      }
+    },
+    "character": {
+      "id": 566221,
+      "url": "http://www.tvmaze.com/characters/566221/dancing-with-the-stars-michel-froget",
+      "name": "Michel Froget",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/566221"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 84975,
+      "url": "http://www.tvmaze.com/people/84975/karen-damen",
+      "name": "Karen Damen",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1974-10-28",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422324.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422324.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/84975"
+        }
+      }
+    },
+    "character": {
+      "id": 563007,
+      "url": "http://www.tvmaze.com/characters/563007/dancing-with-the-stars-karen-damen",
+      "name": "Karen Damen",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563007"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 105021,
+      "url": "http://www.tvmaze.com/people/105021/elodie-ouedraogo",
+      "name": "Élodie Ouédraogo",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1981-02-27",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/133/333423.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/133/333423.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/105021"
+        }
+      }
+    },
+    "character": {
+      "id": 562628,
+      "url": "http://www.tvmaze.com/characters/562628/dancing-with-the-stars-elodie-ouedraogo",
+      "name": "Elodie Ouedraogo",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562628"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 91645,
+      "url": "http://www.tvmaze.com/people/91645/leah-thys",
+      "name": "Leah Thys",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1945-05-17",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/138/345879.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/138/345879.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/91645"
+        }
+      }
+    },
+    "character": {
+      "id": 565575,
+      "url": "http://www.tvmaze.com/characters/565575/dancing-with-the-stars-leah-thys",
+      "name": "Leah Thys",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/565575"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 112431,
+      "url": "http://www.tvmaze.com/people/112431/leen-dendievel",
+      "name": "Leen Dendievel",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1983-12-01",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/82/205297.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/82/205297.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/112431"
+        }
+      }
+    },
+    "character": {
+      "id": 562626,
+      "url": "http://www.tvmaze.com/characters/562626/dancing-with-the-stars-leen-dendievel",
+      "name": "Leen Dendievel",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562626"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 84756,
+      "url": "http://www.tvmaze.com/people/84756/sien-eggers",
+      "name": "Sien Eggers",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1951-04-24",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/45/113332.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/45/113332.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/84756"
+        }
+      }
+    },
+    "character": {
+      "id": 562625,
+      "url": "http://www.tvmaze.com/characters/562625/dancing-with-the-stars-sien-eggers",
+      "name": "Sien Eggers",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562625"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 94357,
+      "url": "http://www.tvmaze.com/people/94357/kelly-pfaff",
+      "name": "Kelly Pfaff",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/94357"
+        }
+      }
+    },
+    "character": {
+      "id": 655442,
+      "url": "http://www.tvmaze.com/characters/655442/dancing-with-the-stars-kelly-pfaff",
+      "name": "Kelly Pfaff",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/655442"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 143879,
+      "url": "http://www.tvmaze.com/people/143879/viktor-verhulst",
+      "name": "Viktor Verhulst",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/143879"
+        }
+      }
+    },
+    "character": {
+      "id": 655443,
+      "url": "http://www.tvmaze.com/characters/655443/dancing-with-the-stars-viktor-verhulst",
+      "name": "Viktor Verhulst",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/655443"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 156328,
+      "url": "http://www.tvmaze.com/people/156328/davy-brocatus",
+      "name": "Davy Brocatus",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/115/289713.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/115/289713.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/156328"
+        }
+      }
+    },
+    "character": {
+      "id": 659712,
+      "url": "http://www.tvmaze.com/characters/659712/dancing-with-the-stars-davy-brocatus",
+      "name": "Davy Brocatus",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659712"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 60505,
+      "url": "http://www.tvmaze.com/people/60505/michael-pas",
+      "name": "Michael Pas",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/144/361586.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/144/361586.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/60505"
+        }
+      }
+    },
+    "character": {
+      "id": 655439,
+      "url": "http://www.tvmaze.com/characters/655439/dancing-with-the-stars-michael-pas",
+      "name": "Michaël Pas",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/655439"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 99003,
+      "url": "http://www.tvmaze.com/people/99003/ianthe-tavernier",
+      "name": "Ianthe Tavernier",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/65/164645.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/65/164645.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/99003"
+        }
+      }
+    },
+    "character": {
+      "id": 655438,
+      "url": "http://www.tvmaze.com/characters/655438/dancing-with-the-stars-ianthe-tavernier",
+      "name": "Ianthe Tavernier",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/655438"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 100140,
+      "url": "http://www.tvmaze.com/people/100140/christoff",
+      "name": "Christoff",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1976-06-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/34/85644.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/34/85644.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/100140"
+        }
+      }
+    },
+    "character": {
+      "id": 655437,
+      "url": "http://www.tvmaze.com/characters/655437/dancing-with-the-stars-christoff",
+      "name": "Christoff",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/655437"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 101316,
+      "url": "http://www.tvmaze.com/people/101316/evy-gruyaert",
+      "name": "Evy Gruyaert",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/146/365365.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/146/365365.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/101316"
+        }
+      }
+    },
+    "character": {
+      "id": 655441,
+      "url": "http://www.tvmaze.com/characters/655441/dancing-with-the-stars-evy-gruyaert",
+      "name": "Evy Gruyaert",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/655441"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 108112,
+      "url": "http://www.tvmaze.com/people/108112/ann-pira",
+      "name": "Ann Pira",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/108112"
+        }
+      }
+    },
+    "character": {
+      "id": 655440,
+      "url": "http://www.tvmaze.com/characters/655440/dancing-with-the-stars-ann-pira",
+      "name": "Ann Pira",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/655440"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 91937,
+      "url": "http://www.tvmaze.com/people/91937/sam-louwyck",
+      "name": "Sam Louwyck",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72671.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72671.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/91937"
+        }
+      }
+    },
+    "character": {
+      "id": 659713,
+      "url": "http://www.tvmaze.com/characters/659713/dancing-with-the-stars-sam-louwyck",
+      "name": "Sam Louwyck",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659713"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 120576,
+      "url": "http://www.tvmaze.com/people/120576/julie-vermeire",
+      "name": "Julie Vermeire",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/120576"
+        }
+      }
+    },
+    "character": {
+      "id": 655436,
+      "url": "http://www.tvmaze.com/characters/655436/dancing-with-the-stars-julie-vermeire",
+      "name": "Julie Vermeire",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/655436"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

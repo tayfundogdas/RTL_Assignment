@@ -1,0 +1,1129 @@
+[
+  {
+    "person": {
+      "id": 38830,
+      "url": "http://www.tvmaze.com/people/38830/naturi-naughton",
+      "name": "Naturi Naughton",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1984-05-20",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8907.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8907.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/38830"
+        }
+      }
+    },
+    "character": {
+      "id": 63160,
+      "url": "http://www.tvmaze.com/characters/63160/power-tasha-st-patrick",
+      "name": "Tasha St. Patrick",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72944.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72944.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63160"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 727,
+      "url": "http://www.tvmaze.com/people/727/joseph-sikora",
+      "name": "Joseph Sikora",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1976-06-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/420897.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/420897.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/727"
+        }
+      }
+    },
+    "character": {
+      "id": 63155,
+      "url": "http://www.tvmaze.com/characters/63155/power-tommy-egan",
+      "name": "Tommy Egan",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/420896.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/420896.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63155"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 38831,
+      "url": "http://www.tvmaze.com/people/38831/omari-hardwick",
+      "name": "Omari Hardwick",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1974-01-09",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8908.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8908.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/38831"
+        }
+      }
+    },
+    "character": {
+      "id": 63161,
+      "url": "http://www.tvmaze.com/characters/63161/power-james-ghost-st-patrick",
+      "name": "James \"Ghost\" St. Patrick",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72945.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72945.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63161"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 9448,
+      "url": "http://www.tvmaze.com/people/9448/lela-loren",
+      "name": "Lela Loren",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1980-05-07",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8904.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8904.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9448"
+        }
+      }
+    },
+    "character": {
+      "id": 63157,
+      "url": "http://www.tvmaze.com/characters/63157/power-angela-valdes",
+      "name": "Angela Valdes",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72956.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72956.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63157"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 10516,
+      "url": "http://www.tvmaze.com/people/10516/shane-johnson",
+      "name": "Shane Johnson",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8909.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8909.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/10516"
+        }
+      }
+    },
+    "character": {
+      "id": 315707,
+      "url": "http://www.tvmaze.com/characters/315707/power-cooper-saxe",
+      "name": "Cooper Saxe",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/70/177016.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/70/177016.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/315707"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 57665,
+      "url": "http://www.tvmaze.com/people/57665/rotimi-akinosho",
+      "name": "Rotimi Akinosho",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/73471.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/73471.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/57665"
+        }
+      }
+    },
+    "character": {
+      "id": 199430,
+      "url": "http://www.tvmaze.com/characters/199430/power-dre",
+      "name": "Dre",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72962.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72962.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/199430"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 5933,
+      "url": "http://www.tvmaze.com/people/5933/50-cent",
+      "name": "50 Cent",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1975-07-06",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8893.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8893.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5933"
+        }
+      }
+    },
+    "character": {
+      "id": 63142,
+      "url": "http://www.tvmaze.com/characters/63142/power-kanan",
+      "name": "Kanan",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72958.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72958.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63142"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 31494,
+      "url": "http://www.tvmaze.com/people/31494/michael-rainey-jr",
+      "name": "Michael Rainey Jr.",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/11/29956.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/11/29956.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/31494"
+        }
+      }
+    },
+    "character": {
+      "id": 63168,
+      "url": "http://www.tvmaze.com/characters/63168/power-tariq-st-patrick",
+      "name": "Tariq St. Patrick",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63168"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 30742,
+      "url": "http://www.tvmaze.com/people/30742/jr-ramirez",
+      "name": "J.R. Ramirez",
+      "country": null,
+      "birthday": "1980-10-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/2/7307.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/2/7307.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/30742"
+        }
+      }
+    },
+    "character": {
+      "id": 63154,
+      "url": "http://www.tvmaze.com/characters/63154/power-julio",
+      "name": "Julio",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72950.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72950.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63154"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 49209,
+      "url": "http://www.tvmaze.com/people/49209/jerry-ferrara",
+      "name": "Jerry Ferrara",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1979-11-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/18312.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/18312.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/49209"
+        }
+      }
+    },
+    "character": {
+      "id": 315841,
+      "url": "http://www.tvmaze.com/characters/315841/power-joe-proctor",
+      "name": "Joe Proctor",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/129/324151.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/129/324151.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/315841"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 38827,
+      "url": "http://www.tvmaze.com/people/38827/andy-bean",
+      "name": "Andy Bean",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8894.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8894.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/38827"
+        }
+      }
+    },
+    "character": {
+      "id": 63144,
+      "url": "http://www.tvmaze.com/characters/63144/power-greg-knox",
+      "name": "Greg Knox",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72951.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72951.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63144"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 17439,
+      "url": "http://www.tvmaze.com/people/17439/lucy-walters",
+      "name": "Lucy Walters",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8905.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8905.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/17439"
+        }
+      }
+    },
+    "character": {
+      "id": 63158,
+      "url": "http://www.tvmaze.com/characters/63158/power-holly",
+      "name": "Holly",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72954.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72954.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63158"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 38828,
+      "url": "http://www.tvmaze.com/people/38828/david-fumero",
+      "name": "David Fumero",
+      "country": {
+        "name": "Cuba",
+        "code": "CU",
+        "timezone": "America/Havana"
+      },
+      "birthday": "1972-12-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8896.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8896.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/38828"
+        }
+      }
+    },
+    "character": {
+      "id": 63146,
+      "url": "http://www.tvmaze.com/characters/63146/power-mike-sandoval",
+      "name": "Mike Sandoval",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72959.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72959.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63146"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 141871,
+      "url": "http://www.tvmaze.com/people/141871/la-la-anthony",
+      "name": "La La Anthony",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1979-06-25",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/118/295914.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/118/295914.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/141871"
+        }
+      }
+    },
+    "character": {
+      "id": 439327,
+      "url": "http://www.tvmaze.com/characters/439327/power-lakeisha-grant",
+      "name": "LaKeisha Grant",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/129/324152.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/129/324152.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/439327"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 21897,
+      "url": "http://www.tvmaze.com/people/21897/luis-antonio-ramos",
+      "name": "Luis Antonio Ramos",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8906.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8906.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/21897"
+        }
+      }
+    },
+    "character": {
+      "id": 63159,
+      "url": "http://www.tvmaze.com/characters/63159/power-carlos-ruiz",
+      "name": "Carlos Ruiz",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72955.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72955.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63159"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 23590,
+      "url": "http://www.tvmaze.com/people/23590/sung-kang",
+      "name": "Sung Kang",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1972-04-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/31859.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/31859.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/23590"
+        }
+      }
+    },
+    "character": {
+      "id": 439328,
+      "url": "http://www.tvmaze.com/characters/439328/power-assistant-us-attorney-john-mak",
+      "name": "Assistant U.S. Attorney John Mak",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/439328"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 25390,
+      "url": "http://www.tvmaze.com/people/25390/matt-cedeno",
+      "name": "Matt Cedeño",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1973-11-14",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/182/456912.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/182/456912.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/25390"
+        }
+      }
+    },
+    "character": {
+      "id": 315851,
+      "url": "http://www.tvmaze.com/characters/315851/power-cristobal",
+      "name": "Cristobal",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/315851"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 120,
+      "url": "http://www.tvmaze.com/people/120/william-sadler",
+      "name": "William Sadler",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1950-04-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/148/370074.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/148/370074.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/120"
+        }
+      }
+    },
+    "character": {
+      "id": 439329,
+      "url": "http://www.tvmaze.com/characters/439329/power-tony-teresi",
+      "name": "Tony Teresi",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/439329"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 11180,
+      "url": "http://www.tvmaze.com/people/11180/larenz-tate",
+      "name": "Larenz Tate",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1975-09-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/9/24407.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/9/24407.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/11180"
+        }
+      }
+    },
+    "character": {
+      "id": 451209,
+      "url": "http://www.tvmaze.com/characters/451209/power-councilman-tate",
+      "name": "Councilman Tate",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/451209"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 9063,
+      "url": "http://www.tvmaze.com/people/9063/adam-huss",
+      "name": "Adam Huss",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1977-03-01",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/2/6096.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/2/6096.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9063"
+        }
+      }
+    },
+    "character": {
+      "id": 63143,
+      "url": "http://www.tvmaze.com/characters/63143/power-josh-kantos",
+      "name": "Josh Kantos",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72949.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72949.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63143"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 20149,
+      "url": "http://www.tvmaze.com/people/20149/brandon-victor-dixon",
+      "name": "Brandon Victor Dixon",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/160/400723.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/160/400723.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/20149"
+        }
+      }
+    },
+    "character": {
+      "id": 445696,
+      "url": "http://www.tvmaze.com/characters/445696/power-terry-silver",
+      "name": "Terry Silver",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/129/324150.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/129/324150.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/445696"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 3226,
+      "url": "http://www.tvmaze.com/people/3226/sinqua-walls",
+      "name": "Sinqua Walls",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/114/285898.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/114/285898.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/3226"
+        }
+      }
+    },
+    "character": {
+      "id": 63163,
+      "url": "http://www.tvmaze.com/characters/63163/power-shawn",
+      "name": "Shawn",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72948.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72948.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63163"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 184513,
+      "url": "http://www.tvmaze.com/people/184513/michael-j-ferguson",
+      "name": "Michael J Ferguson",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/210/527140.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/210/527140.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/184513"
+        }
+      }
+    },
+    "character": {
+      "id": 449458,
+      "url": "http://www.tvmaze.com/characters/449458/power-2-bit",
+      "name": "2-Bit",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/449458"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 59676,
+      "url": "http://www.tvmaze.com/people/59676/callan-mulvey",
+      "name": "Callan Mulvey",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1975-02-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/70/177242.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/70/177242.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/59676"
+        }
+      }
+    },
+    "character": {
+      "id": 315849,
+      "url": "http://www.tvmaze.com/characters/315849/power-dean",
+      "name": "Dean",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/315849"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 23822,
+      "url": "http://www.tvmaze.com/people/23822/kathrine-narducci",
+      "name": "Kathrine Narducci",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1965-11-22",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8913.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8913.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/23822"
+        }
+      }
+    },
+    "character": {
+      "id": 63166,
+      "url": "http://www.tvmaze.com/characters/63166/power-frankie-lavarro",
+      "name": "Frankie Lavarro",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72964.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72964.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63166"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 15575,
+      "url": "http://www.tvmaze.com/people/15575/greg-serano",
+      "name": "Greg Serano",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1972-08-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/157/393404.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/157/393404.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/15575"
+        }
+      }
+    },
+    "character": {
+      "id": 63152,
+      "url": "http://www.tvmaze.com/characters/63152/power-juan-julio-medina",
+      "name": "Juan Julio Medina",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72973.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72973.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/63152"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 1781,
+      "url": "http://www.tvmaze.com/people/1781/mike-dopud",
+      "name": "Mike Dopud",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1968-06-10",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/141/352882.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/141/352882.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/1781"
+        }
+      }
+    },
+    "character": {
+      "id": 449460,
+      "url": "http://www.tvmaze.com/characters/449460/power-jason-micic",
+      "name": "Jason Micic",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/449460"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 1508,
+      "url": "http://www.tvmaze.com/people/1508/monique-gabriela-curnen",
+      "name": "Monique Gabriela Curnen",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1970-09-07",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/189/473769.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/189/473769.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/1508"
+        }
+      }
+    },
+    "character": {
+      "id": 652960,
+      "url": "http://www.tvmaze.com/characters/652960/power-det-blanca-rodriguez",
+      "name": "Det. Blanca Rodriguez",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/652960"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 5439,
+      "url": "http://www.tvmaze.com/people/5439/evan-handler",
+      "name": "Evan Handler",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1961-01-10",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10000.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10000.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5439"
+        }
+      }
+    },
+    "character": {
+      "id": 652961,
+      "url": "http://www.tvmaze.com/characters/652961/power-jacob-warner",
+      "name": "Jacob Warner",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/652961"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 560,
+      "url": "http://www.tvmaze.com/people/560/cynthia-addai-robinson",
+      "name": "Cynthia Addai Robinson",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1985-01-12",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/7790.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/7790.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/560"
+        }
+      }
+    },
+    "character": {
+      "id": 652959,
+      "url": "http://www.tvmaze.com/characters/652959/power-ramona-garrity",
+      "name": "Ramona Garrity",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/652959"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

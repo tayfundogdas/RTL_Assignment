@@ -1,0 +1,298 @@
+[
+  {
+    "person": {
+      "id": 114181,
+      "url": "http://www.tvmaze.com/people/114181/gizelle-bryant",
+      "name": "Gizelle Bryant",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1970-09-09",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/107/267986.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/107/267986.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/114181"
+        }
+      }
+    },
+    "character": {
+      "id": 408702,
+      "url": "http://www.tvmaze.com/characters/408702/the-real-housewives-of-potomac-gizelle-bryant",
+      "name": "Gizelle Bryant",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/408702"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 171418,
+      "url": "http://www.tvmaze.com/people/171418/charrisse-jackson-jordan",
+      "name": "Charrisse Jackson Jordan",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/107/267985.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/107/267985.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171418"
+        }
+      }
+    },
+    "character": {
+      "id": 408701,
+      "url": "http://www.tvmaze.com/characters/408701/the-real-housewives-of-potomac-charrisse-jackson-jordan",
+      "name": "Charrisse Jackson Jordan",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/408701"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 171419,
+      "url": "http://www.tvmaze.com/people/171419/robyn-dixon",
+      "name": "Robyn Dixon",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/107/267984.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/107/267984.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171419"
+        }
+      }
+    },
+    "character": {
+      "id": 408700,
+      "url": "http://www.tvmaze.com/characters/408700/the-real-housewives-of-potomac-robyn-dixon",
+      "name": "Robyn Dixon",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/408700"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 171420,
+      "url": "http://www.tvmaze.com/people/171420/ashley-darby",
+      "name": "Ashley Darby",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/107/267987.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/107/267987.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171420"
+        }
+      }
+    },
+    "character": {
+      "id": 408703,
+      "url": "http://www.tvmaze.com/characters/408703/the-real-housewives-of-potomac-ashley-darby",
+      "name": "Ashley Darby",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/408703"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 171421,
+      "url": "http://www.tvmaze.com/people/171421/karen-huger",
+      "name": "Karen Huger",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/107/267988.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/107/267988.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171421"
+        }
+      }
+    },
+    "character": {
+      "id": 408704,
+      "url": "http://www.tvmaze.com/characters/408704/the-real-housewives-of-potomac-karen-huger",
+      "name": "Karen Huger",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/408704"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 171422,
+      "url": "http://www.tvmaze.com/people/171422/katie-rost",
+      "name": "Katie Rost",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/107/267989.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/107/267989.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171422"
+        }
+      }
+    },
+    "character": {
+      "id": 408705,
+      "url": "http://www.tvmaze.com/characters/408705/the-real-housewives-of-potomac-katie-rost",
+      "name": "Katie Rost",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/408705"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 171423,
+      "url": "http://www.tvmaze.com/people/171423/monique-samuels",
+      "name": "Monique Samuels",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/107/267990.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/107/267990.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171423"
+        }
+      }
+    },
+    "character": {
+      "id": 408706,
+      "url": "http://www.tvmaze.com/characters/408706/the-real-housewives-of-potomac-monique-samuels",
+      "name": "Monique Samuels",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/408706"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 171424,
+      "url": "http://www.tvmaze.com/people/171424/brynee-baylor",
+      "name": "Brynee Baylor",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/107/267991.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/107/267991.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171424"
+        }
+      }
+    },
+    "character": {
+      "id": 408707,
+      "url": "http://www.tvmaze.com/characters/408707/the-real-housewives-of-potomac-brynee-baylor",
+      "name": "Brynee Baylor",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/408707"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

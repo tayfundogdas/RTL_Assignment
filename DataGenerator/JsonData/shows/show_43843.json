@@ -1,0 +1,187 @@
+[
+  {
+    "person": {
+      "id": 95767,
+      "url": "http://www.tvmaze.com/people/95767/dave-hughes",
+      "name": "Dave Hughes",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1970-11-26",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/26/65991.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/26/65991.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/95767"
+        }
+      }
+    },
+    "character": {
+      "id": 659374,
+      "url": "http://www.tvmaze.com/characters/659374/the-masked-singer-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659374"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 148524,
+      "url": "http://www.tvmaze.com/people/148524/jackie-o",
+      "name": "Jackie O",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/79/199110.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/79/199110.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/148524"
+        }
+      }
+    },
+    "character": {
+      "id": 659375,
+      "url": "http://www.tvmaze.com/characters/659375/the-masked-singer-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659375"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 243783,
+      "url": "http://www.tvmaze.com/people/243783/osher-gunsberg",
+      "name": "Osher Günsberg",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1974-03-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/212/530883.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/212/530883.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/243783"
+        }
+      }
+    },
+    "character": {
+      "id": 659371,
+      "url": "http://www.tvmaze.com/characters/659371/the-masked-singer-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659371"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 26920,
+      "url": "http://www.tvmaze.com/people/26920/lindsay-lohan",
+      "name": "Lindsay Lohan",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1986-07-02",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/83/207507.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/83/207507.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/26920"
+        }
+      }
+    },
+    "character": {
+      "id": 659372,
+      "url": "http://www.tvmaze.com/characters/659372/the-masked-singer-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659372"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 49945,
+      "url": "http://www.tvmaze.com/people/49945/dannii-minogue",
+      "name": "Dannii Minogue",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1971-10-20",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/5/14994.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/5/14994.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/49945"
+        }
+      }
+    },
+    "character": {
+      "id": 659373,
+      "url": "http://www.tvmaze.com/characters/659373/the-masked-singer-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659373"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

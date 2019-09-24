@@ -1,0 +1,181 @@
+[
+  {
+    "person": {
+      "id": 246237,
+      "url": "http://www.tvmaze.com/people/246237/yagiz-can-konyali",
+      "name": "Yağız Can Konyalı",
+      "country": {
+        "name": "Turkey",
+        "code": "TR",
+        "timezone": "Europe/Istanbul"
+      },
+      "birthday": "1991-09-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/212/530366.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/212/530366.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/246237"
+        }
+      }
+    },
+    "character": {
+      "id": 659091,
+      "url": "http://www.tvmaze.com/characters/659091/ask-aglatir-ruzgar",
+      "name": "Rüzgar",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659091"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 152093,
+      "url": "http://www.tvmaze.com/people/152093/deniz-can-aktas",
+      "name": "Deniz Can Aktaş",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/514176.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/514176.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/152093"
+        }
+      }
+    },
+    "character": {
+      "id": 654988,
+      "url": "http://www.tvmaze.com/characters/654988/ask-aglatir-yusuf",
+      "name": "Yusuf",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/210/525028.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/210/525028.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654988"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 189501,
+      "url": "http://www.tvmaze.com/people/189501/oktay-cubuk",
+      "name": "Oktay Çubuk",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/212/530368.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/212/530368.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/189501"
+        }
+      }
+    },
+    "character": {
+      "id": 659092,
+      "url": "http://www.tvmaze.com/characters/659092/ask-aglatir-firat",
+      "name": "Fırat",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659092"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 205346,
+      "url": "http://www.tvmaze.com/people/205346/lacin-ceylan",
+      "name": "Laçin Ceylan",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/210/525031.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/210/525031.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/205346"
+        }
+      }
+    },
+    "character": {
+      "id": 654990,
+      "url": "http://www.tvmaze.com/characters/654990/ask-aglatir-sumru",
+      "name": "Sumru",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654990"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 244893,
+      "url": "http://www.tvmaze.com/people/244893/hafsanur-sancaktutan",
+      "name": "Hafsanur Sancaktutan",
+      "country": {
+        "name": "Turkey",
+        "code": "TR",
+        "timezone": "Europe/Istanbul"
+      },
+      "birthday": "2000-03-20",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/210/525029.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/210/525029.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/244893"
+        }
+      }
+    },
+    "character": {
+      "id": 654989,
+      "url": "http://www.tvmaze.com/characters/654989/ask-aglatir-ada",
+      "name": "Ada",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/210/525030.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/210/525030.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654989"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

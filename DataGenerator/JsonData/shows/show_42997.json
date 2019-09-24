@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 9283,
+      "url": "http://www.tvmaze.com/people/9283/peter-coyote",
+      "name": "Peter Coyote",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1941-10-10",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/128/321121.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/128/321121.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9283"
+        }
+      }
+    },
+    "character": {
+      "id": 659590,
+      "url": "http://www.tvmaze.com/characters/659590/country-music-narrator",
+      "name": "Narrator",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659590"
+        }
+      }
+    },
+    "self": true,
+    "voice": true
+  }
+]

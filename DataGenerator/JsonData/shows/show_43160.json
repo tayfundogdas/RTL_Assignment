@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 68669,
+      "url": "http://www.tvmaze.com/people/68669/scott-disick",
+      "name": "Scott Disick",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1983-05-26",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30625.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30625.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/68669"
+        }
+      }
+    },
+    "character": {
+      "id": 646469,
+      "url": "http://www.tvmaze.com/characters/646469/flip-it-like-disick-scott-disick",
+      "name": "Scott Disick",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/646469"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

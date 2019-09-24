@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 63942,
+      "url": "http://www.tvmaze.com/people/63942/fareed-zakaria",
+      "name": "Fareed Zakaria",
+      "country": {
+        "name": "India",
+        "code": "IN",
+        "timezone": "Asia/Kolkata"
+      },
+      "birthday": "1964-01-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/38/96605.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/38/96605.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/63942"
+        }
+      }
+    },
+    "character": {
+      "id": 228250,
+      "url": "http://www.tvmaze.com/characters/228250/fareed-zakaria-gps-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/228250"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

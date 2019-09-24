@@ -1,0 +1,421 @@
+[
+  {
+    "person": {
+      "id": 52294,
+      "url": "http://www.tvmaze.com/people/52294/david-wenham",
+      "name": "David Wenham",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1965-09-21",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/10/26903.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/26903.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/52294"
+        }
+      }
+    },
+    "character": {
+      "id": 585638,
+      "url": "http://www.tvmaze.com/characters/585638/les-norton-price-galese",
+      "name": "Price Galese",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/520144.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/520144.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/585638"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 95057,
+      "url": "http://www.tvmaze.com/people/95057/hunter-page-lochard",
+      "name": "Hunter Page-Lochard",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1993-07-04",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/28/70082.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/28/70082.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/95057"
+        }
+      }
+    },
+    "character": {
+      "id": 648903,
+      "url": "http://www.tvmaze.com/characters/648903/les-norton-billy-dunne",
+      "name": "Billy Dunne",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/520151.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/520151.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/648903"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 154119,
+      "url": "http://www.tvmaze.com/people/154119/alexander-bertrand",
+      "name": "Alexander Bertrand",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/206/516937.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/206/516937.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/154119"
+        }
+      }
+    },
+    "character": {
+      "id": 585636,
+      "url": "http://www.tvmaze.com/characters/585636/les-norton-les-norton",
+      "name": "Les Norton",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/520153.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/520153.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/585636"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 201753,
+      "url": "http://www.tvmaze.com/people/201753/justin-rosniak",
+      "name": "Justin Rosniak",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1977-05-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/146/365810.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/146/365810.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/201753"
+        }
+      }
+    },
+    "character": {
+      "id": 648907,
+      "url": "http://www.tvmaze.com/characters/648907/les-norton-eddie-salita",
+      "name": "Eddie Salita",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/520147.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/520147.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/648907"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 242753,
+      "url": "http://www.tvmaze.com/people/242753/syd-zygier",
+      "name": "Syd Zygier",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/242753"
+        }
+      }
+    },
+    "character": {
+      "id": 648905,
+      "url": "http://www.tvmaze.com/characters/648905/les-norton-constable-emily-gold",
+      "name": "Constable Emily Gold",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/520150.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/520150.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/648905"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 44668,
+      "url": "http://www.tvmaze.com/people/44668/steve-le-marquand",
+      "name": "Steve Le Marquand",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1967-12-26",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/67/167783.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/67/167783.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/44668"
+        }
+      }
+    },
+    "character": {
+      "id": 648906,
+      "url": "http://www.tvmaze.com/characters/648906/les-norton-sgt-ray-thumper-burrell",
+      "name": "Sgt. Ray \"Thumper\" Burrell",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/520145.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/520145.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/648906"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 52977,
+      "url": "http://www.tvmaze.com/people/52977/rebel-wilson",
+      "name": "Rebel Wilson",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1980-03-02",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/19314.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19314.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/52977"
+        }
+      }
+    },
+    "character": {
+      "id": 647731,
+      "url": "http://www.tvmaze.com/characters/647731/les-norton-dolores",
+      "name": "Dolores",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/520143.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/520143.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/647731"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 92865,
+      "url": "http://www.tvmaze.com/people/92865/angus-sampson",
+      "name": "Angus Sampson",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1979-02-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/140/350512.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/140/350512.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/92865"
+        }
+      }
+    },
+    "character": {
+      "id": 648918,
+      "url": "http://www.tvmaze.com/characters/648918/les-norton-the-narrator",
+      "name": "The Narrator",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/648918"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 184709,
+      "url": "http://www.tvmaze.com/people/184709/pallavi-sharda",
+      "name": "Pallavi Sharda",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1990-03-05",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/124/311903.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/124/311903.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/184709"
+        }
+      }
+    },
+    "character": {
+      "id": 648904,
+      "url": "http://www.tvmaze.com/characters/648904/les-norton-georgie-burman",
+      "name": "Georgie Burman",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/520148.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/520148.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/648904"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 212722,
+      "url": "http://www.tvmaze.com/people/212722/kate-box",
+      "name": "Kate Box",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/212722"
+        }
+      }
+    },
+    "character": {
+      "id": 648902,
+      "url": "http://www.tvmaze.com/characters/648902/les-norton-lauren-lozza-johnson",
+      "name": "Lauren \"Lozza\" Johnson",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/520152.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/520152.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/648902"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 52977,
+      "url": "http://www.tvmaze.com/people/52977/rebel-wilson",
+      "name": "Rebel Wilson",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1980-03-02",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/19314.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19314.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/52977"
+        }
+      }
+    },
+    "character": {
+      "id": 585637,
+      "url": "http://www.tvmaze.com/characters/585637/les-norton-doreen",
+      "name": "Doreen",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/206/516953.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/206/516953.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/585637"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

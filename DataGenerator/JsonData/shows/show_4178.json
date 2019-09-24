@@ -1,0 +1,35 @@
+[
+  {
+    "person": {
+      "id": 87795,
+      "url": "http://www.tvmaze.com/people/87795/dr-susan-kelleher",
+      "name": "Dr. Susan Kelleher",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/51468.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/51468.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87795"
+        }
+      }
+    },
+    "character": {
+      "id": 175005,
+      "url": "http://www.tvmaze.com/characters/175005/dr-ks-exotic-animal-er-dr-susan-kelleher",
+      "name": "Dr. Susan Kelleher",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/175005"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 53068,
+      "url": "http://www.tvmaze.com/people/53068/linda-de-mol",
+      "name": "Linda de Mol",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/8/20642.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/20642.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/53068"
+        }
+      }
+    },
+    "character": {
+      "id": 263342,
+      "url": "http://www.tvmaze.com/characters/263342/postcode-loterij-miljoenenjacht-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/263342"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "person": {
+      "id": 5670,
+      "url": "http://www.tvmaze.com/people/5670/treat-williams",
+      "name": "Treat Williams",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1951-12-01",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/71/177715.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/71/177715.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5670"
+        }
+      }
+    },
+    "character": {
+      "id": 188591,
+      "url": "http://www.tvmaze.com/characters/188591/chesapeake-shores-mick-obrien",
+      "name": "Mick O'Brien",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/173891.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/173891.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/188591"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 8759,
+      "url": "http://www.tvmaze.com/people/8759/barbara-niven",
+      "name": "Barbara Niven",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1953-02-26",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/174729.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/174729.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/8759"
+        }
+      }
+    },
+    "character": {
+      "id": 188587,
+      "url": "http://www.tvmaze.com/characters/188587/chesapeake-shores-megan-obrien",
+      "name": "Megan O'Brien",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/173893.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/173893.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/188587"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 36576,
+      "url": "http://www.tvmaze.com/people/36576/jesse-metcalfe",
+      "name": "Jesse Metcalfe",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1978-12-09",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/6/16342.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/6/16342.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/36576"
+        }
+      }
+    },
+    "character": {
+      "id": 188589,
+      "url": "http://www.tvmaze.com/characters/188589/chesapeake-shores-trace-riley",
+      "name": "Trace Riley",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/173890.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/173890.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/188589"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 2920,
+      "url": "http://www.tvmaze.com/people/2920/meghan-ory",
+      "name": "Meghan Ory",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1982-08-20",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/4238.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/4238.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/2920"
+        }
+      }
+    },
+    "character": {
+      "id": 313233,
+      "url": "http://www.tvmaze.com/characters/313233/chesapeake-shores-abby-obrien-winters",
+      "name": "Abby O'Brien Winters",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/173900.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/173900.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/313233"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 53160,
+      "url": "http://www.tvmaze.com/people/53160/diane-ladd",
+      "name": "Diane Ladd",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1935-11-29",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/174718.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/174718.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/53160"
+        }
+      }
+    },
+    "character": {
+      "id": 188588,
+      "url": "http://www.tvmaze.com/characters/188588/chesapeake-shores-nell-obrien",
+      "name": "Nell O'Brien",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/173892.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/173892.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/188588"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 311,
+      "url": "http://www.tvmaze.com/people/311/laci-j-mailey",
+      "name": "Laci J. Mailey",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1990-11-15",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/2/6896.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/2/6896.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/311"
+        }
+      }
+    },
+    "character": {
+      "id": 313239,
+      "url": "http://www.tvmaze.com/characters/313239/chesapeake-shores-jess-obrien",
+      "name": "Jess O'Brien",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/173894.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/173894.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/313239"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 846,
+      "url": "http://www.tvmaze.com/people/846/andrew-francis",
+      "name": "Andrew Francis",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10627.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10627.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/846"
+        }
+      }
+    },
+    "character": {
+      "id": 317809,
+      "url": "http://www.tvmaze.com/characters/317809/chesapeake-shores-connor-obrien",
+      "name": "Connor O'Brien",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/72/180081.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/72/180081.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/317809"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 4288,
+      "url": "http://www.tvmaze.com/people/4288/emilie-ullerup",
+      "name": "Emilie Ullerup",
+      "country": {
+        "name": "Denmark",
+        "code": "DK",
+        "timezone": "Europe/Copenhagen"
+      },
+      "birthday": "1984-10-27",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10132.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10132.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/4288"
+        }
+      }
+    },
+    "character": {
+      "id": 313238,
+      "url": "http://www.tvmaze.com/characters/313238/chesapeake-shores-bree-obrien",
+      "name": "Bree O'Brien",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/173895.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/173895.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/313238"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 3484,
+      "url": "http://www.tvmaze.com/people/3484/brendan-penny",
+      "name": "Brendan Penny",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8703.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8703.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/3484"
+        }
+      }
+    },
+    "character": {
+      "id": 313237,
+      "url": "http://www.tvmaze.com/characters/313237/chesapeake-shores-kevin-obrien",
+      "name": "Kevin O'Brien",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/173896.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/173896.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/313237"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

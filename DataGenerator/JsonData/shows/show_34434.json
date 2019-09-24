@@ -1,0 +1,35 @@
+[
+  {
+    "person": {
+      "id": 93595,
+      "url": "http://www.tvmaze.com/people/93595/katie-daryl",
+      "name": "Katie Daryl",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/24/62173.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/24/62173.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/93595"
+        }
+      }
+    },
+    "character": {
+      "id": 498867,
+      "url": "http://www.tvmaze.com/characters/498867/the-top-ten-revealed-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/498867"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "person": {
+      "id": 10752,
+      "url": "http://www.tvmaze.com/people/10752/ted-levine",
+      "name": "Ted Levine",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1957-05-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8575.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8575.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/10752"
+        }
+      }
+    },
+    "character": {
+      "id": 557623,
+      "url": "http://www.tvmaze.com/characters/557623/on-becoming-a-god-in-central-florida-obie-garbeau-ii",
+      "name": "Obie Garbeau II",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/557623"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 11301,
+      "url": "http://www.tvmaze.com/people/11301/mel-rodriguez",
+      "name": "Mel Rodriguez",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1973-06-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/1972.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1972.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/11301"
+        }
+      }
+    },
+    "character": {
+      "id": 557624,
+      "url": "http://www.tvmaze.com/characters/557624/on-becoming-a-god-in-central-florida-ernie",
+      "name": "Ernie",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/557624"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 42355,
+      "url": "http://www.tvmaze.com/people/42355/kirsten-dunst",
+      "name": "Kirsten Dunst",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1982-04-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/9/23428.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/9/23428.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/42355"
+        }
+      }
+    },
+    "character": {
+      "id": 366133,
+      "url": "http://www.tvmaze.com/characters/366133/on-becoming-a-god-in-central-florida-krystal-stubbs",
+      "name": "Krystal Stubbs",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/210/525473.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/210/525473.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/366133"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219821,
+      "url": "http://www.tvmaze.com/people/219821/theodore-pellerin",
+      "name": "Théodore Pellerin",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/189/472742.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/189/472742.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219821"
+        }
+      }
+    },
+    "character": {
+      "id": 571284,
+      "url": "http://www.tvmaze.com/characters/571284/on-becoming-a-god-in-central-florida-cody",
+      "name": "Cody",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/571284"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 127829,
+      "url": "http://www.tvmaze.com/people/127829/beth-ditto",
+      "name": "Beth Ditto",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1981-02-19",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/113/284405.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/113/284405.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127829"
+        }
+      }
+    },
+    "character": {
+      "id": 557625,
+      "url": "http://www.tvmaze.com/characters/557625/on-becoming-a-god-in-central-florida-bets",
+      "name": "Bets",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/557625"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

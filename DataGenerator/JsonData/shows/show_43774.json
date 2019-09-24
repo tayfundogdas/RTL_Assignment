@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 92334,
+      "url": "http://www.tvmaze.com/people/92334/sven-de-leijer",
+      "name": "Sven De Leijer",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1979-08-17",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422308.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422308.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/92334"
+        }
+      }
+    },
+    "character": {
+      "id": 656282,
+      "url": "http://www.tvmaze.com/characters/656282/donderen-in-keulen-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/656282"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

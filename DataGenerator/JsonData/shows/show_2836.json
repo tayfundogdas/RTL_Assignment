@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 64974,
+      "url": "http://www.tvmaze.com/people/64974/andy-cohen",
+      "name": "Andy Cohen",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1968-06-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30538.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30538.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64974"
+        }
+      }
+    },
+    "character": {
+      "id": 162749,
+      "url": "http://www.tvmaze.com/characters/162749/watch-what-happens-live-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/162749"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

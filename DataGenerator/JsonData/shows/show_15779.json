@@ -1,0 +1,187 @@
+[
+  {
+    "person": {
+      "id": 118729,
+      "url": "http://www.tvmaze.com/people/118729/charles-kuralt",
+      "name": "Charles Kuralt",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1934-09-10",
+      "deathday": "1997-07-04",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/118/295172.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/118/295172.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/118729"
+        }
+      }
+    },
+    "character": {
+      "id": 438651,
+      "url": "http://www.tvmaze.com/characters/438651/cbs-news-sunday-morning-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/438651"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 127175,
+      "url": "http://www.tvmaze.com/people/127175/charles-osgood",
+      "name": "Charles Osgood",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1933-01-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/117/293980.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/117/293980.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127175"
+        }
+      }
+    },
+    "character": {
+      "id": 438651,
+      "url": "http://www.tvmaze.com/characters/438651/cbs-news-sunday-morning-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/438651"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 70403,
+      "url": "http://www.tvmaze.com/people/70403/jane-pauley",
+      "name": "Jane Pauley",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1950-10-31",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/45/113584.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/45/113584.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/70403"
+        }
+      }
+    },
+    "character": {
+      "id": 438651,
+      "url": "http://www.tvmaze.com/characters/438651/cbs-news-sunday-morning-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/438651"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 127170,
+      "url": "http://www.tvmaze.com/people/127170/lee-cowan",
+      "name": "Lee Cowan",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1965-05-01",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/118/295173.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/118/295173.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127170"
+        }
+      }
+    },
+    "character": {
+      "id": 438650,
+      "url": "http://www.tvmaze.com/characters/438650/cbs-news-sunday-morning-substitute-host",
+      "name": "Substitute Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/438650"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 746,
+      "url": "http://www.tvmaze.com/people/746/erin-moriarty",
+      "name": "Erin Moriarty",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1952-04-06",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/167/419019.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/167/419019.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/746"
+        }
+      }
+    },
+    "character": {
+      "id": 557280,
+      "url": "http://www.tvmaze.com/characters/557280/cbs-news-sunday-morning-erin",
+      "name": "Erin",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/557280"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

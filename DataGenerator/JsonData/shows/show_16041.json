@@ -1,0 +1,150 @@
+[
+  {
+    "person": {
+      "id": 95612,
+      "url": "http://www.tvmaze.com/people/95612/jalen-rose",
+      "name": "Jalen Rose",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1973-01-30",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/93/233048.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/93/233048.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/95612"
+        }
+      }
+    },
+    "character": {
+      "id": 296697,
+      "url": "http://www.tvmaze.com/characters/296697/to-tell-the-truth-jalen-rose",
+      "name": "Jalen Rose",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/296697"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 7695,
+      "url": "http://www.tvmaze.com/people/7695/anthony-anderson",
+      "name": "Anthony Anderson",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1970-08-15",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10691.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10691.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/7695"
+        }
+      }
+    },
+    "character": {
+      "id": 273786,
+      "url": "http://www.tvmaze.com/characters/273786/to-tell-the-truth-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/273786"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 36361,
+      "url": "http://www.tvmaze.com/people/36361/nene-leakes",
+      "name": "NeNe Leakes",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1967-12-13",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10155.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10155.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/36361"
+        }
+      }
+    },
+    "character": {
+      "id": 296696,
+      "url": "http://www.tvmaze.com/characters/296696/to-tell-the-truth-nene-leakes",
+      "name": "NeNe Leakes",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/296696"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 11487,
+      "url": "http://www.tvmaze.com/people/11487/betty-white",
+      "name": "Betty White",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1922-01-17",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/7898.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/7898.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/11487"
+        }
+      }
+    },
+    "character": {
+      "id": 296695,
+      "url": "http://www.tvmaze.com/characters/296695/to-tell-the-truth-betty-white",
+      "name": "Betty White",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/296695"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

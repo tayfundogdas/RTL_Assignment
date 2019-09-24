@@ -1,0 +1,311 @@
+[
+  {
+    "person": {
+      "id": 137439,
+      "url": "http://www.tvmaze.com/people/137439/jamie-durie",
+      "name": "Jamie Durie",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1970-06-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/74/187149.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/74/187149.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/137439"
+        }
+      }
+    },
+    "character": {
+      "id": 324401,
+      "url": "http://www.tvmaze.com/characters/324401/the-block-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/324401"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 144698,
+      "url": "http://www.tvmaze.com/people/144698/scott-cam",
+      "name": "Scott Cam",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/82/205263.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/82/205263.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/144698"
+        }
+      }
+    },
+    "character": {
+      "id": 324401,
+      "url": "http://www.tvmaze.com/characters/324401/the-block-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/324401"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 144705,
+      "url": "http://www.tvmaze.com/people/144705/neale-whitaker",
+      "name": "Neale Whitaker",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/82/205584.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/82/205584.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/144705"
+        }
+      }
+    },
+    "character": {
+      "id": 324402,
+      "url": "http://www.tvmaze.com/characters/324402/the-block-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/324402"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 144710,
+      "url": "http://www.tvmaze.com/people/144710/darren-palmer",
+      "name": "Darren Palmer",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/82/205586.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/82/205586.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/144710"
+        }
+      }
+    },
+    "character": {
+      "id": 324402,
+      "url": "http://www.tvmaze.com/characters/324402/the-block-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/324402"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 97186,
+      "url": "http://www.tvmaze.com/people/97186/john-mcgrath",
+      "name": "John McGrath",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/27/68585.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/27/68585.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/97186"
+        }
+      }
+    },
+    "character": {
+      "id": 324402,
+      "url": "http://www.tvmaze.com/characters/324402/the-block-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/324402"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 126661,
+      "url": "http://www.tvmaze.com/people/126661/shaynna-blaze",
+      "name": "Shaynna Blaze",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/74/187142.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/74/187142.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/126661"
+        }
+      }
+    },
+    "character": {
+      "id": 324402,
+      "url": "http://www.tvmaze.com/characters/324402/the-block-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/324402"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 144699,
+      "url": "http://www.tvmaze.com/people/144699/shelley-craft",
+      "name": "Shelley Craft",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/82/205266.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/82/205266.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/144699"
+        }
+      }
+    },
+    "character": {
+      "id": 324410,
+      "url": "http://www.tvmaze.com/characters/324410/the-block-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/324410"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 145617,
+      "url": "http://www.tvmaze.com/people/145617/keith-schleiger",
+      "name": "Keith Schleiger",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/83/208154.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/83/208154.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/145617"
+        }
+      }
+    },
+    "character": {
+      "id": 327170,
+      "url": "http://www.tvmaze.com/characters/327170/the-block-foreman",
+      "name": "Foreman",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/327170"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 145618,
+      "url": "http://www.tvmaze.com/people/145618/dan-reilly",
+      "name": "Dan Reilly",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/83/208162.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/83/208162.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/145618"
+        }
+      }
+    },
+    "character": {
+      "id": 327171,
+      "url": "http://www.tvmaze.com/characters/327171/the-block-foredan",
+      "name": "Foredan",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/327171"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

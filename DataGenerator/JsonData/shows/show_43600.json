@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 63972,
+      "url": "http://www.tvmaze.com/people/63972/bear-grylls",
+      "name": "Bear Grylls",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1974-06-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/32771.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/32771.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/63972"
+        }
+      }
+    },
+    "character": {
+      "id": 655662,
+      "url": "http://www.tvmaze.com/characters/655662/treasure-island-with-bear-grylls-bear-grylls",
+      "name": "Bear Grylls",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/655662"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

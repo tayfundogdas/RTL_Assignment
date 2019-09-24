@@ -1,0 +1,557 @@
+[
+  {
+    "person": {
+      "id": 80703,
+      "url": "http://www.tvmaze.com/people/80703/aya-endo",
+      "name": "Aya Endo",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1980-02-17",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/77/194837.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/77/194837.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/80703"
+        }
+      }
+    },
+    "character": {
+      "id": 435991,
+      "url": "http://www.tvmaze.com/characters/435991/boruto-naruto-next-generations-sumire-kakei",
+      "name": "Sumire Kakei",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/435991"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 80773,
+      "url": "http://www.tvmaze.com/people/80773/ryoko-shiraishi",
+      "name": "Ryoko Shiraishi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1982-09-07",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/50495.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/50495.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/80773"
+        }
+      }
+    },
+    "character": {
+      "id": 389407,
+      "url": "http://www.tvmaze.com/characters/389407/boruto-naruto-next-generations-chocho-akimichi",
+      "name": "Chōchō Akimichi",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/389407"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 86853,
+      "url": "http://www.tvmaze.com/people/86853/kensho-ono",
+      "name": "Kensho Ono",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1989-10-05",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/28/71414.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/28/71414.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/86853"
+        }
+      }
+    },
+    "character": {
+      "id": 389405,
+      "url": "http://www.tvmaze.com/characters/389405/boruto-naruto-next-generations-shikadai-nara",
+      "name": "Shikadai Nara",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/389405"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 87273,
+      "url": "http://www.tvmaze.com/people/87273/yuko-sanpei",
+      "name": "Yuko Sanpei",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1986-02-28",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/78/195402.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/78/195402.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87273"
+        }
+      }
+    },
+    "character": {
+      "id": 359297,
+      "url": "http://www.tvmaze.com/characters/359297/boruto-naruto-next-generations-boruto-uzumaki",
+      "name": "Boruto Uzumaki",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/359297"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 88815,
+      "url": "http://www.tvmaze.com/people/88815/shinya-hamazoe",
+      "name": "Shinya Hamazoe",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/60/150156.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/60/150156.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/88815"
+        }
+      }
+    },
+    "character": {
+      "id": 435993,
+      "url": "http://www.tvmaze.com/characters/435993/boruto-naruto-next-generations-iwabe-yuino",
+      "name": "Iwabe Yuino",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/435993"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 88964,
+      "url": "http://www.tvmaze.com/people/88964/kokoro-kikuchi",
+      "name": "Kokoro Kikuchi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1982-11-09",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/174380.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/174380.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/88964"
+        }
+      }
+    },
+    "character": {
+      "id": 359296,
+      "url": "http://www.tvmaze.com/characters/359296/boruto-naruto-next-generations-sarada-uchiha",
+      "name": "Sarada Uchiha",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/359296"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 89017,
+      "url": "http://www.tvmaze.com/people/89017/atsushi-abe",
+      "name": "Atsushi Abe",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1981-03-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/77/192988.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/77/192988.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/89017"
+        }
+      }
+    },
+    "character": {
+      "id": 389404,
+      "url": "http://www.tvmaze.com/characters/389404/boruto-naruto-next-generations-inojin-yamanaka",
+      "name": "Inojin Yamanaka",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/389404"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 46570,
+      "url": "http://www.tvmaze.com/people/46570/junko-takeuchi",
+      "name": "Junko Takeuchi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1972-04-05",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/9414.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/9414.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/46570"
+        }
+      }
+    },
+    "character": {
+      "id": 359298,
+      "url": "http://www.tvmaze.com/characters/359298/boruto-naruto-next-generations-naruto-uzumaki",
+      "name": "Naruto Uzumaki",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/359298"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 89611,
+      "url": "http://www.tvmaze.com/people/89611/showtaro-morikubo",
+      "name": "Showtaro Morikubo",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1974-02-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/9517.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/9517.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/89611"
+        }
+      }
+    },
+    "character": {
+      "id": 389409,
+      "url": "http://www.tvmaze.com/characters/389409/boruto-naruto-next-generations-shikamaru-nara",
+      "name": "Shikamaru Nara",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/389409"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 46590,
+      "url": "http://www.tvmaze.com/people/46590/nana-mizuki",
+      "name": "Nana Mizuki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1980-01-21",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/100/251901.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/100/251901.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/46590"
+        }
+      }
+    },
+    "character": {
+      "id": 389406,
+      "url": "http://www.tvmaze.com/characters/389406/boruto-naruto-next-generations-hinata-hyuga",
+      "name": "Hinata Hyuga",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/389406"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 136769,
+      "url": "http://www.tvmaze.com/people/136769/hidenori-takahashi",
+      "name": "Hidenori Takahashi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1983-12-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/63/158255.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/63/158255.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/136769"
+        }
+      }
+    },
+    "character": {
+      "id": 409702,
+      "url": "http://www.tvmaze.com/characters/409702/boruto-naruto-next-generations-konohamaru-sarutobi",
+      "name": "Konohamaru Sarutobi",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/409702"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 46594,
+      "url": "http://www.tvmaze.com/people/46594/shinji-kawada",
+      "name": "Shinji Kawada",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1971-10-06",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/9421.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/9421.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/46594"
+        }
+      }
+    },
+    "character": {
+      "id": 389408,
+      "url": "http://www.tvmaze.com/characters/389408/boruto-naruto-next-generations-shino-aburame",
+      "name": "Shino Aburame",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/389408"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 171726,
+      "url": "http://www.tvmaze.com/people/171726/chihiro-ikki",
+      "name": "Chihiro Ikki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1989-04-16",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/107/269246.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/107/269246.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171726"
+        }
+      }
+    },
+    "character": {
+      "id": 409701,
+      "url": "http://www.tvmaze.com/characters/409701/boruto-naruto-next-generations-denki-kaminarimon",
+      "name": "Denki Kaminarimon",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/409701"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 75893,
+      "url": "http://www.tvmaze.com/people/75893/ryuichi-kijima",
+      "name": "Ryuichi Kijima",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1985-03-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/34537.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/34537.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/75893"
+        }
+      }
+    },
+    "character": {
+      "id": 359299,
+      "url": "http://www.tvmaze.com/characters/359299/boruto-naruto-next-generations-mitsuki",
+      "name": "Mitsuki",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/359299"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 180171,
+      "url": "http://www.tvmaze.com/people/180171/ryo-nishitani",
+      "name": "Ryō Nishitani",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/117/292517.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/117/292517.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/180171"
+        }
+      }
+    },
+    "character": {
+      "id": 435992,
+      "url": "http://www.tvmaze.com/characters/435992/boruto-naruto-next-generations-metal-lee",
+      "name": "Metal Lee",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/435992"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  }
+]

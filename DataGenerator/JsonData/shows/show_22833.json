@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 14728,
+      "url": "http://www.tvmaze.com/people/14728/steve-jones",
+      "name": "Steve Jones",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1977-03-16",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/34/86890.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/34/86890.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/14728"
+        }
+      }
+    },
+    "character": {
+      "id": 347412,
+      "url": "http://www.tvmaze.com/characters/347412/formula-1-presenter",
+      "name": "Presenter",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/347412"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

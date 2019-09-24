@@ -1,0 +1,210 @@
+[
+  {
+    "person": {
+      "id": 68053,
+      "url": "http://www.tvmaze.com/people/68053/hugh-scully",
+      "name": "Hugh Scully",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/68053"
+        }
+      }
+    },
+    "character": {
+      "id": 128560,
+      "url": "http://www.tvmaze.com/characters/128560/antiques-roadshow-hugh-scully",
+      "name": "Hugh Scully",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/128560"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 68051,
+      "url": "http://www.tvmaze.com/people/68051/fiona-bruce",
+      "name": "Fiona Bruce",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1964-04-25",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/18/47041.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/18/47041.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/68051"
+        }
+      }
+    },
+    "character": {
+      "id": 128558,
+      "url": "http://www.tvmaze.com/characters/128558/antiques-roadshow-fiona-bruce",
+      "name": "Fiona Bruce",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/128558"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 68052,
+      "url": "http://www.tvmaze.com/people/68052/michael-aspel",
+      "name": "Michael Aspel",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1933-01-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/18/46922.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/18/46922.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/68052"
+        }
+      }
+    },
+    "character": {
+      "id": 128559,
+      "url": "http://www.tvmaze.com/characters/128559/antiques-roadshow-michael-aspel",
+      "name": "Michael Aspel",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/128559"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 68054,
+      "url": "http://www.tvmaze.com/people/68054/arthur-negus",
+      "name": "Arthur Negus",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/68054"
+        }
+      }
+    },
+    "character": {
+      "id": 128561,
+      "url": "http://www.tvmaze.com/characters/128561/antiques-roadshow-arthur-negus",
+      "name": "Arthur Negus",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/128561"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 40341,
+      "url": "http://www.tvmaze.com/people/40341/angela-rippon",
+      "name": "Angela Rippon",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1944-10-12",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/181/454679.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/181/454679.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/40341"
+        }
+      }
+    },
+    "character": {
+      "id": 128562,
+      "url": "http://www.tvmaze.com/characters/128562/antiques-roadshow-angela-rippon",
+      "name": "Angela Rippon",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/128562"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 68055,
+      "url": "http://www.tvmaze.com/people/68055/bruce-parker",
+      "name": "Bruce Parker",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1941-07-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/117/293440.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/117/293440.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/68055"
+        }
+      }
+    },
+    "character": {
+      "id": 128563,
+      "url": "http://www.tvmaze.com/characters/128563/antiques-roadshow-bruce-parker",
+      "name": "Bruce Parker",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/128563"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

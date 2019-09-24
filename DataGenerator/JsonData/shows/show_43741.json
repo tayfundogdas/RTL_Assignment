@@ -1,0 +1,38 @@
+[
+  {
+    "person": {
+      "id": 137960,
+      "url": "http://www.tvmaze.com/people/137960/jamali-maddix",
+      "name": "Jamali Maddix",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/92/231042.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/92/231042.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/137960"
+        }
+      }
+    },
+    "character": {
+      "id": 655917,
+      "url": "http://www.tvmaze.com/characters/655917/adventures-in-futureland-presenter",
+      "name": "Presenter",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/211/529766.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/211/529766.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/655917"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

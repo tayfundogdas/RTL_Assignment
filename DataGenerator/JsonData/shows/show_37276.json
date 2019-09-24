@@ -1,0 +1,488 @@
+[
+  {
+    "person": {
+      "id": 137849,
+      "url": "http://www.tvmaze.com/people/137849/gokce-yanardag",
+      "name": "Gökçe Yanardağ",
+      "country": {
+        "name": "Turkey",
+        "code": "TR",
+        "timezone": "Europe/Istanbul"
+      },
+      "birthday": "1975-09-18",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/65/163069.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/65/163069.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/137849"
+        }
+      }
+    },
+    "character": {
+      "id": 544028,
+      "url": "http://www.tvmaze.com/characters/544028/elimi-birakma-hulya-akgun",
+      "name": "Hülya Akgün",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404982.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404982.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/544028"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 138684,
+      "url": "http://www.tvmaze.com/people/138684/ebru-aykac",
+      "name": "Ebru Aykaç",
+      "country": {
+        "name": "Turkey",
+        "code": "TR",
+        "timezone": "Europe/Istanbul"
+      },
+      "birthday": "1975-02-07",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/66/166455.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/66/166455.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/138684"
+        }
+      }
+    },
+    "character": {
+      "id": 544040,
+      "url": "http://www.tvmaze.com/characters/544040/elimi-birakma-serap-celen",
+      "name": "Serap Çelen",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/162/405002.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/162/405002.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/544040"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 152916,
+      "url": "http://www.tvmaze.com/people/152916/batuhan-eksi",
+      "name": "Batuhan Ekşi",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/187/469756.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/187/469756.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/152916"
+        }
+      }
+    },
+    "character": {
+      "id": 538948,
+      "url": "http://www.tvmaze.com/characters/538948/elimi-birakma-tarik-yelkenci",
+      "name": "Tarık Yelkenci",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404958.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404958.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/538948"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 157648,
+      "url": "http://www.tvmaze.com/people/157648/burak-tamdogan",
+      "name": "Burak Tamdoğan",
+      "country": {
+        "name": "Turkey",
+        "code": "TR",
+        "timezone": "Europe/Istanbul"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/91/227952.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/91/227952.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/157648"
+        }
+      }
+    },
+    "character": {
+      "id": 544027,
+      "url": "http://www.tvmaze.com/characters/544027/elimi-birakma-azmi-yelkenci",
+      "name": "Azmi Yelkenci",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404977.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404977.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/544027"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 168472,
+      "url": "http://www.tvmaze.com/people/168472/alp-navruz",
+      "name": "Alp Navruz",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/111/278163.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/111/278163.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/168472"
+        }
+      }
+    },
+    "character": {
+      "id": 538936,
+      "url": "http://www.tvmaze.com/characters/538936/elimi-birakma-cenk-celen",
+      "name": "Cenk Çelen",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404955.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404955.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/538936"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 180135,
+      "url": "http://www.tvmaze.com/people/180135/emre-bey",
+      "name": "Emre Bey",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/180135"
+        }
+      }
+    },
+    "character": {
+      "id": 544036,
+      "url": "http://www.tvmaze.com/characters/544036/elimi-birakma-arda-celen",
+      "name": "Arda Çelen",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404992.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404992.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/544036"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 190561,
+      "url": "http://www.tvmaze.com/people/190561/cemre-baysel",
+      "name": "Cemre Baysel",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/143/359414.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/143/359414.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/190561"
+        }
+      }
+    },
+    "character": {
+      "id": 544031,
+      "url": "http://www.tvmaze.com/characters/544031/elimi-birakma-melis-celen",
+      "name": "Melis Çelen",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404987.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404987.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/544031"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129263,
+      "url": "http://www.tvmaze.com/people/129263/dolunay-soysert",
+      "name": "Dolunay Soysert",
+      "country": {
+        "name": "Turkey",
+        "code": "TR",
+        "timezone": "Europe/Istanbul"
+      },
+      "birthday": "1973-03-25",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/137293.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/54/137293.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129263"
+        }
+      }
+    },
+    "character": {
+      "id": 544026,
+      "url": "http://www.tvmaze.com/characters/544026/elimi-birakma-sumru-gunes",
+      "name": "Sumru Güneş",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404956.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404956.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/544026"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 192239,
+      "url": "http://www.tvmaze.com/people/192239/ertugrul-postoglu",
+      "name": "Ertuğrul Postoğlu",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/147/367562.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/147/367562.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/192239"
+        }
+      }
+    },
+    "character": {
+      "id": 544029,
+      "url": "http://www.tvmaze.com/characters/544029/elimi-birakma-mesut-akgun",
+      "name": "Mesut Akgün",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404984.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404984.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/544029"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 134885,
+      "url": "http://www.tvmaze.com/people/134885/cemre-gumeli",
+      "name": "Cemre Gümeli",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/61/152844.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/61/152844.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/134885"
+        }
+      }
+    },
+    "character": {
+      "id": 538952,
+      "url": "http://www.tvmaze.com/characters/538952/elimi-birakma-cansu-kara",
+      "name": "Cansu Kara",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404959.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404959.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/538952"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 212005,
+      "url": "http://www.tvmaze.com/people/212005/yigit-kagan-yazici",
+      "name": "Yiğit Kağan Yazıcı",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/212005"
+        }
+      }
+    },
+    "character": {
+      "id": 544038,
+      "url": "http://www.tvmaze.com/characters/544038/elimi-birakma-mert-gunes",
+      "name": "Mert Güneş",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404996.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404996.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/544038"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 136761,
+      "url": "http://www.tvmaze.com/people/136761/alina-boz",
+      "name": "Alina Boz",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1998-07-14",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/159/398238.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/159/398238.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/136761"
+        }
+      }
+    },
+    "character": {
+      "id": 538935,
+      "url": "http://www.tvmaze.com/characters/538935/elimi-birakma-azra-gunes",
+      "name": "Azra Güneş",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404953.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404953.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/538935"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 137543,
+      "url": "http://www.tvmaze.com/people/137543/seray-gozler",
+      "name": "Seray Gözler",
+      "country": {
+        "name": "Turkey",
+        "code": "TR",
+        "timezone": "Europe/Istanbul"
+      },
+      "birthday": "1961-09-27",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/65/163011.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/65/163011.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/137543"
+        }
+      }
+    },
+    "character": {
+      "id": 538944,
+      "url": "http://www.tvmaze.com/characters/538944/elimi-birakma-feride-celen",
+      "name": "Feride Çelen",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/161/404997.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/161/404997.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/538944"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

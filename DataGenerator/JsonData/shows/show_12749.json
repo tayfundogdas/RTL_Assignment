@@ -1,0 +1,294 @@
+[
+  {
+    "person": {
+      "id": 116822,
+      "url": "http://www.tvmaze.com/people/116822/dennis-storm",
+      "name": "Dennis Storm",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": "1985-06-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/43/109259.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/43/109259.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/116822"
+        }
+      }
+    },
+    "character": {
+      "id": 242147,
+      "url": "http://www.tvmaze.com/characters/242147/3-op-reis-dennis-storm",
+      "name": "Dennis Storm",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/242147"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 116821,
+      "url": "http://www.tvmaze.com/people/116821/geraldine-kemper",
+      "name": "Geraldine Kemper",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": "1990-01-26",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/43/109258.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/43/109258.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/116821"
+        }
+      }
+    },
+    "character": {
+      "id": 242146,
+      "url": "http://www.tvmaze.com/characters/242146/3-op-reis-geraldine-kemper",
+      "name": "Geraldine Kemper",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/242146"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 98995,
+      "url": "http://www.tvmaze.com/people/98995/evi-hanssen",
+      "name": "Evi Hanssen",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1978-11-09",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/201/504828.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/201/504828.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/98995"
+        }
+      }
+    },
+    "character": {
+      "id": 242145,
+      "url": "http://www.tvmaze.com/characters/242145/3-op-reis-evi-hanssen",
+      "name": "Evi Hanssen",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/242145"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 116820,
+      "url": "http://www.tvmaze.com/people/116820/chris-zegers",
+      "name": "Chris Zegers",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": "1971-02-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/43/109261.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/43/109261.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/116820"
+        }
+      }
+    },
+    "character": {
+      "id": 242144,
+      "url": "http://www.tvmaze.com/characters/242144/3-op-reis-chris-zegers",
+      "name": "Chris Zegers",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/242144"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 116823,
+      "url": "http://www.tvmaze.com/people/116823/floortje-dessing",
+      "name": "Floortje Dessing",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": "1970-08-31",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/43/109262.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/43/109262.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/116823"
+        }
+      }
+    },
+    "character": {
+      "id": 242148,
+      "url": "http://www.tvmaze.com/characters/242148/3-op-reis-floortje-dessing",
+      "name": "Floortje Dessing",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/242148"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 53020,
+      "url": "http://www.tvmaze.com/people/53020/katja-schuurman",
+      "name": "Katja Schuurman",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": "1975-02-19",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/514201.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/514201.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/53020"
+        }
+      }
+    },
+    "character": {
+      "id": 242150,
+      "url": "http://www.tvmaze.com/characters/242150/3-op-reis-katja-schuurman",
+      "name": "Katja Schuurman",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/242150"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 85471,
+      "url": "http://www.tvmaze.com/people/85471/patrick-lodiers",
+      "name": "Patrick Lodiers",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/50463.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/50463.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/85471"
+        }
+      }
+    },
+    "character": {
+      "id": 242149,
+      "url": "http://www.tvmaze.com/characters/242149/3-op-reis-patrick-lodiers",
+      "name": "Patrick Lodiers",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/242149"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 96780,
+      "url": "http://www.tvmaze.com/people/96780/nicolette-kluijver",
+      "name": "Nicolette Kluijver",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": "1984-09-29",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/27/67752.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/27/67752.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/96780"
+        }
+      }
+    },
+    "character": {
+      "id": 242151,
+      "url": "http://www.tvmaze.com/characters/242151/3-op-reis-nicolette-kluijver",
+      "name": "Nicolette Kluijver",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/242151"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

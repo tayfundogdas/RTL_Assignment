@@ -1,0 +1,76 @@
+[
+  {
+    "person": {
+      "id": 102352,
+      "url": "http://www.tvmaze.com/people/102352/kim-sung-joo",
+      "name": "Kim Sung Joo",
+      "country": {
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "timezone": "Asia/Seoul"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/32/80830.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/32/80830.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/102352"
+        }
+      }
+    },
+    "character": {
+      "id": 447474,
+      "url": "http://www.tvmaze.com/characters/447474/king-of-masked-singer-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/447474"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 183947,
+      "url": "http://www.tvmaze.com/people/183947/kim-gu-ra",
+      "name": "Kim Gu Ra",
+      "country": {
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "timezone": "Asia/Seoul"
+      },
+      "birthday": "1970-10-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/121/304723.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/121/304723.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/183947"
+        }
+      }
+    },
+    "character": {
+      "id": 447474,
+      "url": "http://www.tvmaze.com/characters/447474/king-of-masked-singer-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/447474"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

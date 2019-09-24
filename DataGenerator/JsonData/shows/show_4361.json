@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 87887,
+      "url": "http://www.tvmaze.com/people/87887/rossi-morreale",
+      "name": "Rossi Morreale",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1977-04-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/51675.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/51675.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87887"
+        }
+      }
+    },
+    "character": {
+      "id": 175223,
+      "url": "http://www.tvmaze.com/characters/175223/halloween-wars-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/175223"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

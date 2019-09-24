@@ -1,0 +1,358 @@
+[
+  {
+    "person": {
+      "id": 149797,
+      "url": "http://www.tvmaze.com/people/149797/amybeth-mcnulty",
+      "name": "Amybeth McNulty",
+      "country": {
+        "name": "Ireland",
+        "code": "IE",
+        "timezone": "Europe/Dublin"
+      },
+      "birthday": "2001-11-07",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/162/406388.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/162/406388.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/149797"
+        }
+      }
+    },
+    "character": {
+      "id": 339069,
+      "url": "http://www.tvmaze.com/characters/339069/anne-with-an-e-anne-shirley",
+      "name": "Anne Shirley",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/184/461033.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/184/461033.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/339069"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 153889,
+      "url": "http://www.tvmaze.com/people/153889/corrine-koslo",
+      "name": "Corrine Koslo",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/178/445967.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/178/445967.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/153889"
+        }
+      }
+    },
+    "character": {
+      "id": 350567,
+      "url": "http://www.tvmaze.com/characters/350567/anne-with-an-e-rachel-lynde",
+      "name": "Rachel Lynde",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/97/243308.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/97/243308.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/350567"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 153890,
+      "url": "http://www.tvmaze.com/people/153890/aymeric-jett-montaz",
+      "name": "Aymeric Jett Montaz",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/104/260925.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/104/260925.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/153890"
+        }
+      }
+    },
+    "character": {
+      "id": 350568,
+      "url": "http://www.tvmaze.com/characters/350568/anne-with-an-e-jerry-baynard",
+      "name": "Jerry Baynard",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/109/272868.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/109/272868.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/350568"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 869,
+      "url": "http://www.tvmaze.com/people/869/dalila-bela",
+      "name": "Dalila Bela",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "2001-10-05",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/148/371003.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/148/371003.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/869"
+        }
+      }
+    },
+    "character": {
+      "id": 350566,
+      "url": "http://www.tvmaze.com/characters/350566/anne-with-an-e-diana-barry",
+      "name": "Diana Barry",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/97/243309.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/97/243309.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/350566"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 31162,
+      "url": "http://www.tvmaze.com/people/31162/geraldine-james",
+      "name": "Geraldine James",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1950-07-06",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/186/466426.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/186/466426.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/31162"
+        }
+      }
+    },
+    "character": {
+      "id": 339287,
+      "url": "http://www.tvmaze.com/characters/339287/anne-with-an-e-marilla-cuthbert",
+      "name": "Marilla Cuthbert",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/184/461036.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/184/461036.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/339287"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 71868,
+      "url": "http://www.tvmaze.com/people/71868/rh-thomson",
+      "name": "R.H. Thomson",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1947-09-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/52/130457.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/52/130457.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/71868"
+        }
+      }
+    },
+    "character": {
+      "id": 339285,
+      "url": "http://www.tvmaze.com/characters/339285/anne-with-an-e-matthew-cuthbert",
+      "name": "Matthew Cuthbert",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/184/461037.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/184/461037.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/339285"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 31701,
+      "url": "http://www.tvmaze.com/people/31701/joanna-douglas",
+      "name": "Joanna Douglas",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1983-04-11",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/37/94819.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/37/94819.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/31701"
+        }
+      }
+    },
+    "character": {
+      "id": 659659,
+      "url": "http://www.tvmaze.com/characters/659659/anne-with-an-e-miss-stacy",
+      "name": "Miss Stacy",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/212/530969.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/212/530969.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/659659"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 86498,
+      "url": "http://www.tvmaze.com/people/86498/dalmar-abuzeid",
+      "name": "Dalmar Abuzeid",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1990-10-23",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/19/49448.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/49448.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/86498"
+        }
+      }
+    },
+    "character": {
+      "id": 541500,
+      "url": "http://www.tvmaze.com/characters/541500/anne-with-an-e-sebastian-bash-lacroix",
+      "name": "Sebastian 'Bash' Lacroix",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/184/461039.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/184/461039.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/541500"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 111074,
+      "url": "http://www.tvmaze.com/people/111074/lucas-jade-zumann",
+      "name": "Lucas Jade Zumann",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/111/277934.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/111/277934.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/111074"
+        }
+      }
+    },
+    "character": {
+      "id": 417956,
+      "url": "http://www.tvmaze.com/characters/417956/anne-with-an-e-gilbert-blythe",
+      "name": "Gilbert Blythe",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/184/461035.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/184/461035.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/417956"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

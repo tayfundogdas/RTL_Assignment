@@ -1,0 +1,150 @@
+[
+  {
+    "person": {
+      "id": 51746,
+      "url": "http://www.tvmaze.com/people/51746/alton-brown",
+      "name": "Alton Brown",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1962-07-30",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/513257.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/513257.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/51746"
+        }
+      }
+    },
+    "character": {
+      "id": 141224,
+      "url": "http://www.tvmaze.com/characters/141224/cutthroat-kitchen-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/141224"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 117923,
+      "url": "http://www.tvmaze.com/people/117923/jet-tila",
+      "name": "Jet Tila",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1975-02-06",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/64/161280.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/64/161280.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/117923"
+        }
+      }
+    },
+    "character": {
+      "id": 296810,
+      "url": "http://www.tvmaze.com/characters/296810/cutthroat-kitchen-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/296810"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135635,
+      "url": "http://www.tvmaze.com/people/135635/simon-majumdar",
+      "name": "Simon Majumdar",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1964-04-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/64/161281.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/64/161281.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135635"
+        }
+      }
+    },
+    "character": {
+      "id": 296811,
+      "url": "http://www.tvmaze.com/characters/296811/cutthroat-kitchen-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/296811"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 135636,
+      "url": "http://www.tvmaze.com/people/135636/antonia-lofaso",
+      "name": "Antonia Lofaso",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1976-11-23",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/64/161279.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/64/161279.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/135636"
+        }
+      }
+    },
+    "character": {
+      "id": 296812,
+      "url": "http://www.tvmaze.com/characters/296812/cutthroat-kitchen-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/296812"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

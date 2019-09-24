@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 55512,
+      "url": "http://www.tvmaze.com/people/55512/julie-chen",
+      "name": "Julie Chen",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1970-01-06",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/119/298860.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/119/298860.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/55512"
+        }
+      }
+    },
+    "character": {
+      "id": 130623,
+      "url": "http://www.tvmaze.com/characters/130623/big-brother-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/130623"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

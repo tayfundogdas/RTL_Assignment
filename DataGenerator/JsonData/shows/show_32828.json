@@ -1,0 +1,76 @@
+[
+  {
+    "person": {
+      "id": 70901,
+      "url": "http://www.tvmaze.com/people/70901/chris-tarrant",
+      "name": "Chris Tarrant",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1946-10-10",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/18/46883.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/18/46883.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/70901"
+        }
+      }
+    },
+    "character": {
+      "id": 472735,
+      "url": "http://www.tvmaze.com/characters/472735/who-wants-to-be-a-millionaire-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/472735"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 64610,
+      "url": "http://www.tvmaze.com/people/64610/jeremy-clarkson",
+      "name": "Jeremy Clarkson",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1960-04-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/32286.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/32286.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64610"
+        }
+      }
+    },
+    "character": {
+      "id": 527257,
+      "url": "http://www.tvmaze.com/characters/527257/who-wants-to-be-a-millionaire-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/527257"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

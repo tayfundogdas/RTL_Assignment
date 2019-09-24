@@ -1,0 +1,105 @@
+[
+  {
+    "person": {
+      "id": 14735,
+      "url": "http://www.tvmaze.com/people/14735/pj-king",
+      "name": "P.J. King",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/31/79710.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/31/79710.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/14735"
+        }
+      }
+    },
+    "character": {
+      "id": 275360,
+      "url": "http://www.tvmaze.com/characters/275360/bar-rescue-narrator",
+      "name": "Narrator",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/275360"
+        }
+      }
+    },
+    "self": true,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 68056,
+      "url": "http://www.tvmaze.com/people/68056/nicole-taffer",
+      "name": "Nicole Taffer",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/31/79709.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/31/79709.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/68056"
+        }
+      }
+    },
+    "character": {
+      "id": 128566,
+      "url": "http://www.tvmaze.com/characters/128566/bar-rescue-nicole-taffer",
+      "name": "Nicole Taffer",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/128566"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 130372,
+      "url": "http://www.tvmaze.com/people/130372/jon-taffer",
+      "name": "Jon Taffer",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1954-11-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/31/79711.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/31/79711.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/130372"
+        }
+      }
+    },
+    "character": {
+      "id": 280923,
+      "url": "http://www.tvmaze.com/characters/280923/bar-rescue-jon-taffer",
+      "name": "Jon Taffer",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/280923"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

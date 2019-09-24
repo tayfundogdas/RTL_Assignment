@@ -1,0 +1,76 @@
+[
+  {
+    "person": {
+      "id": 24226,
+      "url": "http://www.tvmaze.com/people/24226/kristoffer-polaha",
+      "name": "Kristoffer Polaha",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1977-02-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/5/12817.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/5/12817.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/24226"
+        }
+      }
+    },
+    "character": {
+      "id": 647582,
+      "url": "http://www.tvmaze.com/characters/647582/mystery-101-travis",
+      "name": "Travis",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/647582"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 32563,
+      "url": "http://www.tvmaze.com/people/32563/jill-wagner",
+      "name": "Jill Wagner",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1979-01-13",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/32/81354.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/32/81354.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/32563"
+        }
+      }
+    },
+    "character": {
+      "id": 647581,
+      "url": "http://www.tvmaze.com/characters/647581/mystery-101-amy",
+      "name": "Amy",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/647581"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

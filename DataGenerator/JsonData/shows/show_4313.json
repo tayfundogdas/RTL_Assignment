@@ -1,0 +1,190 @@
+[
+  {
+    "person": {
+      "id": 87675,
+      "url": "http://www.tvmaze.com/people/87675/anna-frolovceva",
+      "name": "Анна Фроловцева",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1948-08-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/21/53889.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/21/53889.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87675"
+        }
+      }
+    },
+    "character": {
+      "id": 174735,
+      "url": "http://www.tvmaze.com/characters/174735/voroniny-galina-ivanovna-voronina",
+      "name": "Галина Ивановна Воронина",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/51245.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/51245.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174735"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87676,
+      "url": "http://www.tvmaze.com/people/87676/ekaterina-volkova",
+      "name": "Екатерина Волкова",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1982-01-15",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/21/53891.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/21/53891.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87676"
+        }
+      }
+    },
+    "character": {
+      "id": 174736,
+      "url": "http://www.tvmaze.com/characters/174736/voroniny-vera-voronina",
+      "name": "Вера Воронина",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174736"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87677,
+      "url": "http://www.tvmaze.com/people/87677/georgij-dronov",
+      "name": "Георгий Дронов",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1971-04-17",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/21/53886.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/21/53886.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87677"
+        }
+      }
+    },
+    "character": {
+      "id": 174737,
+      "url": "http://www.tvmaze.com/characters/174737/voroniny-konstantin-nikolaevic-voronin",
+      "name": "Константин Николаевич Воронин",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174737"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87678,
+      "url": "http://www.tvmaze.com/people/87678/boris-kluev",
+      "name": "Борис Клюев",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1944-07-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/21/53892.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/21/53892.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87678"
+        }
+      }
+    },
+    "character": {
+      "id": 174738,
+      "url": "http://www.tvmaze.com/characters/174738/voroniny-nikolaj-petrovic-voronin",
+      "name": "Николай Петрович Воронин",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174738"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87679,
+      "url": "http://www.tvmaze.com/people/87679/stanislav-duznikov",
+      "name": "Станислав Дужников",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1973-05-17",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/21/53887.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/21/53887.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87679"
+        }
+      }
+    },
+    "character": {
+      "id": 174739,
+      "url": "http://www.tvmaze.com/characters/174739/voroniny-leonid-nikolaevic-voronin",
+      "name": "Леонид Николаевич Воронин",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174739"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

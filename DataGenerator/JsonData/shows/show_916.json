@@ -1,0 +1,113 @@
+[
+  {
+    "person": {
+      "id": 51128,
+      "url": "http://www.tvmaze.com/people/51128/chelsea-chanel-dudley",
+      "name": "Chelsea Chanel Dudley",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1988-09-01",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/19718.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19718.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/51128"
+        }
+      }
+    },
+    "character": {
+      "id": 89083,
+      "url": "http://www.tvmaze.com/characters/89083/ridiculousness-chanel-west-coast",
+      "name": "Chanel \"West Coast\"",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/89083"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 51129,
+      "url": "http://www.tvmaze.com/people/51129/sterling-brim",
+      "name": "Sterling Brim",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1988-06-05",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/19739.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19739.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/51129"
+        }
+      }
+    },
+    "character": {
+      "id": 89084,
+      "url": "http://www.tvmaze.com/characters/89084/ridiculousness-sterling-steelo-brim",
+      "name": "Sterling \"Steelo\" Brim",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/89084"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 51131,
+      "url": "http://www.tvmaze.com/people/51131/rob-dyrdek",
+      "name": "Rob Dyrdek",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1974-06-28",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/19/49239.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/49239.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/51131"
+        }
+      }
+    },
+    "character": {
+      "id": 126209,
+      "url": "http://www.tvmaze.com/characters/126209/ridiculousness-rob-dyrdek",
+      "name": "Rob Dyrdek",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/126209"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

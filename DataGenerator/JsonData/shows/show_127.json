@@ -1,0 +1,511 @@
+[
+  {
+    "person": {
+      "id": 26965,
+      "url": "http://www.tvmaze.com/people/26965/dominic-west",
+      "name": "Dominic West",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1969-10-15",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/103/258397.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/103/258397.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/26965"
+        }
+      }
+    },
+    "character": {
+      "id": 35886,
+      "url": "http://www.tvmaze.com/characters/35886/the-affair-noah-solloway",
+      "name": "Noah Solloway",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/1786.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1786.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/35886"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 20557,
+      "url": "http://www.tvmaze.com/people/20557/maura-tierney",
+      "name": "Maura Tierney",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1965-02-03",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/2731.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/2731.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/20557"
+        }
+      }
+    },
+    "character": {
+      "id": 35891,
+      "url": "http://www.tvmaze.com/characters/35891/the-affair-helen-solloway",
+      "name": "Helen Solloway",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/1789.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1789.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/35891"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 26968,
+      "url": "http://www.tvmaze.com/people/26968/ruth-wilson",
+      "name": "Ruth Wilson",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1982-01-13",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/178/446555.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/178/446555.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/26968"
+        }
+      }
+    },
+    "character": {
+      "id": 35894,
+      "url": "http://www.tvmaze.com/characters/35894/the-affair-alison-lockhart",
+      "name": "Alison Lockhart",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/1787.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1787.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/35894"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 16451,
+      "url": "http://www.tvmaze.com/people/16451/jadon-sand",
+      "name": "Jadon Sand",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/159/397860.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/159/397860.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/16451"
+        }
+      }
+    },
+    "character": {
+      "id": 35887,
+      "url": "http://www.tvmaze.com/characters/35887/the-affair-trevor-solloway",
+      "name": "Trevor Solloway",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/175/437742.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/175/437742.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/35887"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 26967,
+      "url": "http://www.tvmaze.com/people/26967/joshua-jackson",
+      "name": "Joshua Jackson",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1978-06-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/147/369750.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/147/369750.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/26967"
+        }
+      }
+    },
+    "character": {
+      "id": 35889,
+      "url": "http://www.tvmaze.com/characters/35889/the-affair-cole-lockhart",
+      "name": "Cole Lockhart",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/1788.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1788.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/35889"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 18033,
+      "url": "http://www.tvmaze.com/people/18033/julia-goldani-telles",
+      "name": "Julia Goldani Telles",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1995-03-18",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/84/210905.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/84/210905.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/18033"
+        }
+      }
+    },
+    "character": {
+      "id": 35890,
+      "url": "http://www.tvmaze.com/characters/35890/the-affair-whitney-solloway",
+      "name": "Whitney Solloway",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/85/214519.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/85/214519.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/35890"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 56983,
+      "url": "http://www.tvmaze.com/people/56983/leya-catlett",
+      "name": "Leya Catlett",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/103/258407.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/103/258407.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/56983"
+        }
+      }
+    },
+    "character": {
+      "id": 102691,
+      "url": "http://www.tvmaze.com/characters/102691/the-affair-stacey-solloway",
+      "name": "Stacey Solloway",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/103/258410.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/103/258410.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/102691"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 26966,
+      "url": "http://www.tvmaze.com/people/26966/jake-siciliano",
+      "name": "Jake Siciliano",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1998-10-23",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/103/258404.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/103/258404.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/26966"
+        }
+      }
+    },
+    "character": {
+      "id": 35888,
+      "url": "http://www.tvmaze.com/characters/35888/the-affair-martin-solloway",
+      "name": "Martin Solloway",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/103/257725.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/103/257725.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/35888"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 15497,
+      "url": "http://www.tvmaze.com/people/15497/omar-metwally",
+      "name": "Omar Metwally",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/17/43676.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/17/43676.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/15497"
+        }
+      }
+    },
+    "character": {
+      "id": 350875,
+      "url": "http://www.tvmaze.com/characters/350875/the-affair-dr-vic-ullah",
+      "name": "Dr. Vic Ullah",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/103/257710.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/103/257710.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/350875"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 7511,
+      "url": "http://www.tvmaze.com/people/7511/catalina-sandino-moreno",
+      "name": "Catalina Sandino Moreno",
+      "country": {
+        "name": "Colombia",
+        "code": "CO",
+        "timezone": "America/Bogota"
+      },
+      "birthday": "1981-04-19",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/85/214520.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/85/214520.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/7511"
+        }
+      }
+    },
+    "character": {
+      "id": 185743,
+      "url": "http://www.tvmaze.com/characters/185743/the-affair-luisa-leon",
+      "name": "Luisa Lèon",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/103/257740.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/103/257740.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/185743"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 50442,
+      "url": "http://www.tvmaze.com/people/50442/sanaa-lathan",
+      "name": "Sanaa Lathan",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1971-09-19",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/44/110593.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/44/110593.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/50442"
+        }
+      }
+    },
+    "character": {
+      "id": 537602,
+      "url": "http://www.tvmaze.com/characters/537602/the-affair-janelle-wilson",
+      "name": "Janelle Wilson",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/175/437750.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/175/437750.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/537602"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 143507,
+      "url": "http://www.tvmaze.com/people/143507/irene-jacob",
+      "name": "Irène Jacob",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": "1966-07-15",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/73/182818.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/182818.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/143507"
+        }
+      }
+    },
+    "character": {
+      "id": 350876,
+      "url": "http://www.tvmaze.com/characters/350876/the-affair-juliette-le-gall",
+      "name": "Juliette Le Gall",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/175/437744.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/175/437744.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/350876"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 4932,
+      "url": "http://www.tvmaze.com/people/4932/anna-paquin",
+      "name": "Anna Paquin",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1982-07-24",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/131/328698.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/131/328698.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/4932"
+        }
+      }
+    },
+    "character": {
+      "id": 571395,
+      "url": "http://www.tvmaze.com/characters/571395/the-affair-joanie-lockhart",
+      "name": "Joanie Lockhart",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/571395"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

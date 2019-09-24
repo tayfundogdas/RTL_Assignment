@@ -1,0 +1,385 @@
+[
+  {
+    "person": {
+      "id": 109300,
+      "url": "http://www.tvmaze.com/people/109300/aleksandr-robak",
+      "name": "Александр Робак",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1973-12-28",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/36/92110.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/36/92110.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/109300"
+        }
+      }
+    },
+    "character": {
+      "id": 654797,
+      "url": "http://www.tvmaze.com/characters/654797/zuki-vahtovik",
+      "name": "вахтовик",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654797"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 116791,
+      "url": "http://www.tvmaze.com/people/116791/anatolij-zuravlev",
+      "name": "Анатолий Журавлёв",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1964-03-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/43/109211.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/43/109211.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/116791"
+        }
+      }
+    },
+    "character": {
+      "id": 654801,
+      "url": "http://www.tvmaze.com/characters/654801/zuki-aleksej-ivanovic-samojlov-veterinar",
+      "name": "Алексей Иванович Самойлов, ветеринар",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524731.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524731.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654801"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 124637,
+      "url": "http://www.tvmaze.com/people/124637/anastasia-akatova",
+      "name": "Анастасия Акатова",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1992-02-16",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/73/184639.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/184639.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/124637"
+        }
+      }
+    },
+    "character": {
+      "id": 654800,
+      "url": "http://www.tvmaze.com/characters/654800/zuki-ana-devuska-nikity",
+      "name": "Аня, девушка Никиты",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524730.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524730.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654800"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 130463,
+      "url": "http://www.tvmaze.com/people/130463/ekaterina-stulova",
+      "name": "Екатерина Стулова",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1977-03-23",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139786.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139786.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/130463"
+        }
+      }
+    },
+    "character": {
+      "id": 654799,
+      "url": "http://www.tvmaze.com/characters/654799/zuki-irina-prodavsica-selpo",
+      "name": "Ирина, продавщица сельпо",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524727.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524727.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654799"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 230095,
+      "url": "http://www.tvmaze.com/people/230095/viktor-byckov",
+      "name": "Виктор Бычков",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1954-09-04",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/188/471628.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/188/471628.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/230095"
+        }
+      }
+    },
+    "character": {
+      "id": 654802,
+      "url": "http://www.tvmaze.com/characters/654802/zuki-otec-aleksandr",
+      "name": "отец Александр",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524732.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524732.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654802"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 244121,
+      "url": "http://www.tvmaze.com/people/244121/pavel-komarov",
+      "name": "Павел Комаров",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/244121"
+        }
+      }
+    },
+    "character": {
+      "id": 653111,
+      "url": "http://www.tvmaze.com/characters/653111/zuki-denis-popov",
+      "name": "Денис Попов",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524725.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524725.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/653111"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 244122,
+      "url": "http://www.tvmaze.com/people/244122/vadim-dubrovin",
+      "name": "Вадим Дубровин",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/244122"
+        }
+      }
+    },
+    "character": {
+      "id": 653112,
+      "url": "http://www.tvmaze.com/characters/653112/zuki-artemij-snajder",
+      "name": "Артемий Шнайдер",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524724.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524724.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/653112"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 100811,
+      "url": "http://www.tvmaze.com/people/100811/vladimir-epifancev",
+      "name": "Владимир Епифанцев",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1971-09-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/37/93770.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/37/93770.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/100811"
+        }
+      }
+    },
+    "character": {
+      "id": 654798,
+      "url": "http://www.tvmaze.com/characters/654798/zuki-tolik",
+      "name": "Толик",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524729.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524729.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654798"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 107412,
+      "url": "http://www.tvmaze.com/people/107412/vaceslav-cepurcenko",
+      "name": "Вячеслав Чепурченко",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1987-07-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/35/87759.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/35/87759.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/107412"
+        }
+      }
+    },
+    "character": {
+      "id": 653110,
+      "url": "http://www.tvmaze.com/characters/653110/zuki-nikita-davydov",
+      "name": "Никита Давыдов",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524723.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524723.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/653110"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 109226,
+      "url": "http://www.tvmaze.com/people/109226/maksim-lagaskin",
+      "name": "Максим Лагашкин",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1976-10-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/36/91991.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/36/91991.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/109226"
+        }
+      }
+    },
+    "character": {
+      "id": 654796,
+      "url": "http://www.tvmaze.com/characters/654796/zuki-maslov-ucastkovyj",
+      "name": "Маслов, участковый",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524726.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524726.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654796"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

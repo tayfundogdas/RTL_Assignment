@@ -1,0 +1,310 @@
+[
+  {
+    "person": {
+      "id": 161503,
+      "url": "http://www.tvmaze.com/people/161503/bray-poor",
+      "name": "Bray Poor",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/95/238424.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/95/238424.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/161503"
+        }
+      }
+    },
+    "character": {
+      "id": 375111,
+      "url": "http://www.tvmaze.com/characters/375111/alaska-the-last-frontier-narrator",
+      "name": "Narrator",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/375111"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 225197,
+      "url": "http://www.tvmaze.com/people/225197/atz-kilcher",
+      "name": "Atz Kilcher",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225197"
+        }
+      }
+    },
+    "character": {
+      "id": 588737,
+      "url": "http://www.tvmaze.com/characters/588737/alaska-the-last-frontier-atz-kilcher",
+      "name": "Atz Kilcher",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452316.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452316.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588737"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 225198,
+      "url": "http://www.tvmaze.com/people/225198/eivin-kilcher",
+      "name": "Eivin Kilcher",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225198"
+        }
+      }
+    },
+    "character": {
+      "id": 588738,
+      "url": "http://www.tvmaze.com/characters/588738/alaska-the-last-frontier-eivin-kilcher",
+      "name": "Eivin Kilcher",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452317.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452317.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588738"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 225199,
+      "url": "http://www.tvmaze.com/people/225199/atz-lee-kilcher",
+      "name": "Atz Lee Kilcher",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225199"
+        }
+      }
+    },
+    "character": {
+      "id": 588739,
+      "url": "http://www.tvmaze.com/characters/588739/alaska-the-last-frontier-atz-lee-kilcher",
+      "name": "Atz Lee Kilcher",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452318.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452318.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588739"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 225200,
+      "url": "http://www.tvmaze.com/people/225200/eve-kilcher",
+      "name": "Eve Kilcher",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225200"
+        }
+      }
+    },
+    "character": {
+      "id": 588740,
+      "url": "http://www.tvmaze.com/characters/588740/alaska-the-last-frontier-eve-kilcher",
+      "name": "Eve Kilcher",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452320.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452320.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588740"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 114440,
+      "url": "http://www.tvmaze.com/people/114440/otto-kilcher",
+      "name": "Otto Kilcher",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/41/102552.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/41/102552.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/114440"
+        }
+      }
+    },
+    "character": {
+      "id": 235949,
+      "url": "http://www.tvmaze.com/characters/235949/alaska-the-last-frontier-otto-kilcher",
+      "name": "Otto Kilcher",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452315.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452315.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/235949"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 225201,
+      "url": "http://www.tvmaze.com/people/225201/jane-kilcher",
+      "name": "Jane Kilcher",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225201"
+        }
+      }
+    },
+    "character": {
+      "id": 588741,
+      "url": "http://www.tvmaze.com/characters/588741/alaska-the-last-frontier-jane-kilcher",
+      "name": "Jane Kilcher",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452322.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452322.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588741"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 225202,
+      "url": "http://www.tvmaze.com/people/225202/charlotte-kilcher",
+      "name": "Charlotte Kilcher",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225202"
+        }
+      }
+    },
+    "character": {
+      "id": 588742,
+      "url": "http://www.tvmaze.com/characters/588742/alaska-the-last-frontier-charlotte-kilcher",
+      "name": "Charlotte Kilcher",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452323.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452323.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588742"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 225203,
+      "url": "http://www.tvmaze.com/people/225203/bonnie-kilcher",
+      "name": "Bonnie Kilcher",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225203"
+        }
+      }
+    },
+    "character": {
+      "id": 588743,
+      "url": "http://www.tvmaze.com/characters/588743/alaska-the-last-frontier-bonnie-kilcher",
+      "name": "Bonnie Kilcher",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452324.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452324.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588743"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

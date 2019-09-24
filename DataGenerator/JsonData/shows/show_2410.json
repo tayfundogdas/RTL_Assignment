@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 216,
+      "url": "http://www.tvmaze.com/people/216/noah-cappe",
+      "name": "Noah Cappe",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1977-12-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/10/27100.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/27100.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216"
+        }
+      }
+    },
+    "character": {
+      "id": 145164,
+      "url": "http://www.tvmaze.com/characters/145164/carnival-eats-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/145164"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

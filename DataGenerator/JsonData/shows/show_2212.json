@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 69088,
+      "url": "http://www.tvmaze.com/people/69088/steve-harvey",
+      "name": "Steve Harvey",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1957-01-17",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/11/29801.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/11/29801.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/69088"
+        }
+      }
+    },
+    "character": {
+      "id": 136972,
+      "url": "http://www.tvmaze.com/characters/136972/celebrity-family-feud-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/136972"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

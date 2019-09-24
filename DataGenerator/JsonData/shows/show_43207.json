@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 63802,
+      "url": "http://www.tvmaze.com/people/63802/peyton-manning",
+      "name": "Peyton Manning",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1976-03-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/119/299937.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/119/299937.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/63802"
+        }
+      }
+    },
+    "character": {
+      "id": 647494,
+      "url": "http://www.tvmaze.com/characters/647494/peytons-places-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/647494"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

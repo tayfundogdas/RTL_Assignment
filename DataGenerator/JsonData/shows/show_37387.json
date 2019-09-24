@@ -1,0 +1,522 @@
+[
+  {
+    "person": {
+      "id": 39290,
+      "url": "http://www.tvmaze.com/people/39290/john-goodman",
+      "name": "John Goodman",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1952-06-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/167/417593.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/167/417593.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/39290"
+        }
+      }
+    },
+    "character": {
+      "id": 539646,
+      "url": "http://www.tvmaze.com/characters/539646/the-righteous-gemstones-eli-gemstone",
+      "name": "Eli Gemstone",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/206/516903.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/206/516903.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/539646"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 12221,
+      "url": "http://www.tvmaze.com/people/12221/adam-devine",
+      "name": "Adam DeVine",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1983-11-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/3412.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/3412.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/12221"
+        }
+      }
+    },
+    "character": {
+      "id": 647720,
+      "url": "http://www.tvmaze.com/characters/647720/the-righteous-gemstones-kelvin-gemstone",
+      "name": "Kelvin Gemstone",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/206/516906.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/206/516906.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/647720"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 14521,
+      "url": "http://www.tvmaze.com/people/14521/tony-cavalero",
+      "name": "Tony Cavalero",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1983-10-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/26/65804.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/26/65804.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/14521"
+        }
+      }
+    },
+    "character": {
+      "id": 542203,
+      "url": "http://www.tvmaze.com/characters/542203/the-righteous-gemstones-keefe-chambers",
+      "name": "Keefe Chambers",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/521317.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/521317.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/542203"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 14739,
+      "url": "http://www.tvmaze.com/people/14739/edi-patterson",
+      "name": "Edi Patterson",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/10/27438.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/27438.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/14739"
+        }
+      }
+    },
+    "character": {
+      "id": 542205,
+      "url": "http://www.tvmaze.com/characters/542205/the-righteous-gemstones-judy-gemstone",
+      "name": "Judy Gemstone",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/206/516907.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/206/516907.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/542205"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 27736,
+      "url": "http://www.tvmaze.com/people/27736/tim-baltz",
+      "name": "Tim Baltz",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/521222.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/521222.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/27736"
+        }
+      }
+    },
+    "character": {
+      "id": 542204,
+      "url": "http://www.tvmaze.com/characters/542204/the-righteous-gemstones-bj",
+      "name": "BJ",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/521324.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/521324.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/542204"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 3250,
+      "url": "http://www.tvmaze.com/people/3250/cassidy-freeman",
+      "name": "Cassidy Freeman",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1982-04-22",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/97908.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/97908.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/3250"
+        }
+      }
+    },
+    "character": {
+      "id": 542202,
+      "url": "http://www.tvmaze.com/characters/542202/the-righteous-gemstones-amber-gemstone",
+      "name": "Amber Gemstone",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/521320.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/521320.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/542202"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 52801,
+      "url": "http://www.tvmaze.com/people/52801/danny-mcbride",
+      "name": "Danny McBride",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1976-12-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/26/65904.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/26/65904.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/52801"
+        }
+      }
+    },
+    "character": {
+      "id": 539645,
+      "url": "http://www.tvmaze.com/characters/539645/the-righteous-gemstones-jesse-gemstone",
+      "name": "Jesse Gemstone",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/206/516904.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/206/516904.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/539645"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 3300,
+      "url": "http://www.tvmaze.com/people/3300/skyler-gisondo",
+      "name": "Skyler Gisondo",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1996-07-22",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/522754.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/522754.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/3300"
+        }
+      }
+    },
+    "character": {
+      "id": 652900,
+      "url": "http://www.tvmaze.com/characters/652900/the-righteous-gemstones-gideon-gemstone",
+      "name": "Gideon Gemstone",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/522753.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/522753.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/652900"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 7330,
+      "url": "http://www.tvmaze.com/people/7330/gregory-alan-williams",
+      "name": "Gregory Alan Williams",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1956-06-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72632.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72632.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/7330"
+        }
+      }
+    },
+    "character": {
+      "id": 647721,
+      "url": "http://www.tvmaze.com/characters/647721/the-righteous-gemstones-martin-imari",
+      "name": "Martin Imari",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/521318.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/521318.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/647721"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 11611,
+      "url": "http://www.tvmaze.com/people/11611/walton-goggins",
+      "name": "Walton Goggins",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1971-11-10",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10179.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10179.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/11611"
+        }
+      }
+    },
+    "character": {
+      "id": 651645,
+      "url": "http://www.tvmaze.com/characters/651645/the-righteous-gemstones-baby-billy-freeman",
+      "name": "Baby Billy Freeman",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/523716.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/523716.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/651645"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 7822,
+      "url": "http://www.tvmaze.com/people/7822/dermot-mulroney",
+      "name": "Dermot Mulroney",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1963-10-31",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/7999.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/7999.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/7822"
+        }
+      }
+    },
+    "character": {
+      "id": 651466,
+      "url": "http://www.tvmaze.com/characters/651466/the-righteous-gemstones-john-wesley-seasons",
+      "name": "John Wesley Seasons",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/521316.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/521316.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/651466"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 130211,
+      "url": "http://www.tvmaze.com/people/130211/jennifer-nettles",
+      "name": "Jennifer Nettles",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1974-09-12",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/87/217533.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/87/217533.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/130211"
+        }
+      }
+    },
+    "character": {
+      "id": 651467,
+      "url": "http://www.tvmaze.com/characters/651467/the-righteous-gemstones-aimee-leigh-gemstone",
+      "name": "Aimee-Leigh Gemstone",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/210/526549.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/210/526549.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/651467"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 38646,
+      "url": "http://www.tvmaze.com/people/38646/m-emmet-walsh",
+      "name": "M. Emmet Walsh",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1935-03-22",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/50771.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/50771.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/38646"
+        }
+      }
+    },
+    "character": {
+      "id": 657837,
+      "url": "http://www.tvmaze.com/characters/657837/the-righteous-gemstones-elis-dad",
+      "name": "Eli's Dad",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/212/530957.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/212/530957.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/657837"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

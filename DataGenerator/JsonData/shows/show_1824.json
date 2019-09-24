@@ -1,0 +1,878 @@
+[
+  {
+    "person": {
+      "id": 49896,
+      "url": "http://www.tvmaze.com/people/49896/alycia-debnam-carey",
+      "name": "Alycia Debnam-Carey",
+      "country": {
+        "name": "Australia",
+        "code": "AU",
+        "timezone": "Australia/Sydney"
+      },
+      "birthday": "1993-07-20",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/56/142484.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/56/142484.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/49896"
+        }
+      }
+    },
+    "character": {
+      "id": 162642,
+      "url": "http://www.tvmaze.com/characters/162642/fear-the-walking-dead-alicia-clark",
+      "name": "Alicia Clark",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/149/373870.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/149/373870.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/162642"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 82505,
+      "url": "http://www.tvmaze.com/people/82505/colman-domingo",
+      "name": "Colman Domingo",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1969-11-28",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/48/121801.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/48/121801.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/82505"
+        }
+      }
+    },
+    "character": {
+      "id": 163396,
+      "url": "http://www.tvmaze.com/characters/163396/fear-the-walking-dead-victor-strand",
+      "name": "Victor Strand",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/149/373873.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/149/373873.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/163396"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 11642,
+      "url": "http://www.tvmaze.com/people/11642/kim-dickens",
+      "name": "Kim Dickens",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1965-06-18",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/19798.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19798.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/11642"
+        }
+      }
+    },
+    "character": {
+      "id": 162646,
+      "url": "http://www.tvmaze.com/characters/162646/fear-the-walking-dead-madison-clark",
+      "name": "Madison Clark",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/149/373869.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/149/373869.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/162646"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 59776,
+      "url": "http://www.tvmaze.com/people/59776/frank-dillane",
+      "name": "Frank Dillane",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1991-04-21",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/10/26301.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/26301.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/59776"
+        }
+      }
+    },
+    "character": {
+      "id": 162645,
+      "url": "http://www.tvmaze.com/characters/162645/fear-the-walking-dead-nick-clark",
+      "name": "Nick Clark",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/149/373872.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/149/373872.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/162645"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 4505,
+      "url": "http://www.tvmaze.com/people/4505/danay-garcia",
+      "name": "Danay García",
+      "country": {
+        "name": "Cuba",
+        "code": "CU",
+        "timezone": "America/Havana"
+      },
+      "birthday": "1984-07-05",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/5/13169.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/5/13169.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/4505"
+        }
+      }
+    },
+    "character": {
+      "id": 317759,
+      "url": "http://www.tvmaze.com/characters/317759/fear-the-walking-dead-luciana-galvez",
+      "name": "Luciana Galvez",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/149/373876.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/149/373876.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/317759"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 45097,
+      "url": "http://www.tvmaze.com/people/45097/ruben-blades",
+      "name": "Rubén Blades",
+      "country": {
+        "name": "Panama",
+        "code": "PA",
+        "timezone": "America/Panama"
+      },
+      "birthday": "1948-07-16",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/32497.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/32497.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/45097"
+        }
+      }
+    },
+    "character": {
+      "id": 162649,
+      "url": "http://www.tvmaze.com/characters/162649/fear-the-walking-dead-daniel-salazar",
+      "name": "Daniel Salazar",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/136618.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/54/136618.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/162649"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 10303,
+      "url": "http://www.tvmaze.com/people/10303/lennie-james",
+      "name": "Lennie James",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1965-10-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/2/5813.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/2/5813.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/10303"
+        }
+      }
+    },
+    "character": {
+      "id": 482150,
+      "url": "http://www.tvmaze.com/characters/482150/fear-the-walking-dead-morgan-jones",
+      "name": "Morgan Jones",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/149/373879.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/149/373879.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/482150"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 11177,
+      "url": "http://www.tvmaze.com/people/11177/jenna-elfman",
+      "name": "Jenna Elfman",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1971-09-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/5/13094.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/5/13094.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/11177"
+        }
+      }
+    },
+    "character": {
+      "id": 502504,
+      "url": "http://www.tvmaze.com/characters/502504/fear-the-walking-dead-naomi",
+      "name": "Naomi",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/149/373880.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/149/373880.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/502504"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 12992,
+      "url": "http://www.tvmaze.com/people/12992/garret-dillahunt",
+      "name": "Garret Dillahunt",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1964-11-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/79/199196.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/79/199196.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/12992"
+        }
+      }
+    },
+    "character": {
+      "id": 502499,
+      "url": "http://www.tvmaze.com/characters/502499/fear-the-walking-dead-john-dorie",
+      "name": "John Dorie",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/149/373883.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/149/373883.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/502499"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 9412,
+      "url": "http://www.tvmaze.com/people/9412/mercedes-masohn",
+      "name": "Mercedes Masöhn",
+      "country": {
+        "name": "Sweden",
+        "code": "SE",
+        "timezone": "Europe/Stockholm"
+      },
+      "birthday": "1982-03-03",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/3905.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/3905.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9412"
+        }
+      }
+    },
+    "character": {
+      "id": 162648,
+      "url": "http://www.tvmaze.com/characters/162648/fear-the-walking-dead-ofelia-salazar",
+      "name": "Ofelia Salazar",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/136619.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/54/136619.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/162648"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 36296,
+      "url": "http://www.tvmaze.com/people/36296/cliff-curtis",
+      "name": "Cliff Curtis",
+      "country": {
+        "name": "New Zealand",
+        "code": "NZ",
+        "timezone": "Pacific/Auckland"
+      },
+      "birthday": "1968-07-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/10/26300.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/26300.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/36296"
+        }
+      }
+    },
+    "character": {
+      "id": 162643,
+      "url": "http://www.tvmaze.com/characters/162643/fear-the-walking-dead-travis-manawa",
+      "name": "Travis Manawa",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/136614.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/54/136614.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/162643"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 53900,
+      "url": "http://www.tvmaze.com/people/53900/alexa-nisenson",
+      "name": "Alexa Nisenson",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "2006-06-08",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/144/361864.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/144/361864.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/53900"
+        }
+      }
+    },
+    "character": {
+      "id": 525014,
+      "url": "http://www.tvmaze.com/characters/525014/fear-the-walking-dead-charlie",
+      "name": "Charlie",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/153/384760.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/153/384760.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/525014"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 14723,
+      "url": "http://www.tvmaze.com/people/14723/maggie-grace",
+      "name": "Maggie Grace",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1983-09-21",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/2882.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/2882.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/14723"
+        }
+      }
+    },
+    "character": {
+      "id": 502497,
+      "url": "http://www.tvmaze.com/characters/502497/fear-the-walking-dead-althea-szewczyk-przygocki",
+      "name": "Althea Szewczyk-Przygocki",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/149/373886.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/149/373886.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/502497"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 74728,
+      "url": "http://www.tvmaze.com/people/74728/lorenzo-james-henrie",
+      "name": "Lorenzo James Henrie",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1993-06-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/32496.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/32496.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/74728"
+        }
+      }
+    },
+    "character": {
+      "id": 162647,
+      "url": "http://www.tvmaze.com/characters/162647/fear-the-walking-dead-christopher-manawa",
+      "name": "Christopher Manawa",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/136617.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/54/136617.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/162647"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 32575,
+      "url": "http://www.tvmaze.com/people/32575/daniel-sharman",
+      "name": "Daniel Sharman",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1986-04-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/30/75827.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/30/75827.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/32575"
+        }
+      }
+    },
+    "character": {
+      "id": 431116,
+      "url": "http://www.tvmaze.com/characters/431116/fear-the-walking-dead-troy-otto",
+      "name": "Troy Otto",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/115/288424.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/115/288424.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/431116"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 1124,
+      "url": "http://www.tvmaze.com/people/1124/sam-underwood",
+      "name": "Sam Underwood",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1987-08-04",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/2884.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/2884.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/1124"
+        }
+      }
+    },
+    "character": {
+      "id": 431115,
+      "url": "http://www.tvmaze.com/characters/431115/fear-the-walking-dead-jake-otto",
+      "name": "Jake Otto",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/115/288426.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/115/288426.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/431115"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 101339,
+      "url": "http://www.tvmaze.com/people/101339/austin-amelio",
+      "name": "Austin Amelio",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1988-04-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/50/126939.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/50/126939.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/101339"
+        }
+      }
+    },
+    "character": {
+      "id": 631290,
+      "url": "http://www.tvmaze.com/characters/631290/fear-the-walking-dead-dwight",
+      "name": "Dwight",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/200/501670.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/200/501670.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/631290"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 43279,
+      "url": "http://www.tvmaze.com/people/43279/karen-david",
+      "name": "Karen David",
+      "country": {
+        "name": "India",
+        "code": "IN",
+        "timezone": "Asia/Kolkata"
+      },
+      "birthday": "1979-04-15",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/177/442852.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/177/442852.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/43279"
+        }
+      }
+    },
+    "character": {
+      "id": 632399,
+      "url": "http://www.tvmaze.com/characters/632399/fear-the-walking-dead-grace",
+      "name": "Grace",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/201/504096.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/201/504096.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/632399"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 24901,
+      "url": "http://www.tvmaze.com/people/24901/elizabeth-rodriguez",
+      "name": "Elizabeth Rodriguez",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1968-12-27",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/10/26260.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/26260.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/24901"
+        }
+      }
+    },
+    "character": {
+      "id": 162644,
+      "url": "http://www.tvmaze.com/characters/162644/fear-the-walking-dead-liza-ortiz",
+      "name": "Liza Ortiz",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/15/38268.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/38268.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/162644"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 11135,
+      "url": "http://www.tvmaze.com/people/11135/dayton-callie",
+      "name": "Dayton Callie",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/3307.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/3307.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/11135"
+        }
+      }
+    },
+    "character": {
+      "id": 431113,
+      "url": "http://www.tvmaze.com/characters/431113/fear-the-walking-dead-jeremiah-otto-sr",
+      "name": "Jeremiah Otto Sr.",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/115/288429.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/115/288429.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/431113"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 7661,
+      "url": "http://www.tvmaze.com/people/7661/lisandra-tena",
+      "name": "Lisandra Tena",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/117/293410.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/117/293410.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/7661"
+        }
+      }
+    },
+    "character": {
+      "id": 436713,
+      "url": "http://www.tvmaze.com/characters/436713/fear-the-walking-dead-lola-guerrero",
+      "name": "Lola Guerrero",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/117/293587.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/117/293587.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/436713"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 35390,
+      "url": "http://www.tvmaze.com/people/35390/michelle-ang",
+      "name": "Michelle Ang",
+      "country": {
+        "name": "New Zealand",
+        "code": "NZ",
+        "timezone": "Pacific/Auckland"
+      },
+      "birthday": "1983-10-17",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/8/22138.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/22138.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/35390"
+        }
+      }
+    },
+    "character": {
+      "id": 276709,
+      "url": "http://www.tvmaze.com/characters/276709/fear-the-walking-dead-alex",
+      "name": "Alex",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/136611.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/54/136611.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/276709"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

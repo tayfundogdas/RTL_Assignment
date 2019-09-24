@@ -1,0 +1,76 @@
+[
+  {
+    "person": {
+      "id": 88845,
+      "url": "http://www.tvmaze.com/people/88845/ido-drent",
+      "name": "Ido Drent",
+      "country": {
+        "name": "South Africa",
+        "code": "ZA",
+        "timezone": "Africa/Johannesburg"
+      },
+      "birthday": "1987-01-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/22/55599.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/22/55599.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/88845"
+        }
+      }
+    },
+    "character": {
+      "id": 654185,
+      "url": "http://www.tvmaze.com/characters/654185/the-gulf-ds-justin-harding",
+      "name": "D.S. Justin Harding",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654185"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 102286,
+      "url": "http://www.tvmaze.com/people/102286/kate-elliott",
+      "name": "Kate Elliott",
+      "country": {
+        "name": "New Zealand",
+        "code": "NZ",
+        "timezone": "Pacific/Auckland"
+      },
+      "birthday": "1981-12-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/32/81074.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/32/81074.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/102286"
+        }
+      }
+    },
+    "character": {
+      "id": 654184,
+      "url": "http://www.tvmaze.com/characters/654184/the-gulf-dss-jess-savage",
+      "name": "D.S.S Jess Savage",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654184"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

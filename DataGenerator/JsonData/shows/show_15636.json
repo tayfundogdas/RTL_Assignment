@@ -1,0 +1,92 @@
+[
+  {
+    "person": {
+      "id": 126814,
+      "url": "http://www.tvmaze.com/people/126814/bob-mckeown",
+      "name": "Bob McKeown",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/126814"
+        }
+      }
+    },
+    "character": {
+      "id": 270960,
+      "url": "http://www.tvmaze.com/characters/270960/the-fifth-estate-co-host",
+      "name": "Co-Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/270960"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 126815,
+      "url": "http://www.tvmaze.com/people/126815/gillian-findlay",
+      "name": "Gillian Findlay",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/126815"
+        }
+      }
+    },
+    "character": {
+      "id": 270961,
+      "url": "http://www.tvmaze.com/characters/270961/the-fifth-estate-co-host",
+      "name": "Co-Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/270961"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 126816,
+      "url": "http://www.tvmaze.com/people/126816/mark-kelley",
+      "name": "Mark Kelley",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/126816"
+        }
+      }
+    },
+    "character": {
+      "id": 270962,
+      "url": "http://www.tvmaze.com/characters/270962/the-fifth-estate-co-host",
+      "name": "Co-Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/270962"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

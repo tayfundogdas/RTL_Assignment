@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 150547,
+      "url": "http://www.tvmaze.com/people/150547/aleksandra-nikiforova",
+      "name": "Александра Никифорова",
+      "country": {
+        "name": "Ukraine",
+        "code": "UA",
+        "timezone": "Europe/Zaporozhye"
+      },
+      "birthday": "1993-02-16",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/82/205876.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/82/205876.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/150547"
+        }
+      }
+    },
+    "character": {
+      "id": 569089,
+      "url": "http://www.tvmaze.com/characters/569089/znaki-sudby-vedusaa",
+      "name": "Ведущая",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/569089"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "person": {
+      "id": 86749,
+      "url": "http://www.tvmaze.com/people/86749/anne-burrell",
+      "name": "Anne Burrell",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1969-09-21",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/19/49817.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/49817.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/86749"
+        }
+      }
+    },
+    "character": {
+      "id": 302093,
+      "url": "http://www.tvmaze.com/characters/302093/worst-cooks-in-america-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/302093"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 22338,
+      "url": "http://www.tvmaze.com/people/22338/bobby-flay",
+      "name": "Bobby Flay",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1964-12-10",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/34939.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/34939.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/22338"
+        }
+      }
+    },
+    "character": {
+      "id": 242654,
+      "url": "http://www.tvmaze.com/characters/242654/worst-cooks-in-america-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/242654"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 82530,
+      "url": "http://www.tvmaze.com/people/82530/tyler-florence",
+      "name": "Tyler Florence",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1971-03-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/72/181730.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/72/181730.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/82530"
+        }
+      }
+    },
+    "character": {
+      "id": 302096,
+      "url": "http://www.tvmaze.com/characters/302096/worst-cooks-in-america-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/302096"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 41476,
+      "url": "http://www.tvmaze.com/people/41476/robert-irvine",
+      "name": "Robert Irvine",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1965-09-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/17/43523.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/17/43523.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/41476"
+        }
+      }
+    },
+    "character": {
+      "id": 302094,
+      "url": "http://www.tvmaze.com/characters/302094/worst-cooks-in-america-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/302094"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 61981,
+      "url": "http://www.tvmaze.com/people/61981/rachael-ray",
+      "name": "Rachael Ray",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1968-08-25",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/15/39740.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/39740.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/61981"
+        }
+      }
+    },
+    "character": {
+      "id": 302095,
+      "url": "http://www.tvmaze.com/characters/302095/worst-cooks-in-america-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/302095"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 137202,
+      "url": "http://www.tvmaze.com/people/137202/beau-macmillan",
+      "name": "Beau MacMillan",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/82/206000.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/82/206000.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/137202"
+        }
+      }
+    },
+    "character": {
+      "id": 302092,
+      "url": "http://www.tvmaze.com/characters/302092/worst-cooks-in-america-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/302092"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

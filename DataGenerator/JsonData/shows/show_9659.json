@@ -1,0 +1,122 @@
+[
+  {
+    "person": {
+      "id": 93828,
+      "url": "http://www.tvmaze.com/people/93828/david-muir",
+      "name": "David Muir",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1973-11-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/33/83940.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/33/83940.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/93828"
+        }
+      }
+    },
+    "character": {
+      "id": 213005,
+      "url": "http://www.tvmaze.com/characters/213005/abc-world-news-tonight-with-david-muir-host",
+      "name": "Host",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/96/241058.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/96/241058.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/213005"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 162299,
+      "url": "http://www.tvmaze.com/people/162299/tom-llamas",
+      "name": "Tom Llamas",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1979-07-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/96/241061.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/96/241061.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/162299"
+        }
+      }
+    },
+    "character": {
+      "id": 377737,
+      "url": "http://www.tvmaze.com/characters/377737/abc-world-news-tonight-with-david-muir-host",
+      "name": "Host",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/96/241057.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/96/241057.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/377737"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 17175,
+      "url": "http://www.tvmaze.com/people/17175/cecelia-vega",
+      "name": "Cecelia Vega",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/96/241060.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/96/241060.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/17175"
+        }
+      }
+    },
+    "character": {
+      "id": 377736,
+      "url": "http://www.tvmaze.com/characters/377736/abc-world-news-tonight-with-david-muir-host",
+      "name": "Host",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/96/241056.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/96/241056.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/377736"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

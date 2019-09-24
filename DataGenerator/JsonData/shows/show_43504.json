@@ -1,0 +1,76 @@
+[
+  {
+    "person": {
+      "id": 168356,
+      "url": "http://www.tvmaze.com/people/168356/chen-xiao",
+      "name": "Chen Xiao",
+      "country": {
+        "name": "China",
+        "code": "CN",
+        "timezone": "Asia/Shanghai"
+      },
+      "birthday": "1987-07-05",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/103/259457.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/103/259457.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/168356"
+        }
+      }
+    },
+    "character": {
+      "id": 652400,
+      "url": "http://www.tvmaze.com/characters/652400/the-king-of-land-battle-zhang-neng-liang",
+      "name": "Zhang Neng Liang",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/652400"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 243816,
+      "url": "http://www.tvmaze.com/people/243816/wang-lei",
+      "name": "Wang Lei",
+      "country": {
+        "name": "China",
+        "code": "CN",
+        "timezone": "Asia/Shanghai"
+      },
+      "birthday": "1982-12-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/208/522061.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/208/522061.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/243816"
+        }
+      }
+    },
+    "character": {
+      "id": 652401,
+      "url": "http://www.tvmaze.com/characters/652401/the-king-of-land-battle-niu-nu-li",
+      "name": "Niu Nu Li",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/652401"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "person": {
+      "id": 82546,
+      "url": "http://www.tvmaze.com/people/82546/michelle-sigona",
+      "name": "Michelle Sigona",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/16/40705.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/16/40705.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/82546"
+        }
+      }
+    },
+    "character": {
+      "id": 163483,
+      "url": "http://www.tvmaze.com/characters/163483/deadline-crime-with-tamron-hall-michelle-sigona",
+      "name": "Michelle Sigona",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/163483"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 82547,
+      "url": "http://www.tvmaze.com/people/82547/tom-morris-jr",
+      "name": "Tom Morris, Jr.",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/121/302559.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/121/302559.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/82547"
+        }
+      }
+    },
+    "character": {
+      "id": 163484,
+      "url": "http://www.tvmaze.com/characters/163484/deadline-crime-with-tamron-hall-tom-morris-jr",
+      "name": "Tom Morris, Jr.",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/163484"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 74856,
+      "url": "http://www.tvmaze.com/people/74856/tamron-hall",
+      "name": "Tamron Hall",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1970-09-16",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/16/40702.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/16/40702.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/74856"
+        }
+      }
+    },
+    "character": {
+      "id": 163481,
+      "url": "http://www.tvmaze.com/characters/163481/deadline-crime-with-tamron-hall-tamron-hall",
+      "name": "Tamron Hall",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/163481"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 82545,
+      "url": "http://www.tvmaze.com/people/82545/angeline-hartmann",
+      "name": "Angeline Hartmann",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/16/40704.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/16/40704.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/82545"
+        }
+      }
+    },
+    "character": {
+      "id": 163482,
+      "url": "http://www.tvmaze.com/characters/163482/deadline-crime-with-tamron-hall-angeline-hartmann",
+      "name": "Angeline Hartmann",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/163482"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

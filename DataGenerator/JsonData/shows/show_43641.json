@@ -1,0 +1,322 @@
+[
+  {
+    "person": {
+      "id": 185841,
+      "url": "http://www.tvmaze.com/people/185841/ren-yan-kai",
+      "name": "Ren Yan Kai",
+      "country": {
+        "name": "Taiwan, Province of China",
+        "code": "TW",
+        "timezone": "Asia/Taipei"
+      },
+      "birthday": "1984-02-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/124/311933.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/124/311933.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/185841"
+        }
+      }
+    },
+    "character": {
+      "id": 654331,
+      "url": "http://www.tvmaze.com/characters/654331/my-mowgli-boy-zheng-li",
+      "name": "Zheng Li",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524201.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524201.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654331"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 244636,
+      "url": "http://www.tvmaze.com/people/244636/fu-meng-bo",
+      "name": "Fu Meng Bo",
+      "country": {
+        "name": "Taiwan, Province of China",
+        "code": "TW",
+        "timezone": "Asia/Taipei"
+      },
+      "birthday": "1987-05-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524193.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524193.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/244636"
+        }
+      }
+    },
+    "character": {
+      "id": 654330,
+      "url": "http://www.tvmaze.com/characters/654330/my-mowgli-boy-lu-zi-yue",
+      "name": "Lu Zi Yue",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524203.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524203.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654330"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 244637,
+      "url": "http://www.tvmaze.com/people/244637/huang-can-can",
+      "name": "Huang Can Can",
+      "country": {
+        "name": "China",
+        "code": "CN",
+        "timezone": "Asia/Shanghai"
+      },
+      "birthday": "1995-02-28",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524197.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524197.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/244637"
+        }
+      }
+    },
+    "character": {
+      "id": 654332,
+      "url": "http://www.tvmaze.com/characters/654332/my-mowgli-boy-tang-cheng",
+      "name": "Tang Cheng",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524198.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524198.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654332"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 244638,
+      "url": "http://www.tvmaze.com/people/244638/wang-zhen-er",
+      "name": "Wang Zhen Er",
+      "country": {
+        "name": "China",
+        "code": "CN",
+        "timezone": "Asia/Shanghai"
+      },
+      "birthday": "1989-07-01",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524195.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524195.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/244638"
+        }
+      }
+    },
+    "character": {
+      "id": 654333,
+      "url": "http://www.tvmaze.com/characters/654333/my-mowgli-boy-bai-yi-ling",
+      "name": "Bai Yi Ling",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524202.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524202.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654333"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 244639,
+      "url": "http://www.tvmaze.com/people/244639/jade-cheng",
+      "name": "Jade Cheng",
+      "country": {
+        "name": "China",
+        "code": "CN",
+        "timezone": "Asia/Shanghai"
+      },
+      "birthday": "1990-11-25",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524196.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524196.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/244639"
+        }
+      }
+    },
+    "character": {
+      "id": 654334,
+      "url": "http://www.tvmaze.com/characters/654334/my-mowgli-boy-zhu-shi",
+      "name": "Zhu Shi",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524199.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524199.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654334"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 244640,
+      "url": "http://www.tvmaze.com/people/244640/wu-hao-ze",
+      "name": "Wu Hao Ze",
+      "country": {
+        "name": "China",
+        "code": "CN",
+        "timezone": "Asia/Shanghai"
+      },
+      "birthday": "1987-03-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524194.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524194.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/244640"
+        }
+      }
+    },
+    "character": {
+      "id": 654335,
+      "url": "http://www.tvmaze.com/characters/654335/my-mowgli-boy-ling-yu",
+      "name": "Ling Yu",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524200.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524200.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654335"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 91434,
+      "url": "http://www.tvmaze.com/people/91434/yang-zi",
+      "name": "Yang Zi",
+      "country": {
+        "name": "China",
+        "code": "CN",
+        "timezone": "Asia/Shanghai"
+      },
+      "birthday": "1992-11-06",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/204/512405.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/204/512405.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/91434"
+        }
+      }
+    },
+    "character": {
+      "id": 654329,
+      "url": "http://www.tvmaze.com/characters/654329/my-mowgli-boy-ling-xi",
+      "name": "Ling Xi",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524204.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524204.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654329"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 140623,
+      "url": "http://www.tvmaze.com/people/140623/ma-tian-yu",
+      "name": "Ma Tian Yu",
+      "country": {
+        "name": "China",
+        "code": "CN",
+        "timezone": "Asia/Shanghai"
+      },
+      "birthday": "1986-07-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/69/172997.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/172997.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/140623"
+        }
+      }
+    },
+    "character": {
+      "id": 654328,
+      "url": "http://www.tvmaze.com/characters/654328/my-mowgli-boy-mo-ge-li",
+      "name": "Mo Ge Li",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/524205.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/524205.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654328"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

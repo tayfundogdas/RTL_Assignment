@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 71958,
+      "url": "http://www.tvmaze.com/people/71958/paul-bown",
+      "name": "Paul Bown",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1957-10-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/94/235647.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/94/235647.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/71958"
+        }
+      }
+    },
+    "character": {
+      "id": 461903,
+      "url": "http://www.tvmaze.com/characters/461903/999-on-the-frontline-narrator",
+      "name": "Narrator",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/461903"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  }
+]

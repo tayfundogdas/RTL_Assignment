@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 61973,
+      "url": "http://www.tvmaze.com/people/61973/lester-holt",
+      "name": "Lester Holt",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1959-03-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/15/39758.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/39758.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/61973"
+        }
+      }
+    },
+    "character": {
+      "id": 212357,
+      "url": "http://www.tvmaze.com/characters/212357/nbc-nightly-news-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/212357"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

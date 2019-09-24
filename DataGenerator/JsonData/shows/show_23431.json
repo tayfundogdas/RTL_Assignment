@@ -1,0 +1,76 @@
+[
+  {
+    "person": {
+      "id": 69770,
+      "url": "http://www.tvmaze.com/people/69770/chris-kamara",
+      "name": "Chris Kamara",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1957-12-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/30/76096.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/30/76096.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/69770"
+        }
+      }
+    },
+    "character": {
+      "id": 355531,
+      "url": "http://www.tvmaze.com/characters/355531/goals-on-sunday-chris-kamara",
+      "name": "Chris Kamara",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/355531"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 101415,
+      "url": "http://www.tvmaze.com/people/101415/ben-shephard",
+      "name": "Ben Shephard",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1974-12-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/30/76093.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/30/76093.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/101415"
+        }
+      }
+    },
+    "character": {
+      "id": 355532,
+      "url": "http://www.tvmaze.com/characters/355532/goals-on-sunday-ben-shephard",
+      "name": "Ben Shephard",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/355532"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

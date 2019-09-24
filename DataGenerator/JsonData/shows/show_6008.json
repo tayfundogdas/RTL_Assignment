@@ -1,0 +1,290 @@
+[
+  {
+    "person": {
+      "id": 122024,
+      "url": "http://www.tvmaze.com/people/122024/dennis-weening",
+      "name": "Dennis Weening",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/104/261207.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/104/261207.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/122024"
+        }
+      }
+    },
+    "character": {
+      "id": 400327,
+      "url": "http://www.tvmaze.com/characters/400327/expeditie-robinson-co-host-s13",
+      "name": "Co-Host S13",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/400327"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 141442,
+      "url": "http://www.tvmaze.com/people/141442/ernst-paul-hasselbach",
+      "name": "Ernst-Paul Hasselbach",
+      "country": {
+        "name": "Suriname",
+        "code": "SR",
+        "timezone": "America/Paramaribo"
+      },
+      "birthday": "1966-05-23",
+      "deathday": "2008-10-11",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/104/261209.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/104/261209.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/141442"
+        }
+      }
+    },
+    "character": {
+      "id": 400320,
+      "url": "http://www.tvmaze.com/characters/400320/expeditie-robinson-co-host-s01-s09",
+      "name": "Co-Host S01 - S09",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/400320"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 168903,
+      "url": "http://www.tvmaze.com/people/168903/desire-naessens",
+      "name": "Désiré Naessens",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/104/261210.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/104/261210.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/168903"
+        }
+      }
+    },
+    "character": {
+      "id": 400322,
+      "url": "http://www.tvmaze.com/characters/400322/expeditie-robinson-co-host-s01",
+      "name": "Co-Host S01",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/400322"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 168904,
+      "url": "http://www.tvmaze.com/people/168904/lotte-verlackt",
+      "name": "Lotte Verlackt",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1976-01-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/104/261212.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/104/261212.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/168904"
+        }
+      }
+    },
+    "character": {
+      "id": 400324,
+      "url": "http://www.tvmaze.com/characters/400324/expeditie-robinson-co-host-s06-s07",
+      "name": "Co-Host S06 - S07",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/400324"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 168905,
+      "url": "http://www.tvmaze.com/people/168905/eddy-zoey",
+      "name": "Eddy Zoey",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": "1967-03-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/203/507567.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/203/507567.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/168905"
+        }
+      }
+    },
+    "character": {
+      "id": 400326,
+      "url": "http://www.tvmaze.com/characters/400326/expeditie-robinson-co-host-s10-s12",
+      "name": "Co-Host S10 - S12",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/400326"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 224728,
+      "url": "http://www.tvmaze.com/people/224728/kaj-gorgels",
+      "name": "Kaj Gorgels",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": "1990-09-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/450381.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/450381.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/224728"
+        }
+      }
+    },
+    "character": {
+      "id": 587117,
+      "url": "http://www.tvmaze.com/characters/587117/expeditie-robinson-himself-co-host",
+      "name": "Himself (Co-Host)",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/587117"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 98995,
+      "url": "http://www.tvmaze.com/people/98995/evi-hanssen",
+      "name": "Evi Hanssen",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1978-11-09",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/201/504828.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/201/504828.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/98995"
+        }
+      }
+    },
+    "character": {
+      "id": 400325,
+      "url": "http://www.tvmaze.com/characters/400325/expeditie-robinson-co-host-s07-s13",
+      "name": "Co-Host S07 - S13",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/400325"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 107532,
+      "url": "http://www.tvmaze.com/people/107532/roos-van-acker",
+      "name": "Roos Van Acker",
+      "country": {
+        "name": "Belgium",
+        "code": "BE",
+        "timezone": "Europe/Brussels"
+      },
+      "birthday": "1976-10-13",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/104/261206.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/104/261206.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/107532"
+        }
+      }
+    },
+    "character": {
+      "id": 400323,
+      "url": "http://www.tvmaze.com/characters/400323/expeditie-robinson-co-host-s02-s05",
+      "name": "Co-Host S02 - S05",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/400323"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

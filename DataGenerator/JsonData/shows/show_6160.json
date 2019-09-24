@@ -1,0 +1,4982 @@
+[
+  {
+    "person": {
+      "id": 134826,
+      "url": "http://www.tvmaze.com/people/134826/arisa-komiya",
+      "name": "Arisa Komiya",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1994-02-05",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/76/190085.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/76/190085.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/134826"
+        }
+      }
+    },
+    "character": {
+      "id": 562835,
+      "url": "http://www.tvmaze.com/characters/562835/super-sentai-yoko-usami",
+      "name": "Yoko Usami",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562835"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 217174,
+      "url": "http://www.tvmaze.com/people/217174/naoto-takahashi",
+      "name": "Naoto Takahashi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1991-06-15",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/425718.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/425718.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217174"
+        }
+      }
+    },
+    "character": {
+      "id": 562843,
+      "url": "http://www.tvmaze.com/characters/562843/super-sentai-toru-morishita",
+      "name": "Toru Morishita",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562843"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 209408,
+      "url": "http://www.tvmaze.com/people/209408/katsuhiro-suzuki",
+      "name": "Katsuhiro Suzuki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1992-12-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/157/393855.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/157/393855.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/209408"
+        }
+      }
+    },
+    "character": {
+      "id": 562833,
+      "url": "http://www.tvmaze.com/characters/562833/super-sentai-hiromu-sakurada",
+      "name": "Hiromu Sakurada",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562833"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87313,
+      "url": "http://www.tvmaze.com/people/87313/tessyo-genda",
+      "name": "Tessyo Genda",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1948-05-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/21/54238.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/21/54238.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87313"
+        }
+      }
+    },
+    "character": {
+      "id": 562837,
+      "url": "http://www.tvmaze.com/characters/562837/super-sentai-gorisaki-banana",
+      "name": "Gorisaki Banana",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562837"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 215130,
+      "url": "http://www.tvmaze.com/people/215130/kazusa-okuyama",
+      "name": "Kazusa Okuyama",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1994-03-10",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/421740.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/421740.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/215130"
+        }
+      }
+    },
+    "character": {
+      "id": 556520,
+      "url": "http://www.tvmaze.com/characters/556520/super-sentai-tsukasa-myoujin",
+      "name": "Tsukasa Myoujin",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/556520"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 6392,
+      "url": "http://www.tvmaze.com/people/6392/keiji-fujiwara",
+      "name": "Keiji Fujiwara",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1964-10-05",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10235.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10235.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/6392"
+        }
+      }
+    },
+    "character": {
+      "id": 562836,
+      "url": "http://www.tvmaze.com/characters/562836/super-sentai-cheeda-nick",
+      "name": "Cheeda Nick",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562836"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 215126,
+      "url": "http://www.tvmaze.com/people/215126/asahi-itou",
+      "name": "Asahi Itou",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "2000-01-19",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/421522.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/421522.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/215126"
+        }
+      }
+    },
+    "character": {
+      "id": 556515,
+      "url": "http://www.tvmaze.com/characters/556515/super-sentai-kairi-yano",
+      "name": "Kairi Yano",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/556515"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 215127,
+      "url": "http://www.tvmaze.com/people/215127/shogo-hama",
+      "name": "Shogo Hama",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1994-08-22",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/421737.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/421737.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/215127"
+        }
+      }
+    },
+    "character": {
+      "id": 556516,
+      "url": "http://www.tvmaze.com/characters/556516/super-sentai-tooma-yoimachi",
+      "name": "Tooma Yoimachi",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/556516"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 215128,
+      "url": "http://www.tvmaze.com/people/215128/kousei-yuuki",
+      "name": "Kousei Yuuki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1994-12-10",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/421739.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/421739.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/215128"
+        }
+      }
+    },
+    "character": {
+      "id": 556518,
+      "url": "http://www.tvmaze.com/characters/556518/super-sentai-keiichiro-asaka",
+      "name": "Keiichiro Asaka",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/556518"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 6389,
+      "url": "http://www.tvmaze.com/people/6389/haruka-kudou",
+      "name": "Haruka Kudou",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1989-03-16",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10231.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10231.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/6389"
+        }
+      }
+    },
+    "character": {
+      "id": 556517,
+      "url": "http://www.tvmaze.com/characters/556517/super-sentai-umika-hayami",
+      "name": "Umika Hayami",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/556517"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 215129,
+      "url": "http://www.tvmaze.com/people/215129/ryo-yokoyama",
+      "name": "Ryo Yokoyama",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1995-03-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/421741.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/421741.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/215129"
+        }
+      }
+    },
+    "character": {
+      "id": 556519,
+      "url": "http://www.tvmaze.com/characters/556519/super-sentai-sakuya-hikawa",
+      "name": "Sakuya Hikawa",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/556519"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 66064,
+      "url": "http://www.tvmaze.com/people/66064/rie-kugimiya",
+      "name": "Rie Kugimiya",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1979-05-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/73/182775.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/182775.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/66064"
+        }
+      }
+    },
+    "character": {
+      "id": 556524,
+      "url": "http://www.tvmaze.com/characters/556524/super-sentai-jim-carter",
+      "name": "Jim Carter",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/556524"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 210540,
+      "url": "http://www.tvmaze.com/people/210540/ryoma-baba",
+      "name": "Ryoma Baba",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1984-12-15",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/159/398224.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/159/398224.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/210540"
+        }
+      }
+    },
+    "character": {
+      "id": 562834,
+      "url": "http://www.tvmaze.com/characters/562834/super-sentai-ryuji-iwasaki",
+      "name": "Ryuji Iwasaki",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562834"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 88000,
+      "url": "http://www.tvmaze.com/people/88000/yuji-mitsuya",
+      "name": "Yûji Mitsuya",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1954-10-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/58/145766.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/58/145766.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/88000"
+        }
+      }
+    },
+    "character": {
+      "id": 556523,
+      "url": "http://www.tvmaze.com/characters/556523/super-sentai-good-striker",
+      "name": "Good Striker",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/556523"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 90018,
+      "url": "http://www.tvmaze.com/people/90018/tatsuhisa-suzuki",
+      "name": "Tatsuhisa Suzuki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1983-11-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/75/189847.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/75/189847.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90018"
+        }
+      }
+    },
+    "character": {
+      "id": 562838,
+      "url": "http://www.tvmaze.com/characters/562838/super-sentai-usada-lettuce",
+      "name": "Usada Lettuce",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562838"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 217172,
+      "url": "http://www.tvmaze.com/people/217172/hideo-sakaki",
+      "name": "Hideo Sakaki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1970-06-04",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/425714.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/425714.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217172"
+        }
+      }
+    },
+    "character": {
+      "id": 562841,
+      "url": "http://www.tvmaze.com/characters/562841/super-sentai-takeshi-kuroki",
+      "name": "Takeshi Kuroki",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562841"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 217173,
+      "url": "http://www.tvmaze.com/people/217173/fuuka-nishihira",
+      "name": "Fuuka Nishihira",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1992-01-11",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/425717.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/425717.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217173"
+        }
+      }
+    },
+    "character": {
+      "id": 562842,
+      "url": "http://www.tvmaze.com/characters/562842/super-sentai-miho-nakamura",
+      "name": "Miho Nakamura",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562842"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 217175,
+      "url": "http://www.tvmaze.com/people/217175/syo-jinnai",
+      "name": "Syo Jinnai",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1988-01-16",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/425712.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/425712.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217175"
+        }
+      }
+    },
+    "character": {
+      "id": 562844,
+      "url": "http://www.tvmaze.com/characters/562844/super-sentai-enter",
+      "name": "Enter",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562844"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 80702,
+      "url": "http://www.tvmaze.com/people/80702/ayana-taketatsu",
+      "name": "Ayana Taketatsu",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1989-06-23",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/71/179402.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/71/179402.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/80702"
+        }
+      }
+    },
+    "character": {
+      "id": 559892,
+      "url": "http://www.tvmaze.com/characters/559892/super-sentai-goche-ru-medou",
+      "name": "Goche Ru Medou",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/559892"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 217176,
+      "url": "http://www.tvmaze.com/people/217176/shoo-munekata",
+      "name": "Shoo Munekata",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1970-01-23",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/426345.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/426345.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217176"
+        }
+      }
+    },
+    "character": {
+      "id": 562846,
+      "url": "http://www.tvmaze.com/characters/562846/super-sentai-narrator-go-busters",
+      "name": "Narrator (Go-Busters)",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562846"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216237,
+      "url": "http://www.tvmaze.com/people/216237/hiroya-matsumoto",
+      "name": "Hiroya Matsumoto",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1986-06-21",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/425711.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/425711.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216237"
+        }
+      }
+    },
+    "character": {
+      "id": 562839,
+      "url": "http://www.tvmaze.com/characters/562839/super-sentai-masato-jin",
+      "name": "Masato Jin",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562839"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 215132,
+      "url": "http://www.tvmaze.com/people/215132/ike-nwala",
+      "name": "Ike Nwala",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1986-06-05",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/167/418140.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/167/418140.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/215132"
+        }
+      }
+    },
+    "character": {
+      "id": 556522,
+      "url": "http://www.tvmaze.com/characters/556522/super-sentai-commander-samuel-hilltop",
+      "name": "Commander Samuel Hilltop",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/556522"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 60517,
+      "url": "http://www.tvmaze.com/people/60517/yuichi-nakamura",
+      "name": "Yuichi Nakamura",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1980-02-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/70/176702.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/70/176702.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/60517"
+        }
+      }
+    },
+    "character": {
+      "id": 562840,
+      "url": "http://www.tvmaze.com/characters/562840/super-sentai-beet-j-stag",
+      "name": "Beet J. Stag",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435351.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435351.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562840"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 91562,
+      "url": "http://www.tvmaze.com/people/91562/mitsuru-miyamoto",
+      "name": "Mitsuru Miyamoto",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1958-09-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/76/190729.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/76/190729.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/91562"
+        }
+      }
+    },
+    "character": {
+      "id": 559890,
+      "url": "http://www.tvmaze.com/characters/559890/super-sentai-dogranio-yaboon",
+      "name": "Dogranio Yaboon",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/559890"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 215131,
+      "url": "http://www.tvmaze.com/people/215131/seiya-motoki",
+      "name": "Seiya Motoki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1993-10-06",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/167/418141.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/167/418141.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/215131"
+        }
+      }
+    },
+    "character": {
+      "id": 556521,
+      "url": "http://www.tvmaze.com/characters/556521/super-sentai-noel-takao",
+      "name": "Noël Takao",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/556521"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 91138,
+      "url": "http://www.tvmaze.com/people/91138/yuji-ueda",
+      "name": "Yuji Ueda",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1967-06-15",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/14/37053.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/14/37053.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/91138"
+        }
+      }
+    },
+    "character": {
+      "id": 559891,
+      "url": "http://www.tvmaze.com/characters/559891/super-sentai-destra-majjo",
+      "name": "Destra Majjo",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/559891"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 217177,
+      "url": "http://www.tvmaze.com/people/217177/seiji-sasaki",
+      "name": "Seiji Sasaki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1965-01-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/425713.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/425713.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217177"
+        }
+      }
+    },
+    "character": {
+      "id": 562847,
+      "url": "http://www.tvmaze.com/characters/562847/super-sentai-messiah",
+      "name": "Messiah",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562847"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 167684,
+      "url": "http://www.tvmaze.com/people/167684/nukumizu-youichi",
+      "name": "Nukumizu Youichi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1964-06-19",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/102/257192.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/102/257192.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/167684"
+        }
+      }
+    },
+    "character": {
+      "id": 559894,
+      "url": "http://www.tvmaze.com/characters/559894/super-sentai-kogure",
+      "name": "Kogure",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/559894"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 139176,
+      "url": "http://www.tvmaze.com/people/139176/ayame-misaki",
+      "name": "Ayame Misaki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1989-04-26",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/426340.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/426340.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/139176"
+        }
+      }
+    },
+    "character": {
+      "id": 562845,
+      "url": "http://www.tvmaze.com/characters/562845/super-sentai-escape",
+      "name": "Escape",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/562845"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 231321,
+      "url": "http://www.tvmaze.com/people/231321/mitsuru-fukikoshi",
+      "name": "Mitsuru Fukikoshi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1965-02-17",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/189/473770.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/189/473770.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/231321"
+        }
+      }
+    },
+    "character": {
+      "id": 612623,
+      "url": "http://www.tvmaze.com/characters/612623/super-sentai-naohisa-tatsui",
+      "name": "Naohisa Tatsui",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/612623"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 227019,
+      "url": "http://www.tvmaze.com/people/227019/hayate-ichinose",
+      "name": "Hayate Ichinose",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1997-04-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/183/458221.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/183/458221.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/227019"
+        }
+      }
+    },
+    "character": {
+      "id": 595826,
+      "url": "http://www.tvmaze.com/characters/595826/super-sentai-koh-ryusoulred",
+      "name": "Koh (RyusoulRed)",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/595826"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 227020,
+      "url": "http://www.tvmaze.com/people/227020/keito-tsuna",
+      "name": "Keito Tsuna",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1998-12-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/183/458222.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/183/458222.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/227020"
+        }
+      }
+    },
+    "character": {
+      "id": 595827,
+      "url": "http://www.tvmaze.com/characters/595827/super-sentai-melt-ryusoulblue",
+      "name": "Melt (RyusoulBlue)",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/595827"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 227021,
+      "url": "http://www.tvmaze.com/people/227021/ichika-osaki",
+      "name": "Ichika Osaki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "2000-12-02",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/183/458223.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/183/458223.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/227021"
+        }
+      }
+    },
+    "character": {
+      "id": 595828,
+      "url": "http://www.tvmaze.com/characters/595828/super-sentai-asuna-ryusoulpink",
+      "name": "Asuna (RyusoulPink)",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/595828"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 227022,
+      "url": "http://www.tvmaze.com/people/227022/yuito-obara",
+      "name": "Yuito Obara",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "2002-04-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/183/458224.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/183/458224.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/227022"
+        }
+      }
+    },
+    "character": {
+      "id": 595829,
+      "url": "http://www.tvmaze.com/characters/595829/super-sentai-towa-ryusoulgreen",
+      "name": "Towa (RyusoulGreen)",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/595829"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 227023,
+      "url": "http://www.tvmaze.com/people/227023/tatsuya-kishida",
+      "name": "Tatsuya Kishida",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1992-04-16",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/183/458225.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/183/458225.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/227023"
+        }
+      }
+    },
+    "character": {
+      "id": 595830,
+      "url": "http://www.tvmaze.com/characters/595830/super-sentai-bamba-ryusoulblack",
+      "name": "Bamba (RyusoulBlack)",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/595830"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 230559,
+      "url": "http://www.tvmaze.com/people/230559/mana-kinjo",
+      "name": "Mana Kinjo",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1996-02-24",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/188/470563.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/188/470563.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/230559"
+        }
+      }
+    },
+    "character": {
+      "id": 609758,
+      "url": "http://www.tvmaze.com/characters/609758/super-sentai-ui-tatsui",
+      "name": "Ui Tatsui",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/609758"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 80773,
+      "url": "http://www.tvmaze.com/people/80773/ryoko-shiraishi",
+      "name": "Ryoko Shiraishi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1982-09-07",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/50495.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/50495.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/80773"
+        }
+      }
+    },
+    "character": {
+      "id": 609763,
+      "url": "http://www.tvmaze.com/characters/609763/super-sentai-kleon",
+      "name": "Kleon",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/609763"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 46604,
+      "url": "http://www.tvmaze.com/people/46604/masaki-terasoma",
+      "name": "Masaki Terasoma",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1962-05-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/9434.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/9434.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/46604"
+        }
+      }
+    },
+    "character": {
+      "id": 602874,
+      "url": "http://www.tvmaze.com/characters/602874/super-sentai-tyramigo",
+      "name": "Tyramigo",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/602874"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 164296,
+      "url": "http://www.tvmaze.com/people/164296/irie-jingi",
+      "name": "Irie Jingi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1993-05-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/99/247698.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/99/247698.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/164296"
+        }
+      }
+    },
+    "character": {
+      "id": 559893,
+      "url": "http://www.tvmaze.com/characters/559893/super-sentai-zamigo-delma",
+      "name": "Zamigo Delma",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/559893"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87518,
+      "url": "http://www.tvmaze.com/people/87518/hikaru-midorikawa",
+      "name": "Hikaru Midorikawa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1968-05-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/26/65504.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/26/65504.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87518"
+        }
+      }
+    },
+    "character": {
+      "id": 620564,
+      "url": "http://www.tvmaze.com/characters/620564/super-sentai-wizeru",
+      "name": "Wizeru",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/620564"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 60606,
+      "url": "http://www.tvmaze.com/people/60606/jouji-nakata",
+      "name": "Jouji Nakata",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1954-04-22",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/14/36515.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/14/36515.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/60606"
+        }
+      }
+    },
+    "character": {
+      "id": 609762,
+      "url": "http://www.tvmaze.com/characters/609762/super-sentai-tankjoh",
+      "name": "Tankjoh",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/609762"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 60611,
+      "url": "http://www.tvmaze.com/people/60611/ai-orikasa",
+      "name": "Ai Orikasa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1963-12-12",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/16/40532.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/16/40532.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/60611"
+        }
+      }
+    },
+    "character": {
+      "id": 570123,
+      "url": "http://www.tvmaze.com/characters/570123/super-sentai-luckyuro",
+      "name": "Luckyuro",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570123"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 219418,
+      "url": "http://www.tvmaze.com/people/219418/yamato-kinjo",
+      "name": "Yamato Kinjo",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1983-09-09",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434697.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434697.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219418"
+        }
+      }
+    },
+    "character": {
+      "id": 570119,
+      "url": "http://www.tvmaze.com/characters/570119/super-sentai-nobuharu-udo",
+      "name": "Nobuharu Udo",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570119"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 95103,
+      "url": "http://www.tvmaze.com/people/95103/ryo-ryusei",
+      "name": "Ryo Ryusei",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1993-03-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/138227.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/138227.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/95103"
+        }
+      }
+    },
+    "character": {
+      "id": 570111,
+      "url": "http://www.tvmaze.com/characters/570111/super-sentai-daigo-kiryu",
+      "name": "Daigo Kiryu",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570111"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 100550,
+      "url": "http://www.tvmaze.com/people/100550/tsutomu-isobe",
+      "name": "Tsutomu Isobe",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1950-10-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/74568.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/74568.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/100550"
+        }
+      }
+    },
+    "character": {
+      "id": 563883,
+      "url": "http://www.tvmaze.com/characters/563883/super-sentai-isamu-ozu",
+      "name": "Isamu Ozu",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563883"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219412,
+      "url": "http://www.tvmaze.com/people/219412/syuusuke-saito",
+      "name": "Syuusuke Saito",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1993-03-01",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434704.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434704.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219412"
+        }
+      }
+    },
+    "character": {
+      "id": 570112,
+      "url": "http://www.tvmaze.com/characters/570112/super-sentai-ian-yorkland",
+      "name": "Ian Yorkland",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570112"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219413,
+      "url": "http://www.tvmaze.com/people/219413/akihisa-shiono",
+      "name": "Akihisa Shiono",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1995-01-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434701.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434701.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219413"
+        }
+      }
+    },
+    "character": {
+      "id": 570113,
+      "url": "http://www.tvmaze.com/characters/570113/super-sentai-souji-rippukan",
+      "name": "Souji Rippukan",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570113"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 90528,
+      "url": "http://www.tvmaze.com/people/90528/satoshi-tsuruoka",
+      "name": "Satoshi Tsuruoka",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1978-08-19",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/137209.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/54/137209.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90528"
+        }
+      }
+    },
+    "character": {
+      "id": 570121,
+      "url": "http://www.tvmaze.com/characters/570121/super-sentai-dogold",
+      "name": "Dogold",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570121"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 219414,
+      "url": "http://www.tvmaze.com/people/219414/ayuri-konno",
+      "name": "Ayuri Konno",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1997-01-10",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434699.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434699.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219414"
+        }
+      }
+    },
+    "character": {
+      "id": 570114,
+      "url": "http://www.tvmaze.com/characters/570114/super-sentai-amy-yuuzuki",
+      "name": "Amy Yuuzuki",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570114"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 82479,
+      "url": "http://www.tvmaze.com/people/82479/takayuki-sugo",
+      "name": "Takayuki Sugo",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1952-08-01",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/15/39694.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/39694.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/82479"
+        }
+      }
+    },
+    "character": {
+      "id": 570124,
+      "url": "http://www.tvmaze.com/characters/570124/super-sentai-chaos",
+      "name": "Chaos",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570124"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 60509,
+      "url": "http://www.tvmaze.com/people/60509/haruka-tomatsu",
+      "name": "Haruka Tomatsu",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1990-02-04",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/11/27843.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/11/27843.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/60509"
+        }
+      }
+    },
+    "character": {
+      "id": 570120,
+      "url": "http://www.tvmaze.com/characters/570120/super-sentai-candelilla",
+      "name": "Candelilla",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570120"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 5374,
+      "url": "http://www.tvmaze.com/people/5374/toshiyuki-morikawa",
+      "name": "Toshiyuki Morikawa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1967-01-26",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/78/196015.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/78/196015.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5374"
+        }
+      }
+    },
+    "character": {
+      "id": 570118,
+      "url": "http://www.tvmaze.com/characters/570118/super-sentai-torin",
+      "name": "Torin",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570118"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 162664,
+      "url": "http://www.tvmaze.com/people/162664/yuu-mizushima",
+      "name": "Yuu Mizushima",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1956-01-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/96/242160.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/96/242160.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/162664"
+        }
+      }
+    },
+    "character": {
+      "id": 570122,
+      "url": "http://www.tvmaze.com/characters/570122/super-sentai-aigaron",
+      "name": "Aigaron",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570122"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 217570,
+      "url": "http://www.tvmaze.com/people/217570/yousuke-ichikawa",
+      "name": "Yousuke Ichikawa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1980-05-01",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/427099.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/427099.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217570"
+        }
+      }
+    },
+    "character": {
+      "id": 563881,
+      "url": "http://www.tvmaze.com/characters/563881/super-sentai-hikaru",
+      "name": "Hikaru",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563881"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216237,
+      "url": "http://www.tvmaze.com/people/216237/hiroya-matsumoto",
+      "name": "Hiroya Matsumoto",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1986-06-21",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/425711.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/425711.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216237"
+        }
+      }
+    },
+    "character": {
+      "id": 563877,
+      "url": "http://www.tvmaze.com/characters/563877/super-sentai-tsubasa-ozu",
+      "name": "Tsubasa Ozu",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563877"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 46597,
+      "url": "http://www.tvmaze.com/people/46597/hisao-egawa",
+      "name": "Hisao Egawa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1962-09-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/9527.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/9527.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/46597"
+        }
+      }
+    },
+    "character": {
+      "id": 563884,
+      "url": "http://www.tvmaze.com/characters/563884/super-sentai-branken",
+      "name": "Branken",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563884"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 100550,
+      "url": "http://www.tvmaze.com/people/100550/tsutomu-isobe",
+      "name": "Tsutomu Isobe",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1950-10-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/74568.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/74568.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/100550"
+        }
+      }
+    },
+    "character": {
+      "id": 563887,
+      "url": "http://www.tvmaze.com/characters/563887/super-sentai-wolzard",
+      "name": "Wolzard",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563887"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 216229,
+      "url": "http://www.tvmaze.com/people/216229/taiki-yamazaki",
+      "name": "Taiki Yamazaki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1995-10-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422064.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422064.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216229"
+        }
+      }
+    },
+    "character": {
+      "id": 560045,
+      "url": "http://www.tvmaze.com/characters/560045/super-sentai-naga-ray",
+      "name": "Naga Ray",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560045"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 113135,
+      "url": "http://www.tvmaze.com/people/113135/kumiko-higa",
+      "name": "Kumiko Higa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1978-10-29",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/99848.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/99848.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/113135"
+        }
+      }
+    },
+    "character": {
+      "id": 563886,
+      "url": "http://www.tvmaze.com/characters/563886/super-sentai-mandora-boy",
+      "name": "Mandora Boy",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563886"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 217566,
+      "url": "http://www.tvmaze.com/people/217566/atsushi-hashimoto",
+      "name": "Atsushi Hashimoto",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1987-01-14",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/427106.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/427106.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217566"
+        }
+      }
+    },
+    "character": {
+      "id": 563876,
+      "url": "http://www.tvmaze.com/characters/563876/super-sentai-kai-ozu",
+      "name": "Kai Ozu",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563876"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 217567,
+      "url": "http://www.tvmaze.com/people/217567/asami-kai",
+      "name": "Asami Kai",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1987-01-09",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/427096.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/427096.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217567"
+        }
+      }
+    },
+    "character": {
+      "id": 563878,
+      "url": "http://www.tvmaze.com/characters/563878/super-sentai-urara-ozu",
+      "name": "Urara Ozu",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563878"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 217568,
+      "url": "http://www.tvmaze.com/people/217568/ayumi-beppu",
+      "name": "Ayumi Beppu",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1983-06-14",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/427094.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/427094.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217568"
+        }
+      }
+    },
+    "character": {
+      "id": 563879,
+      "url": "http://www.tvmaze.com/characters/563879/super-sentai-houka-ozu",
+      "name": "Houka Ozu",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563879"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 217569,
+      "url": "http://www.tvmaze.com/people/217569/yuuki-ito",
+      "name": "Yuuki Ito",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1985-01-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/427111.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/427111.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217569"
+        }
+      }
+    },
+    "character": {
+      "id": 563880,
+      "url": "http://www.tvmaze.com/characters/563880/super-sentai-makito-ozu",
+      "name": "Makito Ozu",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563880"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87603,
+      "url": "http://www.tvmaze.com/people/87603/mao-ichimichi",
+      "name": "Mao Ichimichi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1992-02-01",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/100/252195.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/100/252195.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87603"
+        }
+      }
+    },
+    "character": {
+      "id": 560047,
+      "url": "http://www.tvmaze.com/characters/560047/super-sentai-raptor-283",
+      "name": "Raptor 283",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560047"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 219733,
+      "url": "http://www.tvmaze.com/people/219733/nanami-tsunamoto",
+      "name": "Nanami Tsunamoto",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435647.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435647.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219733"
+        }
+      }
+    },
+    "character": {
+      "id": 571075,
+      "url": "http://www.tvmaze.com/characters/571075/super-sentai-rika-fukui",
+      "name": "Rika Fukui",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/571075"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 6391,
+      "url": "http://www.tvmaze.com/people/6391/kazuya-nakai",
+      "name": "Kazuya Nakai",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1967-11-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10234.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10234.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/6391"
+        }
+      }
+    },
+    "character": {
+      "id": 560042,
+      "url": "http://www.tvmaze.com/characters/560042/super-sentai-garu",
+      "name": "Garu",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560042"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 93224,
+      "url": "http://www.tvmaze.com/people/93224/chiaki-horan",
+      "name": "Chiaki Horan",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1988-09-28",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/151/377594.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/151/377594.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/93224"
+        }
+      }
+    },
+    "character": {
+      "id": 563888,
+      "url": "http://www.tvmaze.com/characters/563888/super-sentai-nai",
+      "name": "Nai",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563888"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 217571,
+      "url": "http://www.tvmaze.com/people/217571/azusa-watanabe",
+      "name": "Azusa Watanabe",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1969-02-20",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/427114.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/427114.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217571"
+        }
+      }
+    },
+    "character": {
+      "id": 563882,
+      "url": "http://www.tvmaze.com/characters/563882/super-sentai-miyuki-ozu",
+      "name": "Miyuki Ozu",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563882"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219441,
+      "url": "http://www.tvmaze.com/people/219441/sho-tomita",
+      "name": "Shô Tomita",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1982-01-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435248.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435248.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219441"
+        }
+      }
+    },
+    "character": {
+      "id": 570193,
+      "url": "http://www.tvmaze.com/characters/570193/super-sentai-yukito-sanjou",
+      "name": "Yukito Sanjou",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570193"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 217573,
+      "url": "http://www.tvmaze.com/people/217573/tomomi-kitagami",
+      "name": "Tomomi Kitagami",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1985-06-24",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/170/427133.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/170/427133.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/217573"
+        }
+      }
+    },
+    "character": {
+      "id": 563889,
+      "url": "http://www.tvmaze.com/characters/563889/super-sentai-mea",
+      "name": "Mea",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563889"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 89303,
+      "url": "http://www.tvmaze.com/people/89303/yuuki-ono",
+      "name": "Yuuki Ono",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1984-01-22",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/35/89708.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/35/89708.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/89303"
+        }
+      }
+    },
+    "character": {
+      "id": 560043,
+      "url": "http://www.tvmaze.com/characters/560043/super-sentai-balance",
+      "name": "Balance",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560043"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 180169,
+      "url": "http://www.tvmaze.com/people/180169/atsuki-tani",
+      "name": "Atsuki Tani",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1959-01-22",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/117/292515.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/117/292515.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/180169"
+        }
+      }
+    },
+    "character": {
+      "id": 560049,
+      "url": "http://www.tvmaze.com/characters/560049/super-sentai-don-armage",
+      "name": "Don Armage",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560049"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 216228,
+      "url": "http://www.tvmaze.com/people/216228/takumi-kizu",
+      "name": "Takumi Kizu",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1997-04-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422063.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422063.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216228"
+        }
+      }
+    },
+    "character": {
+      "id": 560041,
+      "url": "http://www.tvmaze.com/characters/560041/super-sentai-lucky",
+      "name": "Lucky",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560041"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 231544,
+      "url": "http://www.tvmaze.com/people/231544/shou-tomita",
+      "name": "Shou Tomita",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1982-01-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/189/474511.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/189/474511.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/231544"
+        }
+      }
+    },
+    "character": {
+      "id": 570193,
+      "url": "http://www.tvmaze.com/characters/570193/super-sentai-yukito-sanjou",
+      "name": "Yukito Sanjou",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570193"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 235648,
+      "url": "http://www.tvmaze.com/people/235648/katsumi-hyodo",
+      "name": "Katsumi Hyodo",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1998-04-15",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/198/495236.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/198/495236.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/235648"
+        }
+      }
+    },
+    "character": {
+      "id": 627744,
+      "url": "http://www.tvmaze.com/characters/627744/super-sentai-canalo-ryusoulgold",
+      "name": "Canalo (RyusoulGold)",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/198/497048.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/198/497048.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/627744"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216230,
+      "url": "http://www.tvmaze.com/people/216230/sakurako-okubo",
+      "name": "Sakurako Okubo",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1998-07-20",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422060.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422060.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216230"
+        }
+      }
+    },
+    "character": {
+      "id": 560046,
+      "url": "http://www.tvmaze.com/characters/560046/super-sentai-hammie",
+      "name": "Hammie",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560046"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 55881,
+      "url": "http://www.tvmaze.com/people/55881/misa-watanabe",
+      "name": "Misa Watanabe",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1964-04-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/8/21417.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/21417.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/55881"
+        }
+      }
+    },
+    "character": {
+      "id": 563885,
+      "url": "http://www.tvmaze.com/characters/563885/super-sentai-vancuria",
+      "name": "Vancuria",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/563885"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 216231,
+      "url": "http://www.tvmaze.com/people/216231/tetsuji-sakakibara",
+      "name": "Tetsuji Sakakibara",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1989-12-06",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422065.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422065.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216231"
+        }
+      }
+    },
+    "character": {
+      "id": 560048,
+      "url": "http://www.tvmaze.com/characters/560048/super-sentai-spada",
+      "name": "Spada",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560048"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216310,
+      "url": "http://www.tvmaze.com/people/216310/mitsuomi-takahashi",
+      "name": "Mitsuomi Takahashi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1982-03-10",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435276.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435276.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216310"
+        }
+      }
+    },
+    "character": {
+      "id": 560252,
+      "url": "http://www.tvmaze.com/characters/560252/super-sentai-satoru-akashi",
+      "name": "Satoru Akashi",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560252"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 60510,
+      "url": "http://www.tvmaze.com/people/60510/hirofumi-nojima",
+      "name": "Hirofumi Nojima",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1973-04-16",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/11/27846.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/11/27846.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/60510"
+        }
+      }
+    },
+    "character": {
+      "id": 560181,
+      "url": "http://www.tvmaze.com/characters/560181/super-sentai-warz-gill",
+      "name": "Warz Gill",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560181"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 219732,
+      "url": "http://www.tvmaze.com/people/219732/ayumi-kinoshita",
+      "name": "Ayumi Kinoshita",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1982-12-13",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435645.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435645.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219732"
+        }
+      }
+    },
+    "character": {
+      "id": 571074,
+      "url": "http://www.tvmaze.com/characters/571074/super-sentai-yuko-fukui",
+      "name": "Yuko Fukui",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/571074"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 93078,
+      "url": "http://www.tvmaze.com/people/93078/akio-ohtsuka",
+      "name": "Akio Ohtsuka",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1959-11-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/24/60933.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/24/60933.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/93078"
+        }
+      }
+    },
+    "character": {
+      "id": 560044,
+      "url": "http://www.tvmaze.com/characters/560044/super-sentai-champ",
+      "name": "Champ",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560044"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 124899,
+      "url": "http://www.tvmaze.com/people/124899/takumi-hashimoto",
+      "name": "Takumi Hashimoto",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/51/128087.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/51/128087.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/124899"
+        }
+      }
+    },
+    "character": {
+      "id": 570167,
+      "url": "http://www.tvmaze.com/characters/570167/super-sentai-boi",
+      "name": "Boi",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570167"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219417,
+      "url": "http://www.tvmaze.com/people/219417/masayuki-deai",
+      "name": "Masayuki Deai",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1981-01-21",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434696.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434696.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219417"
+        }
+      }
+    },
+    "character": {
+      "id": 570624,
+      "url": "http://www.tvmaze.com/characters/570624/super-sentai-eiji-takaoka",
+      "name": "Eiji Takaoka",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570624"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216323,
+      "url": "http://www.tvmaze.com/people/216323/kento-ono",
+      "name": "Kento Ono",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1989-08-09",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422166.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422166.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216323"
+        }
+      }
+    },
+    "character": {
+      "id": 560282,
+      "url": "http://www.tvmaze.com/characters/560282/super-sentai-hyde",
+      "name": "Hyde",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560282"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 124900,
+      "url": "http://www.tvmaze.com/people/124900/reiko-chiba",
+      "name": "Reiko Chiba",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/51/128085.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/51/128085.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/124900"
+        }
+      }
+    },
+    "character": {
+      "id": 570169,
+      "url": "http://www.tvmaze.com/characters/570169/super-sentai-mei",
+      "name": "Mei",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570169"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87603,
+      "url": "http://www.tvmaze.com/people/87603/mao-ichimichi",
+      "name": "Mao Ichimichi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1992-02-01",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/100/252195.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/100/252195.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87603"
+        }
+      }
+    },
+    "character": {
+      "id": 560174,
+      "url": "http://www.tvmaze.com/characters/560174/super-sentai-luka-millfy",
+      "name": "Luka Millfy",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422057.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422057.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560174"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219734,
+      "url": "http://www.tvmaze.com/people/219734/kentaro-shimazu",
+      "name": "Kentarō Shimazu",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1969-06-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435648.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435648.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219734"
+        }
+      }
+    },
+    "character": {
+      "id": 571076,
+      "url": "http://www.tvmaze.com/characters/571076/super-sentai-gentle",
+      "name": "Gentle",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/571076"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 64910,
+      "url": "http://www.tvmaze.com/people/64910/machiko-soga",
+      "name": "Machiko Soga",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1938-03-18",
+      "deathday": "2006-03-07",
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/16/40625.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/16/40625.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64910"
+        }
+      }
+    },
+    "character": {
+      "id": 570173,
+      "url": "http://www.tvmaze.com/characters/570173/super-sentai-bandora",
+      "name": "Bandora",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570173"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 124901,
+      "url": "http://www.tvmaze.com/people/124901/jun-tatara",
+      "name": "Jun Tatara",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1917-08-04",
+      "deathday": "2006-09-30",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/51/128086.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/51/128086.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/124901"
+        }
+      }
+    },
+    "character": {
+      "id": 570175,
+      "url": "http://www.tvmaze.com/characters/570175/super-sentai-barza",
+      "name": "Barza",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570175"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216295,
+      "url": "http://www.tvmaze.com/people/216295/ryota-ozawa",
+      "name": "Ryota Ozawa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1988-01-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/187/468325.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/187/468325.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216295"
+        }
+      }
+    },
+    "character": {
+      "id": 560172,
+      "url": "http://www.tvmaze.com/characters/560172/super-sentai-captain-marvelous",
+      "name": "Captain Marvelous",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422053.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422053.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560172"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 167947,
+      "url": "http://www.tvmaze.com/people/167947/louis-liii-yamada",
+      "name": "Louis LIII Yamada",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1975-04-10",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/103/258169.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/103/258169.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/167947"
+        }
+      }
+    },
+    "character": {
+      "id": 560285,
+      "url": "http://www.tvmaze.com/characters/560285/super-sentai-professor-shuchirou-amachi",
+      "name": "Professor Shuchirou Amachi",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560285"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219735,
+      "url": "http://www.tvmaze.com/people/219735/shinji-yamashita",
+      "name": "Shinji Yamashita",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1951-12-16",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435651.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435651.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219735"
+        }
+      }
+    },
+    "character": {
+      "id": 571113,
+      "url": "http://www.tvmaze.com/characters/571113/super-sentai-dantetsu-kiryu",
+      "name": "Dantetsu Kiryu",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/571113"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 46575,
+      "url": "http://www.tvmaze.com/people/46575/yukari-tamura",
+      "name": "Yukari Tamura",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1976-02-27",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/73/184475.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/184475.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/46575"
+        }
+      }
+    },
+    "character": {
+      "id": 560179,
+      "url": "http://www.tvmaze.com/characters/560179/super-sentai-navi",
+      "name": "Navi",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422160.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422160.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560179"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 231543,
+      "url": "http://www.tvmaze.com/people/231543/koichiro-nishi",
+      "name": "Koichiro Nishi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1979-10-17",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/189/474510.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/189/474510.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/231543"
+        }
+      }
+    },
+    "character": {
+      "id": 613611,
+      "url": "http://www.tvmaze.com/characters/613611/super-sentai-ryouga-hakua",
+      "name": "Ryouga Hakua",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/613611"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 65470,
+      "url": "http://www.tvmaze.com/people/65470/kikuko-inoue",
+      "name": "Kikuko Inoue",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1964-09-25",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/70/176736.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/70/176736.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/65470"
+        }
+      }
+    },
+    "character": {
+      "id": 560183,
+      "url": "http://www.tvmaze.com/characters/560183/super-sentai-insarn",
+      "name": "Insarn",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560183"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 124902,
+      "url": "http://www.tvmaze.com/people/124902/shiro-izumi",
+      "name": "Shirô Izumi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1961-05-06",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/51/128088.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/51/128088.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/124902"
+        }
+      }
+    },
+    "character": {
+      "id": 570171,
+      "url": "http://www.tvmaze.com/characters/570171/super-sentai-burai",
+      "name": "Burai",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570171"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216296,
+      "url": "http://www.tvmaze.com/people/216296/kazuki-shimizu",
+      "name": "Kazuki Shimizu",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216296"
+        }
+      }
+    },
+    "character": {
+      "id": 560175,
+      "url": "http://www.tvmaze.com/characters/560175/super-sentai-don-doc-dogoier",
+      "name": "Don \"Doc\" Dogoier",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422055.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422055.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560175"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219444,
+      "url": "http://www.tvmaze.com/people/219444/kaoru-abe",
+      "name": "Kaoru Abe",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1980-03-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435654.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435654.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219444"
+        }
+      }
+    },
+    "character": {
+      "id": 570198,
+      "url": "http://www.tvmaze.com/characters/570198/super-sentai-asuka",
+      "name": "Asuka",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570198"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 218396,
+      "url": "http://www.tvmaze.com/people/218396/akio-ito",
+      "name": "Akio Ito",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1980-10-24",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/189/473776.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/189/473776.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/218396"
+        }
+      }
+    },
+    "character": {
+      "id": 613610,
+      "url": "http://www.tvmaze.com/characters/613610/super-sentai-ranru-itsuki",
+      "name": "Ranru Itsuki",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/613610"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 125816,
+      "url": "http://www.tvmaze.com/people/125816/chiba-yudai",
+      "name": "Chiba Yudai",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1989-03-09",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/138223.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/138223.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/125816"
+        }
+      }
+    },
+    "character": {
+      "id": 560278,
+      "url": "http://www.tvmaze.com/characters/560278/super-sentai-alata",
+      "name": "Alata",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560278"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216297,
+      "url": "http://www.tvmaze.com/people/216297/yui-koike",
+      "name": "Yui Koike",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216297"
+        }
+      }
+    },
+    "character": {
+      "id": 560176,
+      "url": "http://www.tvmaze.com/characters/560176/super-sentai-ahim-de-famille",
+      "name": "Ahim de Famille",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422056.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422056.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560176"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219445,
+      "url": "http://www.tvmaze.com/people/219445/koutaro-tanaka",
+      "name": "Koutaro Tanaka",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1982-12-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435245.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435245.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219445"
+        }
+      }
+    },
+    "character": {
+      "id": 570200,
+      "url": "http://www.tvmaze.com/characters/570200/super-sentai-mikoto-nakadai",
+      "name": "Mikoto Nakadai",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570200"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 89346,
+      "url": "http://www.tvmaze.com/people/89346/sakura-nakamura",
+      "name": "Sakura Nakamura",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/21/54284.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/21/54284.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/89346"
+        }
+      }
+    },
+    "character": {
+      "id": 560284,
+      "url": "http://www.tvmaze.com/characters/560284/super-sentai-nozomu-amachi",
+      "name": "Nozomu Amachi",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560284"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 100552,
+      "url": "http://www.tvmaze.com/people/100552/shinji-ogawa",
+      "name": "Shinji Ogawa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1941-02-19",
+      "deathday": "2015-03-07",
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/74571.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/74571.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/100552"
+        }
+      }
+    },
+    "character": {
+      "id": 560180,
+      "url": "http://www.tvmaze.com/characters/560180/super-sentai-ackdos-gill",
+      "name": "Ackdos Gill",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560180"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 133161,
+      "url": "http://www.tvmaze.com/people/133161/junya-ikeda",
+      "name": "Junya Ikeda",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1992-10-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/73/184542.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/184542.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/133161"
+        }
+      }
+    },
+    "character": {
+      "id": 560177,
+      "url": "http://www.tvmaze.com/characters/560177/super-sentai-gai-ikari",
+      "name": "Gai Ikari",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422052.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422052.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560177"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216298,
+      "url": "http://www.tvmaze.com/people/216298/kei-hosogai",
+      "name": "Kei Hosogai",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216298"
+        }
+      }
+    },
+    "character": {
+      "id": 560178,
+      "url": "http://www.tvmaze.com/characters/560178/super-sentai-basco-ta-jolokia",
+      "name": "Basco ta Jolokia",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422059.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422059.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560178"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219592,
+      "url": "http://www.tvmaze.com/people/219592/yasuka-saitou",
+      "name": "Yasuka Saitou",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1987-06-29",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435355.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435355.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219592"
+        }
+      }
+    },
+    "character": {
+      "id": 570620,
+      "url": "http://www.tvmaze.com/characters/570620/super-sentai-masumi-inou",
+      "name": "Masumi Inou",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570620"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 210281,
+      "url": "http://www.tvmaze.com/people/210281/nana-asakawa",
+      "name": "Nana Asakawa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1999-04-03",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/158/397297.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/158/397297.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/210281"
+        }
+      }
+    },
+    "character": {
+      "id": 607330,
+      "url": "http://www.tvmaze.com/characters/607330/super-sentai-rita",
+      "name": "Rita",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/607330"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 49933,
+      "url": "http://www.tvmaze.com/people/49933/hiroshi-kamiya",
+      "name": "Hiroshi Kamiya",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1975-01-28",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/71/178787.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/71/178787.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/49933"
+        }
+      }
+    },
+    "character": {
+      "id": 560050,
+      "url": "http://www.tvmaze.com/characters/560050/super-sentai-shou-ronpo",
+      "name": "Shou Ronpo",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560050"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 216299,
+      "url": "http://www.tvmaze.com/people/216299/gaku-shindo",
+      "name": "Gaku Shindo",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1980-01-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422161.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422161.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216299"
+        }
+      }
+    },
+    "character": {
+      "id": 560184,
+      "url": "http://www.tvmaze.com/characters/560184/super-sentai-barizorg",
+      "name": "Barizorg",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560184"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 219593,
+      "url": "http://www.tvmaze.com/people/219593/masashi-mikami",
+      "name": "Masashi Mikami",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1983-06-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435264.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435264.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219593"
+        }
+      }
+    },
+    "character": {
+      "id": 570621,
+      "url": "http://www.tvmaze.com/characters/570621/super-sentai-souta-mogami",
+      "name": "Souta Mogami",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570621"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 116004,
+      "url": "http://www.tvmaze.com/people/116004/kouji-ishii",
+      "name": "Kouji Ishii",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1960-07-01",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/42/106453.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/42/106453.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/116004"
+        }
+      }
+    },
+    "character": {
+      "id": 560182,
+      "url": "http://www.tvmaze.com/characters/560182/super-sentai-damaras",
+      "name": "Damaras",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560182"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 219594,
+      "url": "http://www.tvmaze.com/people/219594/chise-nakamura",
+      "name": "Chise Nakamura",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1986-09-11",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435263.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435263.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219594"
+        }
+      }
+    },
+    "character": {
+      "id": 570622,
+      "url": "http://www.tvmaze.com/characters/570622/super-sentai-natsuki-mamiya",
+      "name": "Natsuki Mamiya",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570622"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 124896,
+      "url": "http://www.tvmaze.com/people/124896/yuuta-mochizuki",
+      "name": "Yuuta Mochizuki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1967-03-14",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/51/128084.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/51/128084.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/124896"
+        }
+      }
+    },
+    "character": {
+      "id": 570163,
+      "url": "http://www.tvmaze.com/characters/570163/super-sentai-geki",
+      "name": "Geki",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570163"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216232,
+      "url": "http://www.tvmaze.com/people/216232/shota-taguchi",
+      "name": "Shota Taguchi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "2004-06-16",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422067.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422067.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216232"
+        }
+      }
+    },
+    "character": {
+      "id": 560051,
+      "url": "http://www.tvmaze.com/characters/560051/super-sentai-kotaro-sakuma",
+      "name": "Kotaro Sakuma",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560051"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219415,
+      "url": "http://www.tvmaze.com/people/219415/atsushi-maruyama",
+      "name": "Atsushi Maruyama",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1983-06-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434695.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434695.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219415"
+        }
+      }
+    },
+    "character": {
+      "id": 570115,
+      "url": "http://www.tvmaze.com/characters/570115/super-sentai-utsusemimaru",
+      "name": "Utsusemimaru",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570115"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 145112,
+      "url": "http://www.tvmaze.com/people/145112/nobuo-tanaka",
+      "name": "Nobuo Tanaka",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1935-08-01",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/74/187355.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/74/187355.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/145112"
+        }
+      }
+    },
+    "character": {
+      "id": 570627,
+      "url": "http://www.tvmaze.com/characters/570627/super-sentai-mister-voice",
+      "name": "Mister Voice",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570627"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 216320,
+      "url": "http://www.tvmaze.com/people/216320/rika-satoh",
+      "name": "Rika Satoh",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1987-04-18",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422163.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422163.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216320"
+        }
+      }
+    },
+    "character": {
+      "id": 560279,
+      "url": "http://www.tvmaze.com/characters/560279/super-sentai-eri",
+      "name": "Eri",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560279"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219595,
+      "url": "http://www.tvmaze.com/people/219595/haruka-suenaga",
+      "name": "Haruka Suenaga",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1986-07-22",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435251.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435251.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219595"
+        }
+      }
+    },
+    "character": {
+      "id": 570623,
+      "url": "http://www.tvmaze.com/characters/570623/super-sentai-sakura-nishihori",
+      "name": "Sakura Nishihori",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570623"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 229991,
+      "url": "http://www.tvmaze.com/people/229991/masaki-nakao",
+      "name": "Masaki Nakao",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1996-11-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/187/468184.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/187/468184.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/229991"
+        }
+      }
+    },
+    "character": {
+      "id": 607327,
+      "url": "http://www.tvmaze.com/characters/607327/super-sentai-yamato-kazakiri",
+      "name": "Yamato Kazakiri",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/607327"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 124897,
+      "url": "http://www.tvmaze.com/people/124897/aohisa-takayasu",
+      "name": "Aohisa Takayasu",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/51/128089.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/51/128089.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/124897"
+        }
+      }
+    },
+    "character": {
+      "id": 570165,
+      "url": "http://www.tvmaze.com/characters/570165/super-sentai-goushi",
+      "name": "Goushi",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570165"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216233,
+      "url": "http://www.tvmaze.com/people/216233/keisuke-minami",
+      "name": "Keisuke Minami",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1985-07-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422068.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422068.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216233"
+        }
+      }
+    },
+    "character": {
+      "id": 560052,
+      "url": "http://www.tvmaze.com/characters/560052/super-sentai-tsurugi-ohtori",
+      "name": "Tsurugi Ohtori",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560052"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219416,
+      "url": "http://www.tvmaze.com/people/219416/robert-baldwin",
+      "name": "Robert Baldwin",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1965-09-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434694.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434694.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219416"
+        }
+      }
+    },
+    "character": {
+      "id": 570116,
+      "url": "http://www.tvmaze.com/characters/570116/super-sentai-ramirez",
+      "name": "Ramirez",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570116"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87315,
+      "url": "http://www.tvmaze.com/people/87315/katsuyuki-konishi",
+      "name": "Katsuyuki Konishi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1973-04-21",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/25/64429.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/25/64429.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87315"
+        }
+      }
+    },
+    "character": {
+      "id": 560283,
+      "url": "http://www.tvmaze.com/characters/560283/super-sentai-gosei-knight",
+      "name": "Gosei Knight",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560283"
+        }
+      }
+    },
+    "self": false,
+    "voice": true
+  },
+  {
+    "person": {
+      "id": 150015,
+      "url": "http://www.tvmaze.com/people/150015/yuki-yamada",
+      "name": "Yuki Yamada",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1990-09-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/81/204326.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/81/204326.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/150015"
+        }
+      }
+    },
+    "character": {
+      "id": 560173,
+      "url": "http://www.tvmaze.com/characters/560173/super-sentai-joe-gibken",
+      "name": "Joe Gibken",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422058.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422058.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560173"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216321,
+      "url": "http://www.tvmaze.com/people/216321/kyousuke-hamao",
+      "name": "Kyousuke Hamao",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1991-06-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422164.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422164.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216321"
+        }
+      }
+    },
+    "character": {
+      "id": 560280,
+      "url": "http://www.tvmaze.com/characters/560280/super-sentai-agri",
+      "name": "Agri",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560280"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219596,
+      "url": "http://www.tvmaze.com/people/219596/shigeru-saiki",
+      "name": "Shigeru Saiki",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1949-11-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435249.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435249.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219596"
+        }
+      }
+    },
+    "character": {
+      "id": 570625,
+      "url": "http://www.tvmaze.com/characters/570625/super-sentai-morio-makino",
+      "name": "Morio Makino",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570625"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 92593,
+      "url": "http://www.tvmaze.com/people/92593/otaka-hiroo",
+      "name": "Otaka Hiroo",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1959-06-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/174/435247.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/174/435247.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/92593"
+        }
+      }
+    },
+    "character": {
+      "id": 570628,
+      "url": "http://www.tvmaze.com/characters/570628/super-sentai-arch-priest-gajah",
+      "name": "Arch Priest Gajah",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570628"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 229992,
+      "url": "http://www.tvmaze.com/people/229992/shunsuke-nishikawa",
+      "name": "Shunsuke Nishikawa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1994-04-04",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/187/468186.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/187/468186.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/229992"
+        }
+      }
+    },
+    "character": {
+      "id": 607328,
+      "url": "http://www.tvmaze.com/characters/607328/super-sentai-takaharu-igasaki",
+      "name": "Takaharu Igasaki",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/607328"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 124898,
+      "url": "http://www.tvmaze.com/people/124898/hideki-fujiwara",
+      "name": "Hideki Fujiwara",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/51/128090.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/51/128090.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/124898"
+        }
+      }
+    },
+    "character": {
+      "id": 570166,
+      "url": "http://www.tvmaze.com/characters/570166/super-sentai-dan",
+      "name": "Dan",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570166"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216234,
+      "url": "http://www.tvmaze.com/people/216234/yosuke-kishi",
+      "name": "Yōsuke Kishi",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1993-07-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422066.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422066.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216234"
+        }
+      }
+    },
+    "character": {
+      "id": 560053,
+      "url": "http://www.tvmaze.com/characters/560053/super-sentai-stinger",
+      "name": "Stinger",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560053"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 219417,
+      "url": "http://www.tvmaze.com/people/219417/masayuki-deai",
+      "name": "Masayuki Deai",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1981-01-21",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/173/434696.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/173/434696.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/219417"
+        }
+      }
+    },
+    "character": {
+      "id": 570117,
+      "url": "http://www.tvmaze.com/characters/570117/super-sentai-tessai",
+      "name": "Tessai",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/570117"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 216322,
+      "url": "http://www.tvmaze.com/people/216322/mikiho-niwa",
+      "name": "Mikiho Niwa",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1989-09-27",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/168/422165.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/168/422165.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/216322"
+        }
+      }
+    },
+    "character": {
+      "id": 560281,
+      "url": "http://www.tvmaze.com/characters/560281/super-sentai-moune",
+      "name": "Moune",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/560281"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 229993,
+      "url": "http://www.tvmaze.com/people/229993/ai-moritaka",
+      "name": "Ai Moritaka",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "birthday": "1998-01-14",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/187/468185.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/187/468185.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/229993"
+        }
+      }
+    },
+    "character": {
+      "id": 607329,
+      "url": "http://www.tvmaze.com/characters/607329/super-sentai-kagura-izumi",
+      "name": "Kagura Izumi",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/607329"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

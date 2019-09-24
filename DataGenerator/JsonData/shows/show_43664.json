@@ -1,0 +1,32 @@
+[
+  {
+    "person": {
+      "id": 244780,
+      "url": "http://www.tvmaze.com/people/244780/matt-beisner",
+      "name": "Matt Beisner",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/244780"
+        }
+      }
+    },
+    "character": {
+      "id": 654790,
+      "url": "http://www.tvmaze.com/characters/654790/dog-impossible-matt-beisner",
+      "name": "Matt Beisner",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/654790"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

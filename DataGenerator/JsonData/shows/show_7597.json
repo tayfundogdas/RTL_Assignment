@@ -1,0 +1,209 @@
+[
+  {
+    "person": {
+      "id": 97664,
+      "url": "http://www.tvmaze.com/people/97664/marie-blokhus",
+      "name": "Marie Blokhus",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/97664"
+        }
+      }
+    },
+    "character": {
+      "id": 196017,
+      "url": "http://www.tvmaze.com/characters/196017/side-om-side-maria-lerke",
+      "name": "Maria Lerke",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/28/70075.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/28/70075.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/196017"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 97665,
+      "url": "http://www.tvmaze.com/people/97665/vidar-magnussen",
+      "name": "Vidar Magnussen",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/184/462177.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/184/462177.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/97665"
+        }
+      }
+    },
+    "character": {
+      "id": 196018,
+      "url": "http://www.tvmaze.com/characters/196018/side-om-side-jonas-kvale",
+      "name": "Jonas Kvåle",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/28/70076.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/28/70076.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/196018"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 97666,
+      "url": "http://www.tvmaze.com/people/97666/jon-almaas",
+      "name": "Jon Almaas",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/131/329712.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/131/329712.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/97666"
+        }
+      }
+    },
+    "character": {
+      "id": 196019,
+      "url": "http://www.tvmaze.com/characters/196019/side-om-side-christian-kopperud",
+      "name": "Christian Kopperud",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/28/70077.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/28/70077.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/196019"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 97667,
+      "url": "http://www.tvmaze.com/people/97667/charlotte-frogner",
+      "name": "Charlotte Frogner",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/97667"
+        }
+      }
+    },
+    "character": {
+      "id": 196020,
+      "url": "http://www.tvmaze.com/characters/196020/side-om-side-celine-kopperud",
+      "name": "Celine Kopperud",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/28/70078.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/28/70078.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/196020"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 97668,
+      "url": "http://www.tvmaze.com/people/97668/tore-sagen",
+      "name": "Tore Sagen",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/131/328703.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/131/328703.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/97668"
+        }
+      }
+    },
+    "character": {
+      "id": 196021,
+      "url": "http://www.tvmaze.com/characters/196021/side-om-side-frode-pedersen",
+      "name": "Frode Pedersen",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/28/70079.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/28/70079.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/196021"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 97669,
+      "url": "http://www.tvmaze.com/people/97669/pernille-sorensen",
+      "name": "Pernille Sørensen",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/97669"
+        }
+      }
+    },
+    "character": {
+      "id": 196022,
+      "url": "http://www.tvmaze.com/characters/196022/side-om-side-lisbeth-pedersen",
+      "name": "Lisbeth Pedersen",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/28/70080.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/28/70080.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/196022"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "person": {
+      "id": 129529,
+      "url": "http://www.tvmaze.com/people/129529/richard-pigois",
+      "name": "Richard Pigois",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139148.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139148.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129529"
+        }
+      }
+    },
+    "character": {
+      "id": 278248,
+      "url": "http://www.tvmaze.com/characters/278248/les-mysteres-de-lamour-john-greyson",
+      "name": "John Greyson",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137535.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137535.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278248"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129540,
+      "url": "http://www.tvmaze.com/people/129540/philippe-vasseur",
+      "name": "Philippe Vasseur",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": "1966-07-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139153.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139153.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129540"
+        }
+      }
+    },
+    "character": {
+      "id": 278260,
+      "url": "http://www.tvmaze.com/characters/278260/les-mysteres-de-lamour-jose-da-silva",
+      "name": "José Da Silva",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137547.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137547.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278260"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129530,
+      "url": "http://www.tvmaze.com/people/129530/elsa-esnoult",
+      "name": "Elsa Esnoult",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": "1988-09-25",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139152.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139152.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129530"
+        }
+      }
+    },
+    "character": {
+      "id": 278249,
+      "url": "http://www.tvmaze.com/characters/278249/les-mysteres-de-lamour-fanny-greyson",
+      "name": "Fanny Greyson",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137536.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137536.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278249"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129541,
+      "url": "http://www.tvmaze.com/people/129541/laure-guibert",
+      "name": "Laure Guibert",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": "1968-02-20",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139156.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139156.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129541"
+        }
+      }
+    },
+    "character": {
+      "id": 278261,
+      "url": "http://www.tvmaze.com/characters/278261/les-mysteres-de-lamour-benedicte-breton",
+      "name": "Bénédicte Breton",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137548.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137548.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278261"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129531,
+      "url": "http://www.tvmaze.com/people/129531/marion-huguenin",
+      "name": "Marion Huguenin",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139154.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139154.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129531"
+        }
+      }
+    },
+    "character": {
+      "id": 278250,
+      "url": "http://www.tvmaze.com/characters/278250/les-mysteres-de-lamour-chloe-girard",
+      "name": "Chloé Girard",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137537.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137537.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278250"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129532,
+      "url": "http://www.tvmaze.com/people/129532/eve-peyrieux",
+      "name": "Ève Peyrieux",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139157.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139157.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129532"
+        }
+      }
+    },
+    "character": {
+      "id": 278251,
+      "url": "http://www.tvmaze.com/characters/278251/les-mysteres-de-lamour-eve-watson",
+      "name": "Eve Watson",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137538.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137538.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278251"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129533,
+      "url": "http://www.tvmaze.com/people/129533/tom-schacht",
+      "name": "Tom Schacht",
+      "country": {
+        "name": "Sweden",
+        "code": "SE",
+        "timezone": "Europe/Stockholm"
+      },
+      "birthday": "1967-12-13",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139123.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139123.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129533"
+        }
+      }
+    },
+    "character": {
+      "id": 278253,
+      "url": "http://www.tvmaze.com/characters/278253/les-mysteres-de-lamour-jimmy-werner",
+      "name": "Jimmy Werner",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137540.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137540.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278253"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129534,
+      "url": "http://www.tvmaze.com/people/129534/macha-polikarpova",
+      "name": "Macha Polikarpova",
+      "country": {
+        "name": "Estonia",
+        "code": "EE",
+        "timezone": "Europe/Tallinn"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139124.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139124.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129534"
+        }
+      }
+    },
+    "character": {
+      "id": 278254,
+      "url": "http://www.tvmaze.com/characters/278254/les-mysteres-de-lamour-olga-mirchtein",
+      "name": "Olga Mirchtein",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137541.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137541.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278254"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 109884,
+      "url": "http://www.tvmaze.com/people/109884/rochelle-redfield",
+      "name": "Rochelle Redfield",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1962-07-20",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139121.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139121.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/109884"
+        }
+      }
+    },
+    "character": {
+      "id": 278252,
+      "url": "http://www.tvmaze.com/characters/278252/les-mysteres-de-lamour-johanna-mccormick",
+      "name": "Johanna McCormick",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137539.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137539.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278252"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129535,
+      "url": "http://www.tvmaze.com/people/129535/lakshan-abenayake",
+      "name": "Lakshan Abenayake",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139125.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139125.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129535"
+        }
+      }
+    },
+    "character": {
+      "id": 278255,
+      "url": "http://www.tvmaze.com/characters/278255/les-mysteres-de-lamour-rudy-kouma",
+      "name": "Rudy Kouma",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137542.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137542.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278255"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129525,
+      "url": "http://www.tvmaze.com/people/129525/helene-rolles",
+      "name": "Hélène Rollès",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": "1966-12-20",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139086.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139086.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129525"
+        }
+      }
+    },
+    "character": {
+      "id": 278244,
+      "url": "http://www.tvmaze.com/characters/278244/les-mysteres-de-lamour-helene-girard",
+      "name": "Hélène Girard",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137531.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137531.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278244"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129536,
+      "url": "http://www.tvmaze.com/people/129536/laly-meignan",
+      "name": "Laly Meignan",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": "1968-01-05",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139127.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139127.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129536"
+        }
+      }
+    },
+    "character": {
+      "id": 278256,
+      "url": "http://www.tvmaze.com/characters/278256/les-mysteres-de-lamour-laly-paoli",
+      "name": "Laly Paoli",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137543.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137543.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278256"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129526,
+      "url": "http://www.tvmaze.com/people/129526/patrick-puydebat",
+      "name": "Patrick Puydebat",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": "1971-07-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139097.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139097.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129526"
+        }
+      }
+    },
+    "character": {
+      "id": 278245,
+      "url": "http://www.tvmaze.com/characters/278245/les-mysteres-de-lamour-nicolas-vernier",
+      "name": "Nicolas Vernier",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137532.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137532.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278245"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129537,
+      "url": "http://www.tvmaze.com/people/129537/coralie-caulier",
+      "name": "Coralie Caulier",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139136.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139136.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129537"
+        }
+      }
+    },
+    "character": {
+      "id": 278257,
+      "url": "http://www.tvmaze.com/characters/278257/les-mysteres-de-lamour-angele",
+      "name": "Angèle",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137544.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137544.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278257"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129527,
+      "url": "http://www.tvmaze.com/people/129527/isabelle-bouysse",
+      "name": "Isabelle Bouysse",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": "1970-11-23",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139131.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139131.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129527"
+        }
+      }
+    },
+    "character": {
+      "id": 278246,
+      "url": "http://www.tvmaze.com/characters/278246/les-mysteres-de-lamour-jeanne-garnier",
+      "name": "Jeanne Garnier",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137533.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137533.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278246"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129538,
+      "url": "http://www.tvmaze.com/people/129538/carole-dechantre",
+      "name": "Carole Dechantre",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139147.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139147.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129538"
+        }
+      }
+    },
+    "character": {
+      "id": 278258,
+      "url": "http://www.tvmaze.com/characters/278258/les-mysteres-de-lamour-ingrid-soustal",
+      "name": "Ingrid Soustal",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137545.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137545.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278258"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129528,
+      "url": "http://www.tvmaze.com/people/129528/serge-gisquiere",
+      "name": "Serge Gisquière",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": "1964-10-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139146.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139146.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129528"
+        }
+      }
+    },
+    "character": {
+      "id": 278247,
+      "url": "http://www.tvmaze.com/characters/278247/les-mysteres-de-lamour-peter-watson",
+      "name": "Peter Watson",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137534.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137534.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278247"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 129539,
+      "url": "http://www.tvmaze.com/people/129539/sebastien-roch",
+      "name": "Sébastien Roch",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": "1972-12-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139150.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139150.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129539"
+        }
+      }
+    },
+    "character": {
+      "id": 278259,
+      "url": "http://www.tvmaze.com/characters/278259/les-mysteres-de-lamour-christian-roquier",
+      "name": "Christian Roquier",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/137546.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/137546.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/278259"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

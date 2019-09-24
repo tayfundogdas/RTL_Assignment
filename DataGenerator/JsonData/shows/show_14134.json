@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 132103,
+      "url": "http://www.tvmaze.com/people/132103/tom-egbers",
+      "name": "Tom Egbers",
+      "country": {
+        "name": "Netherlands",
+        "code": "NL",
+        "timezone": "Europe/Amsterdam"
+      },
+      "birthday": "1957-10-18",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/207/517600.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/207/517600.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/132103"
+        }
+      }
+    },
+    "character": {
+      "id": 648290,
+      "url": "http://www.tvmaze.com/characters/648290/nos-studio-voetbal-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/648290"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

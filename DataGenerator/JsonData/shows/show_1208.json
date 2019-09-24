@@ -1,0 +1,319 @@
+[
+  {
+    "person": {
+      "id": 225233,
+      "url": "http://www.tvmaze.com/people/225233/bam-bam-brown",
+      "name": "Bam Bam Brown",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225233"
+        }
+      }
+    },
+    "character": {
+      "id": 588834,
+      "url": "http://www.tvmaze.com/characters/588834/alaskan-bush-people-bam-bam-brown",
+      "name": "Bam Bam Brown",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452392.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452392.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588834"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 225234,
+      "url": "http://www.tvmaze.com/people/225234/bear-brown",
+      "name": "Bear Brown",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225234"
+        }
+      }
+    },
+    "character": {
+      "id": 588835,
+      "url": "http://www.tvmaze.com/characters/588835/alaskan-bush-people-bear-brown",
+      "name": "Bear Brown",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452393.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452393.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588835"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 225235,
+      "url": "http://www.tvmaze.com/people/225235/raindrop-brown",
+      "name": "Raindrop Brown",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225235"
+        }
+      }
+    },
+    "character": {
+      "id": 588836,
+      "url": "http://www.tvmaze.com/characters/588836/alaskan-bush-people-raindrop-brown",
+      "name": "Raindrop Brown",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452398.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452398.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588836"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 73305,
+      "url": "http://www.tvmaze.com/people/73305/bill-brown",
+      "name": "Bill Brown",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/120/300433.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/120/300433.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/73305"
+        }
+      }
+    },
+    "character": {
+      "id": 380291,
+      "url": "http://www.tvmaze.com/characters/380291/alaskan-bush-people-bill-brown",
+      "name": "Bill Brown",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/380291"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 163176,
+      "url": "http://www.tvmaze.com/people/163176/gabe-brown",
+      "name": "Gabe Brown",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1989-12-15",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/120/300425.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/120/300425.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/163176"
+        }
+      }
+    },
+    "character": {
+      "id": 380293,
+      "url": "http://www.tvmaze.com/characters/380293/alaskan-bush-people-gabe-brown",
+      "name": "Gabe Brown",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452394.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452394.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/380293"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 163177,
+      "url": "http://www.tvmaze.com/people/163177/noah-brown",
+      "name": "Noah Brown",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/120/300420.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/120/300420.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/163177"
+        }
+      }
+    },
+    "character": {
+      "id": 380296,
+      "url": "http://www.tvmaze.com/characters/380296/alaskan-bush-people-noah-brown",
+      "name": "Noah Brown",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452395.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452395.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/380296"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 163178,
+      "url": "http://www.tvmaze.com/people/163178/snowbird-brown",
+      "name": "Snowbird Brown",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1994-11-18",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/120/300416.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/120/300416.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/163178"
+        }
+      }
+    },
+    "character": {
+      "id": 380297,
+      "url": "http://www.tvmaze.com/characters/380297/alaskan-bush-people-snowbird-brown",
+      "name": "Snowbird Brown",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452397.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452397.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/380297"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 163180,
+      "url": "http://www.tvmaze.com/people/163180/ami-brown",
+      "name": "Ami Brown",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/120/300408.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/120/300408.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/163180"
+        }
+      }
+    },
+    "character": {
+      "id": 380306,
+      "url": "http://www.tvmaze.com/characters/380306/alaskan-bush-people-ami-brown",
+      "name": "Ami Brown",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452390.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452390.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/380306"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 225232,
+      "url": "http://www.tvmaze.com/people/225232/matt-brown",
+      "name": "Matt Brown",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/225232"
+        }
+      }
+    },
+    "character": {
+      "id": 588833,
+      "url": "http://www.tvmaze.com/characters/588833/alaskan-bush-people-matt-brown",
+      "name": "Matt Brown",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/180/452391.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/180/452391.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/588833"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

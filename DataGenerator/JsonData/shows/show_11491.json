@@ -1,0 +1,42 @@
+[
+  {
+    "person": {
+      "id": 30888,
+      "url": "http://www.tvmaze.com/people/30888/michael-strahan",
+      "name": "Michael Strahan",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1971-11-21",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/181/453010.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/181/453010.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/30888"
+        }
+      }
+    },
+    "character": {
+      "id": 228523,
+      "url": "http://www.tvmaze.com/characters/228523/the-100000-pyramid-host",
+      "name": "Host",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/64/161531.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/64/161531.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/228523"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

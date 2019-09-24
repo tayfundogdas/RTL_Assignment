@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 186196,
+      "url": "http://www.tvmaze.com/people/186196/kamal-hassan",
+      "name": "Kamal Hassan",
+      "country": {
+        "name": "India",
+        "code": "IN",
+        "timezone": "Asia/Kolkata"
+      },
+      "birthday": "1954-11-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/158/397397.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/158/397397.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/186196"
+        }
+      }
+    },
+    "character": {
+      "id": 455275,
+      "url": "http://www.tvmaze.com/characters/455275/bigg-boss-tamil-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/455275"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

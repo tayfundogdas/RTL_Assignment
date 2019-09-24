@@ -1,0 +1,42 @@
+[
+  {
+    "person": {
+      "id": 64850,
+      "url": "http://www.tvmaze.com/people/64850/phillip-schofield",
+      "name": "Phillip Schofield",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1962-04-01",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/29/72608.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/29/72608.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64850"
+        }
+      }
+    },
+    "character": {
+      "id": 425386,
+      "url": "http://www.tvmaze.com/characters/425386/5-gold-rings-presenter",
+      "name": "Presenter",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/199/499928.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/199/499928.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/425386"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

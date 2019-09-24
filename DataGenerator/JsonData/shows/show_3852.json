@@ -1,0 +1,567 @@
+[
+  {
+    "person": {
+      "id": 87583,
+      "url": "http://www.tvmaze.com/people/87583/daniel-dziorek",
+      "name": "Daniel Dziorek",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87583"
+        }
+      }
+    },
+    "character": {
+      "id": 174451,
+      "url": "http://www.tvmaze.com/characters/174451/rodzinkapl-bolo",
+      "name": "Bolo",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174451"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87584,
+      "url": "http://www.tvmaze.com/people/87584/jan-raubo",
+      "name": "Jan Raubo",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87584"
+        }
+      }
+    },
+    "character": {
+      "id": 174452,
+      "url": "http://www.tvmaze.com/characters/174452/rodzinkapl-maciek",
+      "name": "Maciek",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174452"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87585,
+      "url": "http://www.tvmaze.com/people/87585/julia-wieniawa-narkiewicz",
+      "name": "Julia Wieniawa-Narkiewicz",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87585"
+        }
+      }
+    },
+    "character": {
+      "id": 174453,
+      "url": "http://www.tvmaze.com/characters/174453/rodzinkapl-paula",
+      "name": "Paula",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174453"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87576,
+      "url": "http://www.tvmaze.com/people/87576/jacek-braciak",
+      "name": "Jacek Braciak",
+      "country": {
+        "name": "Poland",
+        "code": "PL",
+        "timezone": "Europe/Warsaw"
+      },
+      "birthday": "1968-05-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/51035.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/51035.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87576"
+        }
+      }
+    },
+    "character": {
+      "id": 174444,
+      "url": "http://www.tvmaze.com/characters/174444/rodzinkapl-marek-nawrocki",
+      "name": "Marek Nawrocki",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174444"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87632,
+      "url": "http://www.tvmaze.com/people/87632/agata-kulesza",
+      "name": "Agata Kulesza",
+      "country": {
+        "name": "Poland",
+        "code": "PL",
+        "timezone": "Europe/Warsaw"
+      },
+      "birthday": "1971-09-27",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/51283.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/51283.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87632"
+        }
+      }
+    },
+    "character": {
+      "id": 174442,
+      "url": "http://www.tvmaze.com/characters/174442/rodzinkapl-marysia",
+      "name": "Marysia",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174442"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87577,
+      "url": "http://www.tvmaze.com/people/87577/olga-kalicka",
+      "name": "Olga Kalicka",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/51039.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/51039.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87577"
+        }
+      }
+    },
+    "character": {
+      "id": 174445,
+      "url": "http://www.tvmaze.com/characters/174445/rodzinkapl-magda",
+      "name": "Magda",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174445"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87580,
+      "url": "http://www.tvmaze.com/people/87580/wiktoria-gasiewska",
+      "name": "Wiktoria Gąsiewska",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/51041.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/51041.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87580"
+        }
+      }
+    },
+    "character": {
+      "id": 174448,
+      "url": "http://www.tvmaze.com/characters/174448/rodzinkapl-agata-matuszkiewicz",
+      "name": "Agata Matuszkiewicz",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174448"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 86051,
+      "url": "http://www.tvmaze.com/people/86051/mateusz-pawlowski",
+      "name": "Mateusz Pawłowski",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/86051"
+        }
+      }
+    },
+    "character": {
+      "id": 170796,
+      "url": "http://www.tvmaze.com/characters/170796/rodzinkapl-kacper-boski",
+      "name": "Kacper Boski",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/19/48325.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/48325.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/170796"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 86052,
+      "url": "http://www.tvmaze.com/people/86052/adam-zdrojkowski",
+      "name": "Adam Zdrójkowski",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/86052"
+        }
+      }
+    },
+    "character": {
+      "id": 170797,
+      "url": "http://www.tvmaze.com/characters/170797/rodzinkapl-kuba-boski",
+      "name": "Kuba Boski",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/19/48326.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/48326.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/170797"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 86053,
+      "url": "http://www.tvmaze.com/people/86053/maciej-musial",
+      "name": "Maciej Musiał",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/22/56811.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/22/56811.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/86053"
+        }
+      }
+    },
+    "character": {
+      "id": 170798,
+      "url": "http://www.tvmaze.com/characters/170798/rodzinkapl-tomek-boski",
+      "name": "Tomek Boski",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/19/48327.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/48327.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/170798"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 86049,
+      "url": "http://www.tvmaze.com/people/86049/malgorzata-kozuchowska",
+      "name": "Małgorzata Kożuchowska",
+      "country": {
+        "name": "Poland",
+        "code": "PL",
+        "timezone": "Europe/Warsaw"
+      },
+      "birthday": "1971-04-27",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/23/58609.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/23/58609.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/86049"
+        }
+      }
+    },
+    "character": {
+      "id": 170794,
+      "url": "http://www.tvmaze.com/characters/170794/rodzinkapl-natalia-boska",
+      "name": "Natalia Boska",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/19/48323.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/48323.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/170794"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 86050,
+      "url": "http://www.tvmaze.com/people/86050/tomasz-karolak",
+      "name": "Tomasz Karolak",
+      "country": {
+        "name": "Poland",
+        "code": "PL",
+        "timezone": "Europe/Warsaw"
+      },
+      "birthday": "1971-06-21",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/52164.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/52164.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/86050"
+        }
+      }
+    },
+    "character": {
+      "id": 170795,
+      "url": "http://www.tvmaze.com/characters/170795/rodzinkapl-ludwik-boski",
+      "name": "Ludwik Boski",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/19/48324.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/48324.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/170795"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87586,
+      "url": "http://www.tvmaze.com/people/87586/witold-sosulski",
+      "name": "Witold Sosulski",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87586"
+        }
+      }
+    },
+    "character": {
+      "id": 174454,
+      "url": "http://www.tvmaze.com/characters/174454/rodzinkapl-antek",
+      "name": "Antek",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174454"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87578,
+      "url": "http://www.tvmaze.com/people/87578/halina-skoczynska",
+      "name": "Halina Skoczyńska",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/20/51040.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/20/51040.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87578"
+        }
+      }
+    },
+    "character": {
+      "id": 174446,
+      "url": "http://www.tvmaze.com/characters/174446/rodzinkapl-janina-lipska",
+      "name": "Janina Lipska",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174446"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87579,
+      "url": "http://www.tvmaze.com/people/87579/michal-grudzinski",
+      "name": "Michał Grudziński",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87579"
+        }
+      }
+    },
+    "character": {
+      "id": 174447,
+      "url": "http://www.tvmaze.com/characters/174447/rodzinkapl-zenon-lipski",
+      "name": "Zenon Lipski",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174447"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87581,
+      "url": "http://www.tvmaze.com/people/87581/adam-sikora",
+      "name": "Adam Sikora",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87581"
+        }
+      }
+    },
+    "character": {
+      "id": 174449,
+      "url": "http://www.tvmaze.com/characters/174449/rodzinkapl-filip",
+      "name": "Filip",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174449"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 87582,
+      "url": "http://www.tvmaze.com/people/87582/emilia-dankwa",
+      "name": "Emilia Dankwa",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/87582"
+        }
+      }
+    },
+    "character": {
+      "id": 174450,
+      "url": "http://www.tvmaze.com/characters/174450/rodzinkapl-zosia-zalewska",
+      "name": "Zosia Zalewska",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/174450"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

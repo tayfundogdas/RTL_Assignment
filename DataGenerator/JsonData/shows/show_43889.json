@@ -1,0 +1,69 @@
+[
+  {
+    "person": {
+      "id": 92135,
+      "url": "http://www.tvmaze.com/people/92135/zoe-marchal",
+      "name": "Zoé Marchal",
+      "country": {
+        "name": "France",
+        "code": "FR",
+        "timezone": "Europe/Paris"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/60/150481.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/60/150481.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/92135"
+        }
+      }
+    },
+    "character": {
+      "id": 658059,
+      "url": "http://www.tvmaze.com/characters/658059/close-up-zoe",
+      "name": "Zoé",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/658059"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 245890,
+      "url": "http://www.tvmaze.com/people/245890/faustine-koziel",
+      "name": "Faustine Koziel",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/245890"
+        }
+      }
+    },
+    "character": {
+      "id": 658060,
+      "url": "http://www.tvmaze.com/characters/658060/close-up-faustine",
+      "name": "Faustine",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/658060"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

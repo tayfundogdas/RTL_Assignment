@@ -1,0 +1,35 @@
+[
+  {
+    "person": {
+      "id": 208422,
+      "url": "http://www.tvmaze.com/people/208422/molly-yeh",
+      "name": "Molly Yeh",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/155/389606.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/155/389606.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/208422"
+        }
+      }
+    },
+    "character": {
+      "id": 633476,
+      "url": "http://www.tvmaze.com/characters/633476/girl-meets-farm-molly-yeh",
+      "name": "Molly Yeh",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/633476"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

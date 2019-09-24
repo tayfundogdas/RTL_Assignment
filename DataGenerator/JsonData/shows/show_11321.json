@@ -1,0 +1,158 @@
+[
+  {
+    "person": {
+      "id": 112742,
+      "url": "http://www.tvmaze.com/people/112742/serafima-zolotareva",
+      "name": "Серафима Золотарева",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1962-03-05",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/99156.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/99156.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/112742"
+        }
+      }
+    },
+    "character": {
+      "id": 230894,
+      "url": "http://www.tvmaze.com/characters/230894/gadalka-serafima-zolotareva-gadalka-vedusaa",
+      "name": "Серафима Золотарева, гадалка, ведущая",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/99158.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/99158.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/230894"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 112744,
+      "url": "http://www.tvmaze.com/people/112744/viktoria-zeleznova",
+      "name": "Виктория Железнова",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/99162.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/99162.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/112744"
+        }
+      }
+    },
+    "character": {
+      "id": 230895,
+      "url": "http://www.tvmaze.com/characters/230895/gadalka-viktoria-zeleznova-gadalka-vedusaa",
+      "name": "Виктория Железнова, гадалка, ведущая",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/99164.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/99164.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/230895"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 112737,
+      "url": "http://www.tvmaze.com/people/112737/dara-mironova",
+      "name": "Дарья Миронова",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1979-09-21",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/99143.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/99143.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/112737"
+        }
+      }
+    },
+    "character": {
+      "id": 230888,
+      "url": "http://www.tvmaze.com/characters/230888/gadalka-dara-mironova-gadalka-vedusaa",
+      "name": "Дарья Миронова, гадалка, ведущая",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/99141.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/99141.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/230888"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 112738,
+      "url": "http://www.tvmaze.com/people/112738/taisia-nedzveckaa",
+      "name": "Таисия Недзвецкая",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1972-06-15",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/99146.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/99146.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/112738"
+        }
+      }
+    },
+    "character": {
+      "id": 230890,
+      "url": "http://www.tvmaze.com/characters/230890/gadalka-taisia-nedzveckaa-gadalka-vedusaa",
+      "name": "Таисия Недзвецкая, гадалка, ведущая",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/39/99149.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/39/99149.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/230890"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

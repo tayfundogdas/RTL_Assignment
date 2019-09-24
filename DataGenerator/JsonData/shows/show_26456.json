@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 245836,
+      "url": "http://www.tvmaze.com/people/245836/andras-svaby",
+      "name": "András Sváby",
+      "country": {
+        "name": "Hungary",
+        "code": "HU",
+        "timezone": "Europe/Budapest"
+      },
+      "birthday": "1967-10-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/211/528733.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/211/528733.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/245836"
+        }
+      }
+    },
+    "character": {
+      "id": 657908,
+      "url": "http://www.tvmaze.com/characters/657908/heti-naplo-svaby-andrassal-presenter",
+      "name": "Presenter",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/657908"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

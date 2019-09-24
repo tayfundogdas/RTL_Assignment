@@ -1,0 +1,76 @@
+[
+  {
+    "person": {
+      "id": 126651,
+      "url": "http://www.tvmaze.com/people/126651/troy-roberts",
+      "name": "Troy Roberts",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1962-09-09",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/55/139066.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/55/139066.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/126651"
+        }
+      }
+    },
+    "character": {
+      "id": 638916,
+      "url": "http://www.tvmaze.com/characters/638916/killer-motive-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/638916"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 239222,
+      "url": "http://www.tvmaze.com/people/239222/stephanie-gosk",
+      "name": "Stephanie Gosk",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1972-04-17",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/203/508775.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/203/508775.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/239222"
+        }
+      }
+    },
+    "character": {
+      "id": 638915,
+      "url": "http://www.tvmaze.com/characters/638915/killer-motive-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/638915"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "person": {
+      "id": 106168,
+      "url": "http://www.tvmaze.com/people/106168/timur-karginov",
+      "name": "Тимур Каргинов",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1984-06-06",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/34/85429.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/34/85429.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/106168"
+        }
+      }
+    },
+    "character": {
+      "id": 214578,
+      "url": "http://www.tvmaze.com/characters/214578/stand-up-timur-karginov",
+      "name": "Тимур Каргинов",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/214578"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 106169,
+      "url": "http://www.tvmaze.com/people/106169/stas-starovojtov",
+      "name": "Стас Старовойтов",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1982-10-11",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/34/85430.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/34/85430.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/106169"
+        }
+      }
+    },
+    "character": {
+      "id": 214579,
+      "url": "http://www.tvmaze.com/characters/214579/stand-up-stas-starovojtov",
+      "name": "Стас Старовойтов",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/214579"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 106166,
+      "url": "http://www.tvmaze.com/people/106166/ruslan-belyj",
+      "name": "Руслан Белый",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1979-12-28",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/34/85426.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/34/85426.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/106166"
+        }
+      }
+    },
+    "character": {
+      "id": 214575,
+      "url": "http://www.tvmaze.com/characters/214575/stand-up-ruslan-belyj",
+      "name": "Руслан Белый",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/214575"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 106167,
+      "url": "http://www.tvmaze.com/people/106167/ula-ahmedova",
+      "name": "Юля Ахмедова",
+      "country": {
+        "name": "Russian Federation",
+        "code": "RU",
+        "timezone": "Asia/Kamchatka"
+      },
+      "birthday": "1982-11-28",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/34/85427.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/34/85427.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/106167"
+        }
+      }
+    },
+    "character": {
+      "id": 214577,
+      "url": "http://www.tvmaze.com/characters/214577/stand-up-ula-ahmedova",
+      "name": "Юля Ахмедова",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/214577"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "person": {
+      "id": 5947,
+      "url": "http://www.tvmaze.com/people/5947/rob-corddry",
+      "name": "Rob Corddry",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1971-02-04",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30856.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30856.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5947"
+        }
+      }
+    },
+    "character": {
+      "id": 109501,
+      "url": "http://www.tvmaze.com/characters/109501/ballers-joe-krutel",
+      "name": "Joe Krutel",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/32563.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/32563.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/109501"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 47332,
+      "url": "http://www.tvmaze.com/people/47332/dwayne-johnson",
+      "name": "Dwayne Johnson",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1972-05-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/11/29580.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/11/29580.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/47332"
+        }
+      }
+    },
+    "character": {
+      "id": 109493,
+      "url": "http://www.tvmaze.com/characters/109493/ballers-spencer-strasmore",
+      "name": "Spencer Strasmore",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/32562.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/32562.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/109493"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 59771,
+      "url": "http://www.tvmaze.com/people/59771/john-david-washington",
+      "name": "John David Washington",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1984-07-28",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/163/409252.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/163/409252.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/59771"
+        }
+      }
+    },
+    "character": {
+      "id": 109498,
+      "url": "http://www.tvmaze.com/characters/109498/ballers-ricky-jerret",
+      "name": "Ricky Jerret",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/32568.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/32568.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/109498"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 22994,
+      "url": "http://www.tvmaze.com/people/22994/omar-benson-miller",
+      "name": "Omar Benson Miller",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1978-10-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/5/13903.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/5/13903.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/22994"
+        }
+      }
+    },
+    "character": {
+      "id": 109500,
+      "url": "http://www.tvmaze.com/characters/109500/ballers-charles-greane",
+      "name": "Charles Greane",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/32566.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/32566.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/109500"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 142409,
+      "url": "http://www.tvmaze.com/people/142409/london-brown",
+      "name": "London Brown",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1981-05-14",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/71/179564.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/71/179564.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/142409"
+        }
+      }
+    },
+    "character": {
+      "id": 317291,
+      "url": "http://www.tvmaze.com/characters/317291/ballers-reggie",
+      "name": "Reggie",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/71/179555.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/71/179555.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/317291"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 59770,
+      "url": "http://www.tvmaze.com/people/59770/donovan-carter",
+      "name": "Donovan Carter",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30852.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30852.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/59770"
+        }
+      }
+    },
+    "character": {
+      "id": 109496,
+      "url": "http://www.tvmaze.com/characters/109496/ballers-vernon-littlefield",
+      "name": "Vernon Littlefield",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/32565.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/32565.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/109496"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 5244,
+      "url": "http://www.tvmaze.com/people/5244/troy-garity",
+      "name": "Troy Garity",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1973-07-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30860.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30860.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5244"
+        }
+      }
+    },
+    "character": {
+      "id": 109504,
+      "url": "http://www.tvmaze.com/characters/109504/ballers-jason-antolotti",
+      "name": "Jason Antolotti",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/32564.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/32564.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/109504"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 32066,
+      "url": "http://www.tvmaze.com/people/32066/jazmyn-simon",
+      "name": "Jazmyn Simon",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1980-12-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/12/30854.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/30854.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/32066"
+        }
+      }
+    },
+    "character": {
+      "id": 109497,
+      "url": "http://www.tvmaze.com/characters/109497/ballers-julie-green",
+      "name": "Julie Green",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/13/32567.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/32567.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/109497"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 5557,
+      "url": "http://www.tvmaze.com/people/5557/arielle-kebbel",
+      "name": "Arielle Kebbel",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1985-02-19",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8369.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8369.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5557"
+        }
+      }
+    },
+    "character": {
+      "id": 317293,
+      "url": "http://www.tvmaze.com/characters/317293/ballers-tracy-legette",
+      "name": "Tracy Legette",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/71/179554.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/71/179554.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/317293"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 183972,
+      "url": "http://www.tvmaze.com/people/183972/brittany-s-hall",
+      "name": "Brittany S. Hall",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1987-09-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/146/365580.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/146/365580.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/183972"
+        }
+      }
+    },
+    "character": {
+      "id": 447775,
+      "url": "http://www.tvmaze.com/characters/447775/ballers-amber-kelley",
+      "name": "Amber Kelley",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/209/523808.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/209/523808.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/447775"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

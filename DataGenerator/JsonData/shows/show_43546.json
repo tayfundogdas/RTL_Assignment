@@ -1,0 +1,187 @@
+[
+  {
+    "person": {
+      "id": 245727,
+      "url": "http://www.tvmaze.com/people/245727/tamas-horvath",
+      "name": "Tamás Horváth",
+      "country": {
+        "name": "Hungary",
+        "code": "HU",
+        "timezone": "Europe/Budapest"
+      },
+      "birthday": "1992-03-21",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/211/528367.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/211/528367.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/245727"
+        }
+      }
+    },
+    "character": {
+      "id": 657682,
+      "url": "http://www.tvmaze.com/characters/657682/sztarban-sztar-leszek-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/657682"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 94008,
+      "url": "http://www.tvmaze.com/people/94008/zoltan-bereczki",
+      "name": "Zoltán Bereczki",
+      "country": {
+        "name": "Hungary",
+        "code": "HU",
+        "timezone": "Europe/Budapest"
+      },
+      "birthday": "1976-05-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/211/528365.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/211/528365.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/94008"
+        }
+      }
+    },
+    "character": {
+      "id": 657682,
+      "url": "http://www.tvmaze.com/characters/657682/sztarban-sztar-leszek-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/657682"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 94536,
+      "url": "http://www.tvmaze.com/people/94536/gabi-toth",
+      "name": "Gabi Tóth",
+      "country": {
+        "name": "Hungary",
+        "code": "HU",
+        "timezone": "Europe/Budapest"
+      },
+      "birthday": "1988-01-17",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/25/64204.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/25/64204.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/94536"
+        }
+      }
+    },
+    "character": {
+      "id": 657682,
+      "url": "http://www.tvmaze.com/characters/657682/sztarban-sztar-leszek-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/657682"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 245725,
+      "url": "http://www.tvmaze.com/people/245725/joci-papai",
+      "name": "Joci Pápai",
+      "country": {
+        "name": "Hungary",
+        "code": "HU",
+        "timezone": "Europe/Budapest"
+      },
+      "birthday": "1981-09-22",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/211/528366.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/211/528366.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/245725"
+        }
+      }
+    },
+    "character": {
+      "id": 657682,
+      "url": "http://www.tvmaze.com/characters/657682/sztarban-sztar-leszek-judge",
+      "name": "Judge",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/657682"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 94004,
+      "url": "http://www.tvmaze.com/people/94004/attila-till",
+      "name": "Attila Till",
+      "country": {
+        "name": "Hungary",
+        "code": "HU",
+        "timezone": "Europe/Budapest"
+      },
+      "birthday": "1971-12-03",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/211/528364.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/211/528364.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/94004"
+        }
+      }
+    },
+    "character": {
+      "id": 657681,
+      "url": "http://www.tvmaze.com/characters/657681/sztarban-sztar-leszek-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/657681"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

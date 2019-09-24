@@ -1,0 +1,242 @@
+[
+  {
+    "person": {
+      "id": 84162,
+      "url": "http://www.tvmaze.com/people/84162/im-si-wan",
+      "name": "Im Si Wan",
+      "country": {
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "timezone": "Asia/Seoul"
+      },
+      "birthday": "1988-12-01",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/17/43244.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/17/43244.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/84162"
+        }
+      }
+    },
+    "character": {
+      "id": 591150,
+      "url": "http://www.tvmaze.com/characters/591150/strangers-from-hell-yoon-jong-woo",
+      "name": "Yoon Jong Woo",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/207/519108.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/207/519108.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/591150"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 84383,
+      "url": "http://www.tvmaze.com/people/84383/lee-dong-wook",
+      "name": "Lee Dong Wook",
+      "country": {
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "timezone": "Asia/Seoul"
+      },
+      "birthday": "1981-11-06",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/18/45462.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/18/45462.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/84383"
+        }
+      }
+    },
+    "character": {
+      "id": 641402,
+      "url": "http://www.tvmaze.com/characters/641402/strangers-from-hell-seo-moon-jo",
+      "name": "Seo Moon Jo",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/207/519109.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/207/519109.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/641402"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 123588,
+      "url": "http://www.tvmaze.com/people/123588/lee-jung-eun",
+      "name": "Lee Jung Eun",
+      "country": {
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "timezone": "Asia/Seoul"
+      },
+      "birthday": "1970-01-23",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/50/125140.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/50/125140.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/123588"
+        }
+      }
+    },
+    "character": {
+      "id": 649423,
+      "url": "http://www.tvmaze.com/characters/649423/strangers-from-hell-uhm-bok-soon",
+      "name": "Uhm Bok Soon",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/207/519110.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/207/519110.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/649423"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 150813,
+      "url": "http://www.tvmaze.com/people/150813/park-jong-hwan",
+      "name": "Park Jong Hwan",
+      "country": {
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "timezone": "Asia/Seoul"
+      },
+      "birthday": "1982-09-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/82/206919.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/82/206919.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/150813"
+        }
+      }
+    },
+    "character": {
+      "id": 649425,
+      "url": "http://www.tvmaze.com/characters/649425/strangers-from-hell-byun-deuk-jong",
+      "name": "Byun Deuk Jong",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/207/519113.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/207/519113.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/649425"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 242909,
+      "url": "http://www.tvmaze.com/people/242909/lee-joong-ok",
+      "name": "Lee Joong Ok",
+      "country": {
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "timezone": "Asia/Seoul"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/207/519111.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/207/519111.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/242909"
+        }
+      }
+    },
+    "character": {
+      "id": 649424,
+      "url": "http://www.tvmaze.com/characters/649424/strangers-from-hell-hong-nam-bok",
+      "name": "Hong Nam Bok",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/207/519112.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/207/519112.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/649424"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 242910,
+      "url": "http://www.tvmaze.com/people/242910/lee-hyun-wook",
+      "name": "Lee Hyun Wook",
+      "country": {
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "timezone": "Asia/Seoul"
+      },
+      "birthday": "1985-06-17",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/207/519114.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/207/519114.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/242910"
+        }
+      }
+    },
+    "character": {
+      "id": 649426,
+      "url": "http://www.tvmaze.com/characters/649426/strangers-from-hell-yoo-ki-hyuk",
+      "name": "Yoo Ki Hyuk",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/207/519115.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/207/519115.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/649426"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

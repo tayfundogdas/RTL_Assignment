@@ -1,0 +1,39 @@
+[
+  {
+    "person": {
+      "id": 51746,
+      "url": "http://www.tvmaze.com/people/51746/alton-brown",
+      "name": "Alton Brown",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1962-07-30",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/513257.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/513257.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/51746"
+        }
+      }
+    },
+    "character": {
+      "id": 173882,
+      "url": "http://www.tvmaze.com/characters/173882/good-eats-alton-brown",
+      "name": "Alton Brown",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/173882"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

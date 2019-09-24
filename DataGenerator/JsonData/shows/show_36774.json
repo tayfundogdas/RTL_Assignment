@@ -1,0 +1,398 @@
+[
+  {
+    "person": {
+      "id": 82529,
+      "url": "http://www.tvmaze.com/people/82529/ryan-fletcher",
+      "name": "Ryan Fletcher",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/171/429298.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/171/429298.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/82529"
+        }
+      }
+    },
+    "character": {
+      "id": 565550,
+      "url": "http://www.tvmaze.com/characters/565550/pennyworth-wallace-dave-boy-macdougal",
+      "name": "Wallace \"Dave Boy\" MacDougal",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/514870.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/514870.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/565550"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 39041,
+      "url": "http://www.tvmaze.com/people/39041/jason-flemyng",
+      "name": "Jason Flemyng",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1966-09-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/2/7214.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/2/7214.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/39041"
+        }
+      }
+    },
+    "character": {
+      "id": 568840,
+      "url": "http://www.tvmaze.com/characters/568840/pennyworth-lord-james-harwood",
+      "name": "Lord James Harwood",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/514873.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/514873.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/568840"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 40418,
+      "url": "http://www.tvmaze.com/people/40418/dorothy-atkinson",
+      "name": "Dorothy Atkinson",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/186/466418.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/186/466418.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/40418"
+        }
+      }
+    },
+    "character": {
+      "id": 645228,
+      "url": "http://www.tvmaze.com/characters/645228/pennyworth-mary-pennyworth",
+      "name": "Mary Pennyworth",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/514622.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/514622.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/645228"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 51196,
+      "url": "http://www.tvmaze.com/people/51196/ian-puleston-davies",
+      "name": "Ian Puleston-Davies",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1958-09-06",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/186/466212.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/186/466212.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/51196"
+        }
+      }
+    },
+    "character": {
+      "id": 645229,
+      "url": "http://www.tvmaze.com/characters/645229/pennyworth-arthur-pennyworth",
+      "name": "Arthur Pennyworth",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/514623.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/514623.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/645229"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 52091,
+      "url": "http://www.tvmaze.com/people/52091/jack-bannon",
+      "name": "Jack Bannon",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/16/41028.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/16/41028.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/52091"
+        }
+      }
+    },
+    "character": {
+      "id": 565306,
+      "url": "http://www.tvmaze.com/characters/565306/pennyworth-alfred-pennyworth",
+      "name": "Alfred Pennyworth",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/514868.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/514868.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/565306"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 64612,
+      "url": "http://www.tvmaze.com/people/64612/paloma-faith",
+      "name": "Paloma Faith",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1981-07-21",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/34/86898.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/34/86898.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64612"
+        }
+      }
+    },
+    "character": {
+      "id": 566054,
+      "url": "http://www.tvmaze.com/characters/566054/pennyworth-bet-sykes",
+      "name": "Bet Sykes",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/514872.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/514872.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/566054"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 80493,
+      "url": "http://www.tvmaze.com/people/80493/hainsley-lloyd-bennett",
+      "name": "Hainsley Lloyd Bennett",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/171/429299.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/171/429299.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/80493"
+        }
+      }
+    },
+    "character": {
+      "id": 565551,
+      "url": "http://www.tvmaze.com/characters/565551/pennyworth-deon-bazza-bashford",
+      "name": "Deon \"Bazza\" Bashford",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/514871.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/514871.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/565551"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 28982,
+      "url": "http://www.tvmaze.com/people/28982/polly-walker",
+      "name": "Polly Walker",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1966-05-19",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/2/5186.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/2/5186.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/28982"
+        }
+      }
+    },
+    "character": {
+      "id": 606163,
+      "url": "http://www.tvmaze.com/characters/606163/pennyworth-peggy-sykes",
+      "name": "Peggy Sykes",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/200/502375.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/200/502375.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/606163"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 61825,
+      "url": "http://www.tvmaze.com/people/61825/ben-aldridge",
+      "name": "Ben Aldridge",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1985-11-12",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/21/54924.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/21/54924.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/61825"
+        }
+      }
+    },
+    "character": {
+      "id": 565307,
+      "url": "http://www.tvmaze.com/characters/565307/pennyworth-thomas-wayne",
+      "name": "Thomas Wayne",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/205/514869.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/205/514869.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/565307"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 231033,
+      "url": "http://www.tvmaze.com/people/231033/emma-paetz",
+      "name": "Emma Paetz",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/193/482995.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/193/482995.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/231033"
+        }
+      }
+    },
+    "character": {
+      "id": 611419,
+      "url": "http://www.tvmaze.com/characters/611419/pennyworth-martha-kane",
+      "name": "Martha Kane",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/207/518914.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/207/518914.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/611419"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

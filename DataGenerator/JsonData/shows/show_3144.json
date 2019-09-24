@@ -1,0 +1,722 @@
+[
+  {
+    "person": {
+      "id": 6127,
+      "url": "http://www.tvmaze.com/people/6127/ruth-negga",
+      "name": "Ruth Negga",
+      "country": {
+        "name": "Ethiopia",
+        "code": "ET",
+        "timezone": "Africa/Addis_Ababa"
+      },
+      "birthday": "1982-01-07",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/162/406153.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/162/406153.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/6127"
+        }
+      }
+    },
+    "character": {
+      "id": 166703,
+      "url": "http://www.tvmaze.com/characters/166703/preacher-tulip-ohare",
+      "name": "Tulip O'Hare",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/59/147764.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/59/147764.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/166703"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 40788,
+      "url": "http://www.tvmaze.com/people/40788/dominic-cooper",
+      "name": "Dominic Cooper",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1978-06-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/4/10756.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/4/10756.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/40788"
+        }
+      }
+    },
+    "character": {
+      "id": 166702,
+      "url": "http://www.tvmaze.com/characters/166702/preacher-jesse-custer",
+      "name": "Jesse Custer",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/59/147763.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/59/147763.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/166702"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 41794,
+      "url": "http://www.tvmaze.com/people/41794/joseph-gilgun",
+      "name": "Joseph Gilgun",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1984-03-09",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/160/400877.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/160/400877.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/41794"
+        }
+      }
+    },
+    "character": {
+      "id": 166704,
+      "url": "http://www.tvmaze.com/characters/166704/preacher-cassidy",
+      "name": "Cassidy",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/59/147762.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/59/147762.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/166704"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 51048,
+      "url": "http://www.tvmaze.com/people/51048/ian-colletti",
+      "name": "Ian Colletti",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/59/149899.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/59/149899.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/51048"
+        }
+      }
+    },
+    "character": {
+      "id": 166705,
+      "url": "http://www.tvmaze.com/characters/166705/preacher-eugene-arseface-root",
+      "name": "Eugene \"Arseface\" Root",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/124/311214.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/124/311214.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/166705"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 6665,
+      "url": "http://www.tvmaze.com/people/6665/graham-mctavish",
+      "name": "Graham McTavish",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1961-01-04",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/118/295938.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/118/295938.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/6665"
+        }
+      }
+    },
+    "character": {
+      "id": 294689,
+      "url": "http://www.tvmaze.com/characters/294689/preacher-the-saint-of-killers",
+      "name": "The Saint of Killers",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/118/295809.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/118/295809.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/294689"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 10968,
+      "url": "http://www.tvmaze.com/people/10968/julie-ann-emery",
+      "name": "Julie Ann Emery",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1975-01-16",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/8/21180.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/21180.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/10968"
+        }
+      }
+    },
+    "character": {
+      "id": 439164,
+      "url": "http://www.tvmaze.com/characters/439164/preacher-lara-featherstone",
+      "name": "Lara Featherstone",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/118/295638.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/118/295638.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/439164"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 55979,
+      "url": "http://www.tvmaze.com/people/55979/pip-torrens",
+      "name": "Pip Torrens",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1960-06-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/157/393988.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/157/393988.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/55979"
+        }
+      }
+    },
+    "character": {
+      "id": 439162,
+      "url": "http://www.tvmaze.com/characters/439162/preacher-klaus-helmut-starr",
+      "name": "Klaus Helmut Starr",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/118/295637.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/118/295637.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/439162"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 14399,
+      "url": "http://www.tvmaze.com/people/14399/noah-taylor",
+      "name": "Noah Taylor",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1969-09-04",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/19259.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19259.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/14399"
+        }
+      }
+    },
+    "character": {
+      "id": 441666,
+      "url": "http://www.tvmaze.com/characters/441666/preacher-adolf-hitler",
+      "name": "Adolf Hitler",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/119/298371.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/119/298371.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/441666"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 41270,
+      "url": "http://www.tvmaze.com/people/41270/malcolm-barrett",
+      "name": "Malcolm Barrett",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1980-04-22",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/7/19284.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/7/19284.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/41270"
+        }
+      }
+    },
+    "character": {
+      "id": 441634,
+      "url": "http://www.tvmaze.com/characters/441634/preacher-fj-hoover",
+      "name": "FJ Hoover",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/124/311080.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/124/311080.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/441634"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 8859,
+      "url": "http://www.tvmaze.com/people/8859/mark-harelik",
+      "name": "Mark Harelik",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1951-06-05",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/190/477248.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/190/477248.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/8859"
+        }
+      }
+    },
+    "character": {
+      "id": 312769,
+      "url": "http://www.tvmaze.com/characters/312769/preacher-god",
+      "name": "God",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/210/527091.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/210/527091.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/312769"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 16743,
+      "url": "http://www.tvmaze.com/people/16743/tyson-ritter",
+      "name": "Tyson Ritter",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1984-04-24",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/4838.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/4838.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/16743"
+        }
+      }
+    },
+    "character": {
+      "id": 458624,
+      "url": "http://www.tvmaze.com/characters/458624/preacher-humperdoo",
+      "name": "Humperdoo",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/210/527095.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/210/527095.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/458624"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 33118,
+      "url": "http://www.tvmaze.com/people/33118/tom-brooke",
+      "name": "Tom Brooke",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/8/20735.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/8/20735.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/33118"
+        }
+      }
+    },
+    "character": {
+      "id": 258691,
+      "url": "http://www.tvmaze.com/characters/258691/preacher-fiore",
+      "name": "Fiore",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/210/527092.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/210/527092.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/258691"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 22935,
+      "url": "http://www.tvmaze.com/people/22935/betty-buckley",
+      "name": "Betty Buckley",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1947-07-03",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/10/26549.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/10/26549.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/22935"
+        }
+      }
+    },
+    "character": {
+      "id": 456194,
+      "url": "http://www.tvmaze.com/characters/456194/preacher-granma",
+      "name": "Gran'ma",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/158/396008.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/158/396008.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/456194"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 16972,
+      "url": "http://www.tvmaze.com/people/16972/colin-cunningham",
+      "name": "Colin Cunningham",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1966-08-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/9917.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/9917.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/16972"
+        }
+      }
+    },
+    "character": {
+      "id": 539014,
+      "url": "http://www.tvmaze.com/characters/539014/preacher-tc",
+      "name": "T.C.",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/159/399755.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/159/399755.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/539014"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 2709,
+      "url": "http://www.tvmaze.com/people/2709/lucy-griffiths",
+      "name": "Lucy Griffiths",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1986-10-10",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/2/5779.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/2/5779.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/2709"
+        }
+      }
+    },
+    "character": {
+      "id": 166707,
+      "url": "http://www.tvmaze.com/characters/166707/preacher-emily-woodrow",
+      "name": "Emily Woodrow",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/124/311213.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/124/311213.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/166707"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 9530,
+      "url": "http://www.tvmaze.com/people/9530/w-earl-brown",
+      "name": "W. Earl Brown",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1963-09-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/182/455256.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/182/455256.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9530"
+        }
+      }
+    },
+    "character": {
+      "id": 166706,
+      "url": "http://www.tvmaze.com/characters/166706/preacher-sheriff-hugo-root",
+      "name": "Sheriff Hugo Root",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/59/147786.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/59/147786.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/166706"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 20666,
+      "url": "http://www.tvmaze.com/people/20666/derek-wilson",
+      "name": "Derek Wilson",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/48/122104.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/48/122104.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/20666"
+        }
+      }
+    },
+    "character": {
+      "id": 258693,
+      "url": "http://www.tvmaze.com/characters/258693/preacher-donnie-schenck",
+      "name": "Donnie Schenck",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/59/147769.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/59/147769.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/258693"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 18835,
+      "url": "http://www.tvmaze.com/people/18835/anatol-yusef",
+      "name": "Anatol Yusef",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "birthday": "1978-09-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/48/122103.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/48/122103.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/18835"
+        }
+      }
+    },
+    "character": {
+      "id": 258690,
+      "url": "http://www.tvmaze.com/characters/258690/preacher-deblanc",
+      "name": "DeBlanc",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/59/147787.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/59/147787.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/258690"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

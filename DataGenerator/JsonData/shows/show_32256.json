@@ -1,0 +1,38 @@
+[
+  {
+    "person": {
+      "id": 114654,
+      "url": "http://www.tvmaze.com/people/114654/creek-stewart",
+      "name": "Creek Stewart",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/41/103171.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/41/103171.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/114654"
+        }
+      }
+    },
+    "character": {
+      "id": 464935,
+      "url": "http://www.tvmaze.com/characters/464935/sos-how-to-survive-host",
+      "name": "Host",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/128/322306.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/128/322306.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/464935"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

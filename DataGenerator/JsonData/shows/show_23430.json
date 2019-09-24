@@ -1,0 +1,32 @@
+[
+  {
+    "person": {
+      "id": 64142,
+      "url": "http://www.tvmaze.com/people/64142/neil-ashton",
+      "name": "Neil Ashton",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/64142"
+        }
+      }
+    },
+    "character": {
+      "id": 633416,
+      "url": "http://www.tvmaze.com/characters/633416/the-sunday-supplement-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/633416"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]

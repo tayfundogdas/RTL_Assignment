@@ -1,0 +1,65 @@
+[
+  {
+    "person": {
+      "id": 234213,
+      "url": "http://www.tvmaze.com/people/234213/kiko-pissolato",
+      "name": "Kiko Pissolato",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/234213"
+        }
+      }
+    },
+    "character": {
+      "id": 622970,
+      "url": "http://www.tvmaze.com/characters/622970/o-doutrinador-miguel",
+      "name": "Miguel",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/622970"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 234214,
+      "url": "http://www.tvmaze.com/people/234214/ricardo-dantas",
+      "name": "Ricardo Dantas",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/194/485997.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/194/485997.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/234214"
+        }
+      }
+    },
+    "character": {
+      "id": 622971,
+      "url": "http://www.tvmaze.com/characters/622971/o-doutrinador-dantao",
+      "name": "Dantão",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/622971"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]

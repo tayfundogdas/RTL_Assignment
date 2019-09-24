@@ -1,0 +1,35 @@
+[
+  {
+    "person": {
+      "id": 96709,
+      "url": "http://www.tvmaze.com/people/96709/tom-gleisner",
+      "name": "Tom Gleisner",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/27/67668.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/27/67668.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/96709"
+        }
+      }
+    },
+    "character": {
+      "id": 289411,
+      "url": "http://www.tvmaze.com/characters/289411/have-you-been-paying-attention-host",
+      "name": "Host",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/289411"
+        }
+      }
+    },
+    "self": true,
+    "voice": false
+  }
+]
